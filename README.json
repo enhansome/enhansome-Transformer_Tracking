@@ -19,7 +19,7 @@
             "last_commit": "2026-05-30T02:29:40Z",
             "owner": "facebookresearch",
             "repo": "sam2",
-            "stars": 19694
+            "stars": 19700
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2025-01-06T00:03:01Z",
             "owner": "yformer",
             "repo": "EfficientTAM",
-            "stars": 819
+            "stars": 820
           }
         }
       ],
@@ -323,16 +323,16 @@
         },
         {
           "node_type": "item",
-          "title": "SpikeTrack (SpikeTrack: A Spike-Driven Framework for Efficient Visual Tracking) [paper",
+          "title": "UETrack (UETrack: A Unified and Efficient Framework for Single Object Tracking) [paper",
           "description": "] [code]",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-08T06:08:38Z",
-            "owner": "faicaiwawa",
-            "repo": "SpikeTrack",
-            "stars": 42
+            "last_commit": "2026-03-20T03:34:46Z",
+            "owner": "kangben258",
+            "repo": "UETrack",
+            "stars": 43
           }
         },
         {
@@ -346,21 +346,21 @@
             "last_commit": "2026-05-29T06:31:32Z",
             "owner": "AutoLab-SAI-SJTU",
             "repo": "SEATrack",
-            "stars": 41
+            "stars": 42
           }
         },
         {
           "node_type": "item",
-          "title": "UETrack (UETrack: A Unified and Efficient Framework for Single Object Tracking) [paper",
+          "title": "SpikeTrack (SpikeTrack: A Spike-Driven Framework for Efficient Visual Tracking) [paper",
           "description": "] [code]",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-20T03:34:46Z",
-            "owner": "kangben258",
-            "repo": "UETrack",
-            "stars": 41
+            "last_commit": "2026-04-08T06:08:38Z",
+            "owner": "faicaiwawa",
+            "repo": "SpikeTrack",
+            "stars": 42
           }
         },
         {
@@ -541,7 +541,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-10T08:25:57Z",
+            "last_commit": "2026-08-13T13:38:51Z",
             "owner": "983632847",
             "repo": "Awesome-Multimodal-Object-Tracking",
             "stars": 1075
@@ -828,7 +828,7 @@
             "last_commit": "2025-03-04T08:13:27Z",
             "owner": "jiawen-zhu",
             "repo": "AsymTrack",
-            "stars": 52
+            "stars": 53
           }
         },
         {
@@ -935,7 +935,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-10T08:25:57Z",
+            "last_commit": "2026-08-13T13:38:51Z",
             "owner": "983632847",
             "repo": "Awesome-Multimodal-Object-Tracking",
             "stars": 1075
@@ -1132,7 +1132,7 @@
             "last_commit": "2025-10-20T11:37:34Z",
             "owner": "MIV-XJTU",
             "repo": "ARTrack",
-            "stars": 318
+            "stars": 319
           }
         },
         {
@@ -1247,7 +1247,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-10T08:25:57Z",
+            "last_commit": "2026-08-13T13:38:51Z",
             "owner": "983632847",
             "repo": "Awesome-Multimodal-Object-Tracking",
             "stars": 1075
@@ -1720,7 +1720,7 @@
             "last_commit": "2025-03-04T08:14:42Z",
             "owner": "jiawen-zhu",
             "repo": "ViPT",
-            "stars": 349
+            "stars": 350
           }
         },
         {
@@ -1734,7 +1734,7 @@
             "last_commit": "2025-10-20T11:37:34Z",
             "owner": "MIV-XJTU",
             "repo": "ARTrack",
-            "stars": 318
+            "stars": 319
           }
         },
         {
@@ -1880,7 +1880,7 @@
             "last_commit": "2024-04-20T11:16:56Z",
             "owner": "MCG-NJU",
             "repo": "MixFormerV2",
-            "stars": 226
+            "stars": 227
           }
         },
         {
@@ -2708,7 +2708,7 @@
             "last_commit": "2021-06-24T05:16:58Z",
             "owner": "fzh0917",
             "repo": "STMTrack",
-            "stars": 91
+            "stars": 92
           }
         }
       ],
@@ -3037,7 +3037,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:25:39.543Z",
+    "last_updated": "2026-08-13T16:58:26.440Z",
     "original_repository": "Little-Podi/Transformer_Tracking",
     "original_repository_sha": "16cc7306a45e4c9f20c8b0b68717f1f76faea27c",
     "enhanced_repository": "enhansome/enhansome-Transformer_Tracking",
