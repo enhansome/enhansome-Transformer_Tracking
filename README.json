@@ -19,7 +19,7 @@
             "last_commit": "2026-05-30T02:29:40Z",
             "owner": "facebookresearch",
             "repo": "sam2",
-            "stars": 19700
+            "stars": 19702
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2023-12-30T03:16:06Z",
             "owner": "Little-Podi",
             "repo": "GRM",
-            "stars": 88
+            "stars": 87
           }
         }
       ],
@@ -102,7 +102,7 @@
                         "last_commit": "2026-07-26T03:33:47Z",
                         "owner": "Little-Podi",
                         "repo": "Transformer_Tracking",
-                        "stars": 390
+                        "stars": 388
                       }
                     }
                   ]
@@ -137,7 +137,7 @@
                         "last_commit": "2026-07-26T03:33:47Z",
                         "owner": "Little-Podi",
                         "repo": "Transformer_Tracking",
-                        "stars": 390
+                        "stars": 388
                       }
                     }
                   ]
@@ -158,7 +158,7 @@
                         "last_commit": "2026-07-26T03:33:47Z",
                         "owner": "Little-Podi",
                         "repo": "Transformer_Tracking",
-                        "stars": 390
+                        "stars": 388
                       }
                     }
                   ]
@@ -179,7 +179,7 @@
                         "last_commit": "2026-07-26T03:33:47Z",
                         "owner": "Little-Podi",
                         "repo": "Transformer_Tracking",
-                        "stars": 390
+                        "stars": 388
                       }
                     }
                   ]
@@ -200,7 +200,7 @@
                         "last_commit": "2026-07-26T03:33:47Z",
                         "owner": "Little-Podi",
                         "repo": "Transformer_Tracking",
-                        "stars": 390
+                        "stars": 388
                       }
                     }
                   ]
@@ -315,7 +315,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-08T08:40:18Z",
+            "last_commit": "2026-08-14T14:04:24Z",
             "owner": "IdolLab",
             "repo": "RAGTrack",
             "stars": 189
@@ -332,7 +332,7 @@
             "last_commit": "2026-03-20T03:34:46Z",
             "owner": "kangben258",
             "repo": "UETrack",
-            "stars": 43
+            "stars": 45
           }
         },
         {
@@ -597,7 +597,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-01T05:09:14Z",
+            "last_commit": "2026-08-14T07:44:30Z",
             "owner": "GXNU-ZhongLab",
             "repo": "SGLATrack",
             "stars": 103
@@ -786,7 +786,7 @@
             "last_commit": "2025-06-16T09:01:38Z",
             "owner": "chenxin-dlut",
             "repo": "SUTrack",
-            "stars": 162
+            "stars": 163
           }
         },
         {
@@ -1132,7 +1132,7 @@
             "last_commit": "2025-10-20T11:37:34Z",
             "owner": "MIV-XJTU",
             "repo": "ARTrack",
-            "stars": 319
+            "stars": 318
           }
         },
         {
@@ -1360,7 +1360,7 @@
             "last_commit": "2024-08-08T20:25:00Z",
             "owner": "visionml",
             "repo": "pytracking",
-            "stars": 3516
+            "stars": 3515
           }
         },
         {
@@ -1470,7 +1470,7 @@
             "last_commit": "2025-03-18T20:49:46Z",
             "owner": "yangchris11",
             "repo": "samurai",
-            "stars": 7107
+            "stars": 7106
           }
         },
         {
@@ -1706,7 +1706,7 @@
             "last_commit": "2024-06-03T02:11:26Z",
             "owner": "microsoft",
             "repo": "VideoX",
-            "stars": 1072
+            "stars": 1071
           }
         },
         {
@@ -1734,7 +1734,7 @@
             "last_commit": "2025-10-20T11:37:34Z",
             "owner": "MIV-XJTU",
             "repo": "ARTrack",
-            "stars": 319
+            "stars": 318
           }
         },
         {
@@ -1762,7 +1762,7 @@
             "last_commit": "2023-12-30T03:16:06Z",
             "owner": "Little-Podi",
             "repo": "GRM",
-            "stars": 88
+            "stars": 87
           }
         },
         {
@@ -1776,7 +1776,7 @@
             "last_commit": "2023-06-03T06:00:21Z",
             "owner": "lizhou-cs",
             "repo": "JointNLT",
-            "stars": 78
+            "stars": 77
           }
         },
         {
@@ -1804,7 +1804,7 @@
             "last_commit": "2023-06-15T06:10:59Z",
             "owner": "lawrence-cj",
             "repo": "ARKitTrack",
-            "stars": 49
+            "stars": 48
           }
         },
         {
@@ -1832,7 +1832,7 @@
             "last_commit": "2023-06-10T02:48:22Z",
             "owner": "difhnp",
             "repo": "MAT",
-            "stars": 19
+            "stars": 18
           }
         },
         {
@@ -2182,7 +2182,7 @@
             "last_commit": "2024-02-28T09:50:34Z",
             "owner": "MCG-NJU",
             "repo": "MixFormer",
-            "stars": 540
+            "stars": 539
           }
         },
         {
@@ -2286,7 +2286,7 @@
             "last_commit": "2024-08-08T20:25:00Z",
             "owner": "visionml",
             "repo": "pytracking",
-            "stars": 3516
+            "stars": 3515
           }
         },
         {
@@ -2300,7 +2300,7 @@
             "last_commit": "2024-02-28T09:50:34Z",
             "owner": "MCG-NJU",
             "repo": "MixFormer",
-            "stars": 540
+            "stars": 539
           }
         },
         {
@@ -2418,7 +2418,7 @@
             "last_commit": "2023-08-03T11:41:02Z",
             "owner": "botaoye",
             "repo": "OSTrack",
-            "stars": 672
+            "stars": 671
           }
         },
         {
@@ -2508,7 +2508,7 @@
             "last_commit": "2026-04-14T11:42:35Z",
             "owner": "JudasDie",
             "repo": "SOTS",
-            "stars": 519
+            "stars": 517
           }
         },
         {
@@ -2680,7 +2680,7 @@
             "last_commit": "2021-05-24T02:32:13Z",
             "owner": "594422814",
             "repo": "TransformerTrack",
-            "stars": 263
+            "stars": 262
           }
         },
         {
@@ -2742,7 +2742,7 @@
             "last_commit": "2026-04-14T11:42:35Z",
             "owner": "JudasDie",
             "repo": "SOTS",
-            "stars": 519
+            "stars": 517
           }
         },
         {
@@ -2756,7 +2756,7 @@
             "last_commit": "2022-10-11T08:14:25Z",
             "owner": "vision4robotics",
             "repo": "HiFT",
-            "stars": 87
+            "stars": 86
           }
         },
         {
@@ -3037,7 +3037,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T16:58:26.440Z",
+    "last_updated": "2026-08-14T16:56:08.396Z",
     "original_repository": "Little-Podi/Transformer_Tracking",
     "original_repository_sha": "16cc7306a45e4c9f20c8b0b68717f1f76faea27c",
     "enhanced_repository": "enhansome/enhansome-Transformer_Tracking",
