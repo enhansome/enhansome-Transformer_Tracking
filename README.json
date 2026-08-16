@@ -19,7 +19,7 @@
             "last_commit": "2026-05-30T02:29:40Z",
             "owner": "facebookresearch",
             "repo": "sam2",
-            "stars": 19702
+            "stars": 19705
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2024-10-21T06:17:43Z",
             "owner": "FoundationVision",
             "repo": "GLEE",
-            "stars": 1172
+            "stars": 1171
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-08-14T14:04:24Z",
             "owner": "IdolLab",
             "repo": "RAGTrack",
-            "stars": 191
+            "stars": 193
           }
         },
         {
@@ -544,7 +544,7 @@
             "last_commit": "2026-08-13T13:38:51Z",
             "owner": "983632847",
             "repo": "Awesome-Multimodal-Object-Tracking",
-            "stars": 1075
+            "stars": 1054
           }
         },
         {
@@ -600,7 +600,7 @@
             "last_commit": "2026-08-14T07:44:30Z",
             "owner": "GXNU-ZhongLab",
             "repo": "SGLATrack",
-            "stars": 109
+            "stars": 111
           }
         },
         {
@@ -772,7 +772,7 @@
             "last_commit": "2026-06-03T02:12:13Z",
             "owner": "IdolLab",
             "repo": "CADTrack",
-            "stars": 172
+            "stars": 175
           }
         },
         {
@@ -938,7 +938,7 @@
             "last_commit": "2026-08-13T13:38:51Z",
             "owner": "983632847",
             "repo": "Awesome-Multimodal-Object-Tracking",
-            "stars": 1075
+            "stars": 1054
           }
         },
         {
@@ -1250,7 +1250,7 @@
             "last_commit": "2026-08-13T13:38:51Z",
             "owner": "983632847",
             "repo": "Awesome-Multimodal-Object-Tracking",
-            "stars": 1075
+            "stars": 1054
           }
         },
         {
@@ -3037,7 +3037,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T16:28:14.070Z",
+    "last_updated": "2026-08-16T16:28:35.310Z",
     "original_repository": "Little-Podi/Transformer_Tracking",
     "original_repository_sha": "16cc7306a45e4c9f20c8b0b68717f1f76faea27c",
     "enhanced_repository": "enhansome/enhansome-Transformer_Tracking",
