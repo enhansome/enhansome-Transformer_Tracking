@@ -19,7 +19,7 @@
             "last_commit": "2026-05-30T02:29:40Z",
             "owner": "facebookresearch",
             "repo": "sam2",
-            "stars": 19705
+            "stars": 19710
           }
         },
         {
@@ -265,7 +265,7 @@
             "last_commit": "2025-12-13T11:02:33Z",
             "owner": "gaomingqi",
             "repo": "Track-Anything",
-            "stars": 6990
+            "stars": 6991
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-08-14T14:04:24Z",
             "owner": "IdolLab",
             "repo": "RAGTrack",
-            "stars": 193
+            "stars": 195
           }
         },
         {
@@ -388,7 +388,7 @@
             "last_commit": "2026-05-28T18:26:51Z",
             "owner": "NorahGreen",
             "repo": "DTPTrack",
-            "stars": 12
+            "stars": 13
           }
         }
       ],
@@ -600,7 +600,7 @@
             "last_commit": "2026-08-14T07:44:30Z",
             "owner": "GXNU-ZhongLab",
             "repo": "SGLATrack",
-            "stars": 111
+            "stars": 116
           }
         },
         {
@@ -772,7 +772,7 @@
             "last_commit": "2026-06-03T02:12:13Z",
             "owner": "IdolLab",
             "repo": "CADTrack",
-            "stars": 175
+            "stars": 177
           }
         },
         {
@@ -1470,7 +1470,7 @@
             "last_commit": "2025-03-18T20:49:46Z",
             "owner": "yangchris11",
             "repo": "samurai",
-            "stars": 7106
+            "stars": 7109
           }
         },
         {
@@ -3037,7 +3037,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T16:28:35.310Z",
+    "last_updated": "2026-08-17T16:30:32.649Z",
     "original_repository": "Little-Podi/Transformer_Tracking",
     "original_repository_sha": "16cc7306a45e4c9f20c8b0b68717f1f76faea27c",
     "enhanced_repository": "enhansome/enhansome-Transformer_Tracking",
