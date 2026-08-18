@@ -19,7 +19,7 @@
             "last_commit": "2026-05-30T02:29:40Z",
             "owner": "facebookresearch",
             "repo": "sam2",
-            "stars": 19710
+            "stars": 19717
           }
         },
         {
@@ -337,20 +337,6 @@
         },
         {
           "node_type": "item",
-          "title": "SEATrack (SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker) [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-29T06:31:32Z",
-            "owner": "AutoLab-SAI-SJTU",
-            "repo": "SEATrack",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
           "title": "SpikeTrack (SpikeTrack: A Spike-Driven Framework for Efficient Visual Tracking) [paper",
           "description": "] [code]",
           "children": [],
@@ -361,6 +347,20 @@
             "owner": "faicaiwawa",
             "repo": "SpikeTrack",
             "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SEATrack (SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-29T06:31:32Z",
+            "owner": "AutoLab-SAI-SJTU",
+            "repo": "SEATrack",
+            "stars": 41
           }
         },
         {
@@ -541,7 +541,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T13:38:51Z",
+            "last_commit": "2026-08-18T07:56:41Z",
             "owner": "983632847",
             "repo": "Awesome-Multimodal-Object-Tracking",
             "stars": 1054
@@ -577,6 +577,20 @@
         },
         {
           "node_type": "item",
+          "title": "SGLATrack (Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T07:44:30Z",
+            "owner": "GXNU-ZhongLab",
+            "repo": "SGLATrack",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
           "title": "ORTrack (Learning Occlusion-Robust Vision Transformers for Real-Time UAV Tracking) [paper",
           "description": "] [code]",
           "children": [],
@@ -587,20 +601,6 @@
             "owner": "wuyou3474",
             "repo": "ORTrack",
             "stars": 117
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SGLATrack (Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking) [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T07:44:30Z",
-            "owner": "GXNU-ZhongLab",
-            "repo": "SGLATrack",
-            "stars": 116
           }
         },
         {
@@ -676,7 +676,7 @@
             "last_commit": "2026-02-10T13:29:54Z",
             "owner": "Z-Z188",
             "repo": "UMDATrack",
-            "stars": 43
+            "stars": 44
           }
         },
         {
@@ -786,7 +786,7 @@
             "last_commit": "2025-06-16T09:01:38Z",
             "owner": "chenxin-dlut",
             "repo": "SUTrack",
-            "stars": 163
+            "stars": 164
           }
         },
         {
@@ -814,7 +814,7 @@
             "last_commit": "2024-12-17T07:45:19Z",
             "owner": "kangben258",
             "repo": "MCITrack",
-            "stars": 115
+            "stars": 116
           }
         },
         {
@@ -935,7 +935,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T13:38:51Z",
+            "last_commit": "2026-08-18T07:56:41Z",
             "owner": "983632847",
             "repo": "Awesome-Multimodal-Object-Tracking",
             "stars": 1054
@@ -1247,7 +1247,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T13:38:51Z",
+            "last_commit": "2026-08-18T07:56:41Z",
             "owner": "983632847",
             "repo": "Awesome-Multimodal-Object-Tracking",
             "stars": 1054
@@ -1470,7 +1470,7 @@
             "last_commit": "2025-03-18T20:49:46Z",
             "owner": "yangchris11",
             "repo": "samurai",
-            "stars": 7109
+            "stars": 7111
           }
         },
         {
@@ -1984,7 +1984,7 @@
             "last_commit": "2025-01-05T09:34:14Z",
             "owner": "dawnyc",
             "repo": "ROMTrack",
-            "stars": 48
+            "stars": 49
           }
         }
       ],
@@ -2182,7 +2182,7 @@
             "last_commit": "2024-02-28T09:50:34Z",
             "owner": "MCG-NJU",
             "repo": "MixFormer",
-            "stars": 539
+            "stars": 540
           }
         },
         {
@@ -2300,7 +2300,7 @@
             "last_commit": "2024-02-28T09:50:34Z",
             "owner": "MCG-NJU",
             "repo": "MixFormer",
-            "stars": 539
+            "stars": 540
           }
         },
         {
@@ -2418,7 +2418,7 @@
             "last_commit": "2023-08-03T11:41:02Z",
             "owner": "botaoye",
             "repo": "OSTrack",
-            "stars": 671
+            "stars": 672
           }
         },
         {
@@ -2728,7 +2728,7 @@
             "last_commit": "2024-04-13T07:02:29Z",
             "owner": "researchmm",
             "repo": "Stark",
-            "stars": 715
+            "stars": 716
           }
         },
         {
@@ -3037,7 +3037,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T16:30:32.649Z",
+    "last_updated": "2026-08-18T16:34:27.248Z",
     "original_repository": "Little-Podi/Transformer_Tracking",
     "original_repository_sha": "16cc7306a45e4c9f20c8b0b68717f1f76faea27c",
     "enhanced_repository": "enhansome/enhansome-Transformer_Tracking",
