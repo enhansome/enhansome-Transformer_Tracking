@@ -15,7 +15,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### Game Over???
 
-* **[SAM 2](https://ai.meta.com/SAM2)** \[[paper](https://arxiv.org/abs/2408.00714)] \[[code](https://github.com/facebookresearch/segment-anything-2) ⭐ 19,723 | 🐛 481 | 🌐 Jupyter Notebook | 📅 2026-05-30]
+* **[SAM 2](https://ai.meta.com/SAM2)** \[[paper](https://arxiv.org/abs/2408.00714)] \[[code](https://github.com/facebookresearch/segment-anything-2) ⭐ 19,724 | 🐛 481 | 🌐 Jupyter Notebook | 📅 2026-05-30]
 * **[EfficientTAM](https://yformer.github.io/efficient-track-anything)** \[[paper](https://arxiv.org/abs/2411.18933)] \[[code](https://github.com/yformer/EfficientTAM) ⭐ 820 | 🐛 24 | 🌐 Python | 📅 2025-01-06]
 
 ### State-of-the-Art Transformer Tracker:two\_hearts::two\_hearts::two\_hearts:
@@ -148,7 +148,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 * **GLAD** (GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates) \[[paper](https://arxiv.org/abs/2602.00570)] \[[code](https://github.com/Confetti-lxy/GLAD) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-03-14]
 * **E2EMPT** (End-to-End Unmixing with Material Prompts for Hyperspectral Object Tracking) \[[paper](https://arxiv.org/abs/2605.20569)] \[[code](https://github.com/han030927/E2EMPT) ⭐ 4 | 🐛 1 | 📅 2026-05-21]
 * **PATrack** (Learning Progressive Adaptation for Multi-Modal Tracking) \[[paper](https://arxiv.org/abs/2603.21100)] \[[code](https://github.com/ouha1998/Learning-Progressive-Adaptation-for-Multi-Modal-Tracking) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2025-07-30]
-* **VL-UniTrack** (VL-UniTrack: A Unified Framework with Visual-Language Prompts for UAV-Ground Visual Tracking) \[[paper](https://arxiv.org/abs/2605.04574)] \[[code](https://github.com/xuboyue1999/VL-UniTrack) ⭐ 0 | 🐛 0 | 📅 2026-05-06]
+* **VL-UniTrack** (VL-UniTrack: A Unified Framework with Visual-Language Prompts for UAV-Ground Visual Tracking) \[[paper](https://arxiv.org/abs/2605.04574)] \[[code](https://github.com/xuboyue1999/VL-UniTrack) ⭐ 0 | 🐛 1 | 📅 2026-05-06]
 * **Diff-Tracking** (Leveraging Text-to-Image Diffusion Models for Unsupervised Visual Object Tracking) \[[paper](https://arxiv.org/abs/2605.26933)] \[~~code~~]
 * **SDMoE** (Sparse-Dense Mixture of Experts Adapter for Multi-Modal Tracking) \[[paper](https://arxiv.org/abs/2603.13719)] \[~~code~~]
 * **UAV-Track VLA** (UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models) \[[paper](https://arxiv.org/abs/2604.02241)] \[[code](https://github.com/Hub-Tian/UAVTrack_VLA)]
