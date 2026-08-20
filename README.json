@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-30T02:29:40Z",
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19724
+                "stars": 19731
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-01-06T00:03:01Z",
                 "owner": "yformer",
                 "repo": "EfficientTAM",
-                "stars": 820
+                "stars": 821
               }
             }
           ],
@@ -337,7 +337,7 @@
                 "last_commit": "2026-08-14T14:04:24Z",
                 "owner": "IdolLab",
                 "repo": "RAGTrack",
-                "stars": 196
+                "stars": 197
               }
             },
             {
@@ -565,7 +565,7 @@
                 "archived": false,
                 "id": 802742044,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-18T07:56:41Z",
+                "last_commit": "2026-08-20T03:03:52Z",
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
                 "stars": 1054
@@ -814,7 +814,7 @@
                 "last_commit": "2026-06-03T02:12:13Z",
                 "owner": "IdolLab",
                 "repo": "CADTrack",
-                "stars": 178
+                "stars": 180
               }
             },
             {
@@ -829,7 +829,7 @@
                 "last_commit": "2025-06-16T09:01:38Z",
                 "owner": "chenxin-dlut",
                 "repo": "SUTrack",
-                "stars": 164
+                "stars": 165
               }
             },
             {
@@ -874,7 +874,7 @@
                 "last_commit": "2025-03-04T08:13:27Z",
                 "owner": "jiawen-zhu",
                 "repo": "AsymTrack",
-                "stars": 54
+                "stars": 55
               }
             },
             {
@@ -990,7 +990,7 @@
                 "archived": false,
                 "id": 802742044,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-18T07:56:41Z",
+                "last_commit": "2026-08-20T03:03:52Z",
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
                 "stars": 1054
@@ -1319,7 +1319,7 @@
                 "archived": false,
                 "id": 802742044,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-18T07:56:41Z",
+                "last_commit": "2026-08-20T03:03:52Z",
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
                 "stars": 1054
@@ -1725,7 +1725,7 @@
                 "last_commit": "2025-06-07T07:04:27Z",
                 "owner": "LiYunfengLYF",
                 "repo": "SCANet",
-                "stars": 9
+                "stars": 10
               }
             },
             {
@@ -2575,7 +2575,7 @@
                 "last_commit": "2023-08-03T11:41:02Z",
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 672
+                "stars": 675
               }
             },
             {
@@ -3249,7 +3249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T16:34:33.481Z",
+    "last_updated": "2026-08-20T16:37:58.440Z",
     "original_repository": "Little-Podi/Transformer_Tracking",
     "original_repository_id": 449138962,
     "original_repository_sha": "16cc7306a45e4c9f20c8b0b68717f1f76faea27c",
