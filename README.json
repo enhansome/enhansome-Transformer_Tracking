@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-30T02:29:40Z",
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19731
+                "stars": 19737
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-01-06T00:03:01Z",
                 "owner": "yformer",
                 "repo": "EfficientTAM",
-                "stars": 821
+                "stars": 822
               }
             }
           ],
@@ -106,7 +106,7 @@
                             "last_commit": "2026-07-26T03:33:47Z",
                             "owner": "Little-Podi",
                             "repo": "Transformer_Tracking",
-                            "stars": 389
+                            "stars": 390
                           }
                         }
                       ]
@@ -142,7 +142,7 @@
                             "last_commit": "2026-07-26T03:33:47Z",
                             "owner": "Little-Podi",
                             "repo": "Transformer_Tracking",
-                            "stars": 389
+                            "stars": 390
                           }
                         }
                       ]
@@ -164,7 +164,7 @@
                             "last_commit": "2026-07-26T03:33:47Z",
                             "owner": "Little-Podi",
                             "repo": "Transformer_Tracking",
-                            "stars": 389
+                            "stars": 390
                           }
                         }
                       ]
@@ -186,7 +186,7 @@
                             "last_commit": "2026-07-26T03:33:47Z",
                             "owner": "Little-Podi",
                             "repo": "Transformer_Tracking",
-                            "stars": 389
+                            "stars": 390
                           }
                         }
                       ]
@@ -208,7 +208,7 @@
                             "last_commit": "2026-07-26T03:33:47Z",
                             "owner": "Little-Podi",
                             "repo": "Transformer_Tracking",
-                            "stars": 389
+                            "stars": 390
                           }
                         }
                       ]
@@ -279,7 +279,7 @@
                 "last_commit": "2025-12-13T11:02:33Z",
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 6992
+                "stars": 6993
               }
             },
             {
@@ -352,7 +352,7 @@
                 "last_commit": "2026-03-20T03:34:46Z",
                 "owner": "kangben258",
                 "repo": "UETrack",
-                "stars": 45
+                "stars": 46
               }
             },
             {
@@ -565,10 +565,10 @@
                 "archived": false,
                 "id": 802742044,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-20T03:03:52Z",
+                "last_commit": "2026-08-21T08:25:39Z",
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1054
+                "stars": 1055
               }
             },
             {
@@ -643,7 +643,7 @@
                 "last_commit": "2025-05-27T11:17:22Z",
                 "owner": "q2479036243",
                 "repo": "MUST-Multispectral-UAV-Single-Object-Tracking",
-                "stars": 73
+                "stars": 74
               }
             },
             {
@@ -990,10 +990,10 @@
                 "archived": false,
                 "id": 802742044,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-20T03:03:52Z",
+                "last_commit": "2026-08-21T08:25:39Z",
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1054
+                "stars": 1055
               }
             },
             {
@@ -1319,10 +1319,10 @@
                 "archived": false,
                 "id": 802742044,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-20T03:03:52Z",
+                "last_commit": "2026-08-21T08:25:39Z",
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1054
+                "stars": 1055
               }
             },
             {
@@ -1441,7 +1441,7 @@
                 "last_commit": "2024-08-08T20:25:00Z",
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3515
+                "stars": 3514
               }
             },
             {
@@ -1560,7 +1560,7 @@
                 "last_commit": "2025-03-18T20:49:46Z",
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7111
+                "stars": 7110
               }
             },
             {
@@ -2433,7 +2433,7 @@
                 "last_commit": "2024-08-08T20:25:00Z",
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3515
+                "stars": 3514
               }
             },
             {
@@ -3249,7 +3249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T16:37:58.440Z",
+    "last_updated": "2026-08-21T16:37:38.550Z",
     "original_repository": "Little-Podi/Transformer_Tracking",
     "original_repository_id": 449138962,
     "original_repository_sha": "16cc7306a45e4c9f20c8b0b68717f1f76faea27c",
