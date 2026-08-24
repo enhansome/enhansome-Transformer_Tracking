@@ -7,8 +7,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "SAM 2 [paper",
-              "description": "] [code]",
+              "title": "SAM 2",
+              "description": "[paper] [code]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -17,13 +17,13 @@
                 "last_commit": "2026-05-30T02:29:40Z",
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19741
+                "stars": 19749
               }
             },
             {
               "node_type": "item",
-              "title": "EfficientTAM [paper",
-              "description": "] [code]",
+              "title": "EfficientTAM",
+              "description": "[paper] [code]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -76,6 +76,28 @@
           "description": null,
           "node_type": "group",
           "title": "State-of-the-Art Transformer Tracker:two_hearts::two_hearts::two_hearts:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "(Library) PyTracking: Visual Tracking Library Based on PyTorch [code",
+              "description": "]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179265268,
+                "language": "Python",
+                "last_commit": "2024-08-08T20:25:00Z",
+                "owner": "visionml",
+                "repo": "pytracking",
+                "stars": 3514
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Helpful Learning Resource for Tracking:thumbsup::thumbsup::thumbsup:"
         },
         {
           "children": [
@@ -232,6 +254,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "SAM 2++ (SAM 2++: Tracking Anything at Any Granularity) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1081275866,
+                "language": "Python",
+                "last_commit": "2025-12-15T08:37:34Z",
+                "owner": "MCG-NJU",
+                "repo": "SAM2-Plus",
+                "stars": 71
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Preprint 2025"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "GLEE (General Object Foundation Model for Images and Videos at Scale) [paper",
               "description": "] [code]",
               "children": [],
@@ -242,7 +286,7 @@
                 "last_commit": "2024-10-21T06:17:43Z",
                 "owner": "FoundationVision",
                 "repo": "GLEE",
-                "stars": 1171
+                "stars": 1170
               }
             },
             {
@@ -264,6 +308,50 @@
           "description": null,
           "node_type": "group",
           "title": "CVPR 2024"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "UNINEXT (Universal Instance Perception as Object Discovery and Retrieval) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612919129,
+                "language": "Python",
+                "last_commit": "2023-07-18T13:02:16Z",
+                "owner": "MasterBin-IIAU",
+                "repo": "UNINEXT",
+                "stars": 1278
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CVPR 2023"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MITS (Integrating Boxes and Masks: A Multi-Object Framework for Unified Visual Tracking and Segmentation) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 679745015,
+                "language": "Python",
+                "last_commit": "2024-07-25T12:06:10Z",
+                "owner": "yoxu515",
+                "repo": "MITS",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICCV 2023"
         },
         {
           "children": [
@@ -294,7 +382,7 @@
                 "last_commit": "2026-07-03T21:59:37Z",
                 "owner": "z-x-yang",
                 "repo": "Segment-and-Track-Anything",
-                "stars": 3133
+                "stars": 3134
               }
             },
             {
@@ -316,6 +404,50 @@
           "description": null,
           "node_type": "group",
           "title": "Preprint 2023"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "UTT (Unified Transformer Tracker for Object Tracking) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 475060983,
+                "language": "Python",
+                "last_commit": "2022-06-20T14:32:58Z",
+                "owner": "Flowerfan",
+                "repo": "Trackron",
+                "stars": 51
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CVPR 2022"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Unicorn (Towards Grand Unification of Object Tracking) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 514085646,
+                "language": "Python",
+                "last_commit": "2022-10-17T06:49:09Z",
+                "owner": "MasterBin-IIAU",
+                "repo": "Unicorn",
+                "stars": 951
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ECCV 2022"
         }
       ],
       "title": ":bookmark:Unified Tracking (UT)"
@@ -446,6 +578,72 @@
           "children": [
             {
               "node_type": "item",
+              "title": "RELO (RELO: Reinforcement Learning to Localize for Visual Object Tracking) [paper&review",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1211633143,
+                "language": "Python",
+                "last_commit": "2026-05-16T17:31:44Z",
+                "owner": "Multimedia-Analytics-Laboratory",
+                "repo": "RELO",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICML 2026"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GOLA (Group Orthogonal Low-Rank Adaptation for RGB-T Tracking) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1094801238,
+                "language": "Python",
+                "last_commit": "2025-12-24T02:08:40Z",
+                "owner": "MelanTech",
+                "repo": "GOLA",
+                "stars": 27
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AAAI 2026"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DPTracker (Dual Prompt-Driven Feature Encoding for Nighttime UAV Tracking) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1058332759,
+                "language": "Python",
+                "last_commit": "2026-03-17T21:50:09Z",
+                "owner": "yiheng-wang-duke",
+                "repo": "DPTracker",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICRA 2026"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "APRTrack (Active Adversarial Perturbation-Driven Associative Memory Retrieval for RGB-Event Visual Object Tracking) [paper",
               "description": "] [code]",
               "children": [],
@@ -565,10 +763,10 @@
                 "archived": false,
                 "id": 802742044,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-23T14:22:22Z",
+                "last_commit": "2026-08-24T13:05:41Z",
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1055
+                "stars": 1056
               }
             },
             {
@@ -931,6 +1129,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "GDSTrack (Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 978654130,
+                "language": "Python",
+                "last_commit": "2025-05-29T07:57:13Z",
+                "owner": "LiShenglana",
+                "repo": "GDSTrack",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IJCAI 2025"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "RSTrack (Explicit Context Reasoning with Supervision for Visual Tracking) [paper",
               "description": "] [code]",
               "children": [],
@@ -983,6 +1203,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "CGTrack (CGTrack: Cascade Gating Network with Hierarchical Feature Aggregation for UAV Tracking) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 940338600,
+                "language": null,
+                "last_commit": "2025-02-28T02:16:59Z",
+                "owner": "Nightwatch-Fox11",
+                "repo": "CGTrack",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICRA 2025"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CTVLT (Enhancing Vision-Language Tracking by Effectively Converting Textual Cues into Visual Cues) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 906871123,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-12-31T14:08:15Z",
+                "owner": "XiaokunFeng",
+                "repo": "CTVLT",
+                "stars": 19
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICASSP 2025"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "COST (COST: Contrastive One-Stage Transformer for Vision-Language Small Object Tracking) [paper",
               "description": "] [code]",
               "children": [],
@@ -990,10 +1254,10 @@
                 "archived": false,
                 "id": 802742044,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-23T14:22:22Z",
+                "last_commit": "2026-08-24T13:05:41Z",
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1055
+                "stars": 1056
               }
             },
             {
@@ -1319,10 +1583,10 @@
                 "archived": false,
                 "id": 802742044,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-23T14:22:22Z",
+                "last_commit": "2026-08-24T13:05:41Z",
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1055
+                "stars": 1056
               }
             },
             {
@@ -1359,6 +1623,50 @@
           "description": null,
           "node_type": "group",
           "title": "NeurIPS 2024"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LoRAT (Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 830255708,
+                "language": "Python",
+                "last_commit": "2026-02-06T04:47:02Z",
+                "owner": "LitingLin",
+                "repo": "LoRAT",
+                "stars": 125
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ECCV 2024"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AVTrack (Learning Adaptive and View-Invariant Vision Transformer for Real-Time UAV Tracking) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 806848286,
+                "language": "Python",
+                "last_commit": "2025-08-19T10:58:24Z",
+                "owner": "wuyou3474",
+                "repo": "AVTrack",
+                "stars": 113
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICML 2024"
         },
         {
           "children": [
@@ -1431,6 +1739,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "USTrack (Unified Single-Stage Transformer Network for Efficient RGB-T Tracking) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 789742542,
+                "language": null,
+                "last_commit": "2024-09-24T11:45:33Z",
+                "owner": "xiajianqiang",
+                "repo": "USTrack",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IJCAI 2024"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CKD (Breaking Modality Gap in RGBT Tracking: Coupled Knowledge Distillation) [paper&review",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 845440572,
+                "language": "Python",
+                "last_commit": "2024-10-16T01:47:34Z",
+                "owner": "Multi-Modality-Tracking",
+                "repo": "CKD-ACMMM2024",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MM 2024"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "TaMOs (Beyond SOT: It's Time to Track Multiple Generic Objects at Once) [paper",
               "description": "] [code]",
               "children": [],
@@ -1463,6 +1815,28 @@
           "description": null,
           "node_type": "group",
           "title": "WACV 2024"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DCPT (DCPT: Darkness Clue-Prompted Tracking in Nighttime UAVs) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 721002329,
+                "language": "Python",
+                "last_commit": "2024-03-20T01:06:22Z",
+                "owner": "bearyi26",
+                "repo": "DCPT",
+                "stars": 31
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICRA 2024"
         },
         {
           "children": [
@@ -2155,6 +2529,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "E.T.Track (Efficient Visual Tracking with Exemplar Transformers) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 538095539,
+                "language": "Python",
+                "last_commit": "2024-03-25T18:05:06Z",
+                "owner": "pblatter",
+                "repo": "ettrack",
+                "stars": 98
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "WACV 2023"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MVT (Mobile Vision Transformer-Based Visual Object Tracking) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 681699692,
+                "language": "Python",
+                "last_commit": "2024-04-23T21:51:30Z",
+                "owner": "goutamyg",
+                "repo": "MVT",
+                "stars": 28
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "BMVC 2023"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "SGDViT (SGDViT: Saliency-Guided Dynamic vision Transformer for UAV tracking) [paper",
               "description": "] [code]",
               "children": [],
@@ -2565,6 +2983,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "SwinTrack (SwinTrack: A Simple and Strong Baseline for Transformer Tracking) [paper&review",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 430340303,
+                "language": "Python",
+                "last_commit": "2022-10-18T11:13:35Z",
+                "owner": "LitingLin",
+                "repo": "SwinTrack",
+                "stars": 259
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "NeurIPS 2022"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "OSTrack (Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework) [paper",
               "description": "] [code]",
               "children": [],
@@ -2575,7 +3015,7 @@
                 "last_commit": "2023-08-03T11:41:02Z",
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 675
+                "stars": 676
               }
             },
             {
@@ -2662,6 +3102,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "APFNet (Attribute-Based Progressive Fusion Network for RGBT Tracking) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 434607972,
+                "language": null,
+                "last_commit": "2022-05-05T04:33:47Z",
+                "owner": "yangmengmeng1997",
+                "repo": "APFNet",
+                "stars": 45
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AAAI 2022"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "InMo (Learning Target-Aware Representation for Visual Tracking via Informative Interactions) [paper",
               "description": "] [code]",
               "children": [],
@@ -2694,6 +3156,94 @@
           "description": null,
           "node_type": "group",
           "title": "IJCAI 2022"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TLT (Transformer Lesion Tracker) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 508131581,
+                "language": "Python",
+                "last_commit": "2022-09-23T03:16:23Z",
+                "owner": "TangWen920812",
+                "repo": "TLT",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MICCAI 2022"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SiamTPN (Siamese Transformer Pyramid Networks for Real-Time UAV Tracking) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 416046341,
+                "language": "Python",
+                "last_commit": "2024-02-20T13:51:31Z",
+                "owner": "RISC-NYUAD",
+                "repo": "SiamTPNTracker",
+                "stars": 51
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "WACV 2022"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SCT (Tracker Meets Night: A Transformer Enhancer for UAV Tracking) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 404980811,
+                "language": "Python",
+                "last_commit": "2023-06-16T05:28:56Z",
+                "owner": "vision4robotics",
+                "repo": "SCT",
+                "stars": 60
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICRA 2022"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TAT (Temporal-Aware Siamese Tracker: Integrate Temporal Context for 3D Object Tracking) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 544744357,
+                "language": null,
+                "last_commit": "2022-11-24T06:27:48Z",
+                "owner": "tqsdyy",
+                "repo": "TAT",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ACCV 2022"
         },
         {
           "children": [
@@ -3044,6 +3594,28 @@
           "description": null,
           "node_type": "group",
           "title": "Preprint 2021"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SiamAttn (Deformable Siamese Attention Networks for Visual Object Tracking) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 350930264,
+                "language": "Python",
+                "last_commit": "2021-03-24T03:17:03Z",
+                "owner": "msight-tech",
+                "repo": "research-siamattn",
+                "stars": 48
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CVPR 2020"
         }
       ],
       "title": ":bookmark:Single Object Tracking (SOT)"
@@ -3051,6 +3623,50 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ChronoTrack (Temporally Consistent Long-Term Memory for 3D Single Object Tracking) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1203540931,
+                "language": "Python",
+                "last_commit": "2026-04-29T05:31:20Z",
+                "owner": "ujaejoon",
+                "repo": "ChronoTrack",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CVPR 2026"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SOTFormer (SOTFormer: A Minimal Transformer for Unified Object Tracking and Trajectory Prediction) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1100788745,
+                "language": "Python",
+                "last_commit": "2025-11-24T10:44:30Z",
+                "owner": "zhongpingDong12",
+                "repo": "SOTFormer",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Preprint 2025"
+        },
         {
           "children": [
             {
@@ -3087,6 +3703,28 @@
           "description": null,
           "node_type": "group",
           "title": "AAAI 2024"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SeqTrack3D (SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 762615314,
+                "language": "Python",
+                "last_commit": "2024-04-20T06:56:43Z",
+                "owner": "aron-lin",
+                "repo": "seqtrack3d",
+                "stars": 29
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICRA 2024"
         },
         {
           "children": [
@@ -3139,6 +3777,72 @@
           "description": null,
           "node_type": "group",
           "title": "Preprint 2024"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CXTrack (CXTrack: Improving 3D Point Cloud Tracking with Contextual Information) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 564176977,
+                "language": "Python",
+                "last_commit": "2023-03-09T01:10:37Z",
+                "owner": "slothfulxtx",
+                "repo": "cxtrack3d",
+                "stars": 33
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CVPR 2023"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MBPTrack (MBPTrack: Improving 3D Point Cloud Tracking with Memory Networks and Box Priors) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 609509417,
+                "language": "Python",
+                "last_commit": "2023-09-05T02:39:20Z",
+                "owner": "slothfulxtx",
+                "repo": "MBPTrack3D",
+                "stars": 30
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICCV 2023"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GLT-T (GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 614858070,
+                "language": "Python",
+                "last_commit": "2023-12-18T08:34:31Z",
+                "owner": "haooozi",
+                "repo": "GLT-T",
+                "stars": 39
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AAAI 2023"
         },
         {
           "children": [
@@ -3211,6 +3915,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "PTTR (PTTR: Relational 3D Point Cloud Object Tracking with Transformer) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 435400519,
+                "language": "Python",
+                "last_commit": "2022-12-02T04:17:01Z",
+                "owner": "Jasonkks",
+                "repo": "PTTR",
+                "stars": 139
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CVPR 2022"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "STNet (3D Siamese Transformer Network for Single Object Tracking on Point Clouds) [paper",
               "description": "] [code]",
               "children": [],
@@ -3243,13 +3969,79 @@
           "description": null,
           "node_type": "group",
           "title": "ECCV 2022"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PTTR++ (Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 435400519,
+                "language": "Python",
+                "last_commit": "2022-12-02T04:17:01Z",
+                "owner": "Jasonkks",
+                "repo": "PTTR",
+                "stars": 139
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Preprint 2022"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LTTR (3D Object Tracking with Transformer) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 418046166,
+                "language": "Python",
+                "last_commit": "2022-08-27T12:36:14Z",
+                "owner": "NEU-REAL",
+                "repo": "LTTR",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "BMVC 2021"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PTT (PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 344109156,
+                "language": "Python",
+                "last_commit": "2022-06-29T02:59:25Z",
+                "owner": "shanjiayao",
+                "repo": "PTT",
+                "stars": 91
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IROS 2021"
         }
       ],
       "title": ":bookmark:3D Single Object Tracking (3DSOT)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:28:55.678Z",
+    "last_updated": "2026-08-24T14:27:42.311Z",
     "original_repository": "Little-Podi/Transformer_Tracking",
     "original_repository_id": 449138962,
     "original_repository_sha": "16cc7306a45e4c9f20c8b0b68717f1f76faea27c",
