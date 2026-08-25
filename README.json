@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-30T02:29:40Z",
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19750
+                "stars": 19754
               }
             },
             {
@@ -938,7 +938,7 @@
                 "last_commit": "2025-11-16T05:38:33Z",
                 "owner": "LingyiHongfd",
                 "repo": "CompressTracker",
-                "stars": 23
+                "stars": 24
               }
             },
             {
@@ -1934,7 +1934,7 @@
                 "last_commit": "2025-03-18T20:49:46Z",
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7110
+                "stars": 7111
               }
             },
             {
@@ -4041,7 +4041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T16:40:14.791Z",
+    "last_updated": "2026-08-25T06:20:59.659Z",
     "original_repository": "Little-Podi/Transformer_Tracking",
     "original_repository_id": 449138962,
     "original_repository_sha": "16cc7306a45e4c9f20c8b0b68717f1f76faea27c",
