@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+                "homepage": null,
                 "id": 835452752,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-30T02:29:40Z",
+                "open_issues": 482,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19777
+                "stars": 19777,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficient Track Anything",
+                "homepage": null,
                 "id": 897147298,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-06T00:03:01Z",
+                "open_issues": 24,
                 "owner": "yformer",
                 "repo": "EfficientTAM",
-                "stars": 822
+                "stars": 822,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -51,12 +61,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV'22] The official PyTorch implementation of our ECCV 2022 paper: \"AiATrack: Attention in Attention for Transformer Visual Tracking\".",
+                "homepage": null,
                 "id": 514461158,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-30T03:15:09Z",
+                "open_issues": 1,
                 "owner": "Little-Podi",
                 "repo": "AiATrack",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "attention-mechanism",
+                  "eccv2022",
+                  "object-tracking",
+                  "pytorch",
+                  "single-object-tracking",
+                  "tracking",
+                  "vision-transformer",
+                  "visual-tracking"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -67,12 +91,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR'23] The official PyTorch implementation of our CVPR 2023 paper: \"Generalized Relation Modeling for Transformer Tracking\".",
+                "homepage": null,
                 "id": 617853742,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-30T03:16:06Z",
+                "open_issues": 1,
                 "owner": "Little-Podi",
                 "repo": "GRM",
-                "stars": 87
+                "stars": 87,
+                "topics": [
+                  "attention-mechanism",
+                  "cvpr2023",
+                  "object-tracking",
+                  "pytorch",
+                  "single-object-tracking",
+                  "tracking",
+                  "vision-transformer",
+                  "visual-tracking"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -90,12 +128,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visual tracking library based on PyTorch.",
+                "homepage": null,
                 "id": 179265268,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-08T20:25:00Z",
+                "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3514
+                "stars": 3514,
+                "topics": [
+                  "computer-vision",
+                  "machine-learning",
+                  "tracking",
+                  "visual-tracking"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -128,12 +176,30 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
+                            "homepage": null,
                             "id": 449138962,
                             "language": null,
+                            "license": null,
                             "last_commit": "2026-07-26T03:33:47Z",
+                            "open_issues": 0,
                             "owner": "Little-Podi",
                             "repo": "Transformer_Tracking",
-                            "stars": 391
+                            "stars": 391,
+                            "topics": [
+                              "awesome-list",
+                              "cvpr",
+                              "eccv",
+                              "iccv",
+                              "neurips",
+                              "ob",
+                              "object-tracking",
+                              "paper-list",
+                              "single-object-tracking",
+                              "tracking",
+                              "transformer",
+                              "visual-tracking"
+                            ]
                           },
                           "first_seen": "2026-08-29T00:28:14.224Z"
                         }
@@ -165,12 +231,30 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
+                            "homepage": null,
                             "id": 449138962,
                             "language": null,
+                            "license": null,
                             "last_commit": "2026-07-26T03:33:47Z",
+                            "open_issues": 0,
                             "owner": "Little-Podi",
                             "repo": "Transformer_Tracking",
-                            "stars": 391
+                            "stars": 391,
+                            "topics": [
+                              "awesome-list",
+                              "cvpr",
+                              "eccv",
+                              "iccv",
+                              "neurips",
+                              "ob",
+                              "object-tracking",
+                              "paper-list",
+                              "single-object-tracking",
+                              "tracking",
+                              "transformer",
+                              "visual-tracking"
+                            ]
                           },
                           "first_seen": "2026-08-29T00:28:14.224Z"
                         }
@@ -188,12 +272,30 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
+                            "homepage": null,
                             "id": 449138962,
                             "language": null,
+                            "license": null,
                             "last_commit": "2026-07-26T03:33:47Z",
+                            "open_issues": 0,
                             "owner": "Little-Podi",
                             "repo": "Transformer_Tracking",
-                            "stars": 391
+                            "stars": 391,
+                            "topics": [
+                              "awesome-list",
+                              "cvpr",
+                              "eccv",
+                              "iccv",
+                              "neurips",
+                              "ob",
+                              "object-tracking",
+                              "paper-list",
+                              "single-object-tracking",
+                              "tracking",
+                              "transformer",
+                              "visual-tracking"
+                            ]
                           },
                           "first_seen": "2026-08-29T00:28:14.224Z"
                         }
@@ -211,12 +313,30 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
+                            "homepage": null,
                             "id": 449138962,
                             "language": null,
+                            "license": null,
                             "last_commit": "2026-07-26T03:33:47Z",
+                            "open_issues": 0,
                             "owner": "Little-Podi",
                             "repo": "Transformer_Tracking",
-                            "stars": 391
+                            "stars": 391,
+                            "topics": [
+                              "awesome-list",
+                              "cvpr",
+                              "eccv",
+                              "iccv",
+                              "neurips",
+                              "ob",
+                              "object-tracking",
+                              "paper-list",
+                              "single-object-tracking",
+                              "tracking",
+                              "transformer",
+                              "visual-tracking"
+                            ]
                           },
                           "first_seen": "2026-08-29T00:28:14.224Z"
                         }
@@ -234,12 +354,30 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
+                            "homepage": null,
                             "id": 449138962,
                             "language": null,
+                            "license": null,
                             "last_commit": "2026-07-26T03:33:47Z",
+                            "open_issues": 0,
                             "owner": "Little-Podi",
                             "repo": "Transformer_Tracking",
-                            "stars": 391
+                            "stars": 391,
+                            "topics": [
+                              "awesome-list",
+                              "cvpr",
+                              "eccv",
+                              "iccv",
+                              "neurips",
+                              "ob",
+                              "object-tracking",
+                              "paper-list",
+                              "single-object-tracking",
+                              "tracking",
+                              "transformer",
+                              "visual-tracking"
+                            ]
                           },
                           "first_seen": "2026-08-29T00:28:14.224Z"
                         }
@@ -269,12 +407,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SAM 2++: Tracking Anything at Any Granularity",
+                "homepage": null,
                 "id": 1081275866,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-15T08:37:34Z",
+                "open_issues": 0,
                 "owner": "MCG-NJU",
                 "repo": "SAM2-Plus",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -292,12 +435,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR2024 Highlight]GLEE: General Object Foundation Model for Images and Videos at Scale",
+                "homepage": "https://glee-vision.github.io/",
                 "id": 731826187,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-21T06:17:43Z",
+                "open_issues": 47,
                 "owner": "FoundationVision",
                 "repo": "GLEE",
-                "stars": 1170
+                "stars": 1170,
+                "topics": [
+                  "foundation-model",
+                  "interactive-segmentation",
+                  "object-detection",
+                  "open-vocabulary-detection",
+                  "open-vocabulary-segmentation",
+                  "open-vocabulary-video-segmentation",
+                  "open-world",
+                  "referring-expression-comprehension",
+                  "referring-expression-segmentation",
+                  "referring-video-object-segmentation",
+                  "segment-anything",
+                  "tracking",
+                  "video-instance-segmentation",
+                  "video-object-segmentation",
+                  "zero-shot-object-detection"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -308,12 +472,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 776019759,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-04T02:37:53Z",
+                "open_issues": 8,
                 "owner": "wdrink",
                 "repo": "OmniVid",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -331,12 +500,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR'23] Universal Instance Perception as Object Discovery and Retrieval",
+                "homepage": null,
                 "id": 612919129,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-18T13:02:16Z",
+                "open_issues": 32,
                 "owner": "MasterBin-IIAU",
                 "repo": "UNINEXT",
-                "stars": 1279
+                "stars": 1279,
+                "topics": [
+                  "instance-segmentation",
+                  "multi-object-tracking-segmentation",
+                  "multiple-object-tracking",
+                  "object-detection",
+                  "object-tracking",
+                  "perception",
+                  "referring-expression-comprehension",
+                  "referring-expression-segmentation",
+                  "referring-video-object-segmentation",
+                  "single-object-tracking",
+                  "unified-model",
+                  "video-instance-segmentation",
+                  "video-object-segmentation"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -354,12 +542,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 679745015,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-07-25T12:06:10Z",
+                "open_issues": 3,
                 "owner": "yoxu515",
                 "repo": "MITS",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -377,12 +570,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.",
+                "homepage": null,
                 "id": 626676185,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-13T11:02:33Z",
+                "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 6993
+                "stars": 6993,
+                "topics": [
+                  "inpaint-anything",
+                  "interactive-tracking",
+                  "segment-anything",
+                  "track-anything",
+                  "video-object-segmentation",
+                  "video-object-tracking"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -393,12 +598,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source project dedicated to tracking and segmenting any objects in videos, either automatically or interactively. The primary algorithms utilized include the Segment Anything Model (SAM) for key-frame segmentation and Associating Objects with Transformers (AOT) for efficient tracking and propagation purposes.",
+                "homepage": null,
                 "id": 628630832,
                 "language": "Jupyter Notebook",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-03T21:59:37Z",
+                "open_issues": 45,
                 "owner": "z-x-yang",
                 "repo": "Segment-and-Track-Anything",
-                "stars": 3135
+                "stars": 3135,
+                "topics": [
+                  "interactive-segmentation",
+                  "segment-anything",
+                  "segment-anything-model",
+                  "video-object-segmentation",
+                  "visual-object-tracking"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -409,12 +625,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tracking Anything in High Quality",
+                "homepage": null,
                 "id": 669362739,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-01T07:08:51Z",
+                "open_issues": 14,
                 "owner": "jiawen-zhu",
                 "repo": "HQTrack",
-                "stars": 753
+                "stars": 753,
+                "topics": [
+                  "object-segmentation",
+                  "object-tracking",
+                  "tracking-anything"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -432,12 +657,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unified Object Tracking Framework",
+                "homepage": null,
                 "id": 475060983,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-06-20T14:32:58Z",
+                "open_issues": 4,
                 "owner": "Flowerfan",
                 "repo": "Trackron",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -455,12 +685,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV'22 Oral] Towards Grand Unification of Object Tracking",
+                "homepage": null,
                 "id": 514085646,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-17T06:49:09Z",
+                "open_issues": 23,
                 "owner": "MasterBin-IIAU",
                 "repo": "Unicorn",
-                "stars": 951
+                "stars": 951,
+                "topics": [
+                  "multi-object-tracking-segmentation",
+                  "multiple-object-tracking",
+                  "object-tracking",
+                  "single-object-tracking",
+                  "video-object-segmentation"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -484,12 +725,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2026] RAGTrack: Language-aware RGBT Tracking with Retrieval-Augmented Generation",
+                "homepage": "https://arxiv.org/abs/2603.03617",
                 "id": 1163930077,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-14T14:04:24Z",
+                "open_issues": 3,
                 "owner": "IdolLab",
                 "repo": "RAGTrack",
-                "stars": 205
+                "stars": 205,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -500,12 +746,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1169081609,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-20T03:34:46Z",
+                "open_issues": 2,
                 "owner": "kangben258",
                 "repo": "UETrack",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -516,12 +767,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR2026] SpikeTrack: A Spike-driven Framework for Efficient Visual Tracking",
+                "homepage": null,
                 "id": 1163699155,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-08T06:08:38Z",
+                "open_issues": 1,
                 "owner": "faicaiwawa",
                 "repo": "SpikeTrack",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -532,12 +788,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2026 Oral] Official Implementation of \"SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker\"",
+                "homepage": null,
                 "id": 1205891594,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-29T06:31:32Z",
+                "open_issues": 3,
                 "owner": "AutoLab-SAI-SJTU",
                 "repo": "SEATrack",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -548,12 +809,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1167289509,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-05T16:20:08Z",
+                "open_issues": 0,
                 "owner": "EIT-NLP",
                 "repo": "UTPTrack",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -564,12 +830,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR2026] Drift-Resilient Temporal Priors for Visual Tracking",
+                "homepage": null,
                 "id": 1183027585,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-28T18:26:51Z",
+                "open_issues": 2,
                 "owner": "NorahGreen",
                 "repo": "DTPTrack",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -587,12 +858,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Can we make visual tracking systems align more closely with human visual perception?",
+                "homepage": null,
                 "id": 862472091,
                 "language": "Jupyter Notebook",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-13T18:18:55Z",
+                "open_issues": 0,
                 "owner": "chenshihfang",
                 "repo": "GOT",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -610,12 +886,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and models for RELO",
+                "homepage": null,
                 "id": 1211633143,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-16T17:31:44Z",
+                "open_issues": 2,
                 "owner": "Multimedia-Analytics-Laboratory",
                 "repo": "RELO",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -633,12 +914,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of \"Group Orthogonal Low-Rank Adaptation for RGB-T Tracking\" (AAAI2026)",
+                "homepage": "https://arxiv.org/abs/2512.05359",
                 "id": 1094801238,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-24T02:08:40Z",
+                "open_issues": 3,
                 "owner": "MelanTech",
                 "repo": "GOLA",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "tracking",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -656,12 +945,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1058332759,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-17T21:50:09Z",
+                "open_issues": 2,
                 "owner": "yiheng-wang-duke",
                 "repo": "DPTracker",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -679,12 +973,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Event Stream-based Visual Object Tracking",
+                "homepage": null,
                 "id": 1021929453,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-08T14:13:14Z",
+                "open_issues": 1,
                 "owner": "Event-AHU",
                 "repo": "OpenEvTracking",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -695,12 +994,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Event Stream-based Visual Object Tracking",
+                "homepage": null,
                 "id": 1021929453,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-08T14:13:14Z",
+                "open_issues": 1,
                 "owner": "Event-AHU",
                 "repo": "OpenEvTracking",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -711,12 +1015,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository of \"Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking\"",
+                "homepage": null,
                 "id": 1239665099,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-24T12:29:22Z",
+                "open_issues": 1,
                 "owner": "DurYi",
                 "repo": "SAMOSA",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -727,12 +1036,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Baseline Implementation to Employ Diffusion Feature for Vision-Language Tracking",
+                "homepage": null,
                 "id": 1074631924,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-14T15:26:39Z",
+                "open_issues": 1,
                 "owner": "Confetti-lxy",
                 "repo": "GLAD",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -743,12 +1057,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1183877929,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-05-21T12:06:31Z",
+                "open_issues": 1,
                 "owner": "han030927",
                 "repo": "E2EMPT",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -759,12 +1078,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1018055541,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-30T12:23:17Z",
+                "open_issues": 1,
                 "owner": "ouha1998",
                 "repo": "Learning-Progressive-Adaptation-for-Multi-Modal-Tracking",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -775,12 +1099,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1230618477,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-06T06:59:57Z",
+                "open_issues": 1,
                 "owner": "xuboyue1999",
                 "repo": "VL-UniTrack",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -798,12 +1127,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A continuously updated project to track the latest progress in the field of multi-modal object tracking. This project focuses solely on single-object tracking.",
+                "homepage": null,
                 "id": 802742044,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:39:05Z",
+                "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1057
+                "stars": 1057,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -814,12 +1148,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2025, IJCV 2026] \"A Distractor-Aware Memory for Visual Object Tracking with SAM2\", \"Distractor-Aware Memory-Based Visual Object Tracking\"",
+                "homepage": "https://jovanavidenovic.github.io/dam-4-sam/",
                 "id": 894538611,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-07T07:39:27Z",
+                "open_issues": 8,
                 "owner": "jovanavidenovic",
                 "repo": "DAM4SAM",
-                "stars": 494
+                "stars": 494,
+                "topics": [
+                  "computer-vision",
+                  "object-tracking"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -830,12 +1172,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Code for \"MITracker: Multi-View Integration for Visual Object Tracking\"",
+                "homepage": null,
                 "id": 898363829,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-18T05:24:10Z",
+                "open_issues": 14,
                 "owner": "XuM007",
                 "repo": "MITracker",
-                "stars": 137
+                "stars": 137,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -846,12 +1193,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2025] Learning Occlusion-Robust Vision Transformers for Real-Time UAV Tracking",
+                "homepage": null,
                 "id": 854069537,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-12T11:42:50Z",
+                "open_issues": 7,
                 "owner": "wuyou3474",
                 "repo": "ORTrack",
-                "stars": 122
+                "stars": 122,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -862,12 +1214,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking (CVPR 2025)",
+                "homepage": null,
                 "id": 945422421,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-14T07:44:30Z",
+                "open_issues": 9,
                 "owner": "GXNU-ZhongLab",
                 "repo": "SGLATrack",
-                "stars": 122
+                "stars": 122,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -878,12 +1235,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 941040696,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-27T11:17:22Z",
+                "open_issues": 8,
                 "owner": "q2479036243",
                 "repo": "MUST-Multispectral-UAV-Single-Object-Tracking",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -894,12 +1256,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of \"SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking\". (CVPR 2025)",
+                "homepage": null,
                 "id": 951147576,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-19T15:22:15Z",
+                "open_issues": 8,
                 "owner": "WenRuiCai",
                 "repo": "SPMTrack",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -910,12 +1277,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation for the CVPR'2025 paper Dynamic Updates for Language Adaptation in Visual-Language Tracking",
+                "homepage": null,
                 "id": 945439010,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-27T07:17:22Z",
+                "open_issues": 8,
                 "owner": "GXNU-ZhongLab",
                 "repo": "DUTrack",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -933,12 +1305,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV'25 Highlight] ATCTrack: Aligning Target-Context Cues with Dynamic Target States for Robust Vision-Language Tracking",
+                "homepage": null,
                 "id": 1026167894,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-08-23T13:38:14Z",
+                "open_issues": 4,
                 "owner": "XiaokunFeng",
                 "repo": "ATCTrack",
-                "stars": 119
+                "stars": 119,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -949,12 +1326,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] UMDATrack: Unified Multi-Domain Adaptive Tracking Under Adverse Weather Conditions",
+                "homepage": null,
                 "id": 1011547703,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-10T13:29:54Z",
+                "open_issues": 3,
                 "owner": "Z-Z188",
                 "repo": "UMDATrack",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -965,12 +1347,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "#ICCV, #MoE, #Tracking",
+                "homepage": null,
                 "id": 1016529487,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-11T01:38:14Z",
+                "open_issues": 0,
                 "owner": "supertyd",
                 "repo": "XTrack",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -981,12 +1368,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 863321628,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-16T05:38:33Z",
+                "open_issues": 5,
                 "owner": "LingyiHongfd",
                 "repo": "CompressTracker",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -997,12 +1389,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "#ICCV 2025, # FlexTrack,# Mixture of Experts ",
+                "homepage": null,
                 "id": 1015973470,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-27T11:07:59Z",
+                "open_issues": 3,
                 "owner": "supertyd",
                 "repo": "FlexTrack",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -1020,12 +1417,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML'25] CSTrack: Enhancing RGB-X Tracking via Compact Spatiotemporal Features",
+                "homepage": null,
                 "id": 989960772,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-08-23T09:14:35Z",
+                "open_issues": 5,
                 "owner": "XiaokunFeng",
                 "repo": "CSTrack",
-                "stars": 112
+                "stars": 112,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1036,12 +1438,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of \"Efficient Motion Prompt Learning for Robust Visual Tracking\" (ICML2025)",
+                "homepage": null,
                 "id": 979163216,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-17T02:21:45Z",
+                "open_issues": 1,
                 "owner": "zj5559",
                 "repo": "Motion-Prompt-Tracking",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -1059,12 +1466,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2026] CADTrack: Learning Contextual Aggregation with Deformable Alignment for Robust RGBT Tracking",
+                "homepage": "https://arxiv.org/abs/2511.17967",
                 "id": 1097347914,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-03T02:12:13Z",
+                "open_issues": 0,
                 "owner": "IdolLab",
                 "repo": "CADTrack",
-                "stars": 188
+                "stars": 188,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1075,12 +1487,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " [AAAI2025] SUTrack: Towards Simple and Unified Single Object Tracking",
+                "homepage": null,
                 "id": 901345503,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-16T09:01:38Z",
+                "open_issues": 12,
                 "owner": "chenxin-dlut",
                 "repo": "SUTrack",
-                "stars": 167
+                "stars": 167,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1091,12 +1508,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2025] Exploiting Multimodal Spatial-temporal Patterns for Video Object Tracking",
+                "homepage": null,
                 "id": 903665799,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-18T13:50:28Z",
+                "open_issues": 7,
                 "owner": "NJU-PCALab",
                 "repo": "STTrack",
-                "stars": 118
+                "stars": 118,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1107,12 +1529,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 901259510,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-17T07:45:19Z",
+                "open_issues": 9,
                 "owner": "kangben258",
                 "repo": "MCITrack",
-                "stars": 116
+                "stars": 116,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1123,12 +1550,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI25] Asymmetric Siamese Network for Efficient Visual Tracking",
+                "homepage": null,
                 "id": 941138513,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-04T08:13:27Z",
+                "open_issues": 9,
                 "owner": "jiawen-zhu",
                 "repo": "AsymTrack",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1139,12 +1571,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 903728946,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-20T13:10:21Z",
+                "open_issues": 3,
                 "owner": "GXNU-ZhongLab",
                 "repo": "MambaLCT",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1155,12 +1592,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Robust Tracking via Mamba-based Context-aware Token Learning (AAAI 2025)",
+                "homepage": null,
                 "id": 903733747,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-11-06T07:18:26Z",
+                "open_issues": 2,
                 "owner": "GXNU-ZhongLab",
                 "repo": "TemTrack",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1171,12 +1613,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 903733109,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-09T11:50:51Z",
+                "open_issues": 4,
                 "owner": "XuChenLong",
                 "repo": "LMTrack",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -1194,12 +1641,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 978654130,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-05-29T07:57:13Z",
+                "open_issues": 1,
                 "owner": "LiShenglana",
                 "repo": "GDSTrack",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -1217,12 +1669,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Explicit Context Reasoning with Supervision for Visual Tracking (ACM MM 25)",
+                "homepage": null,
                 "id": 1023060021,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-07-20T12:49:11Z",
+                "open_issues": 2,
                 "owner": "GXNU-ZhongLab",
                 "repo": "RSTrack",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1233,12 +1690,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MST",
+                "homepage": null,
                 "id": 1028075454,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-20T01:22:10Z",
+                "open_issues": 3,
                 "owner": "wsumel",
                 "repo": "MST",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1249,12 +1711,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ACMMM2025-Serial Over Parallel: Learning Continual Unification for Multi-Modal Visual Object Tracking and Benchmarking",
+                "homepage": null,
                 "id": 958432209,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-09-22T11:28:20Z",
+                "open_issues": 1,
                 "owner": "Zhangyong-Tang",
                 "repo": "UniBench300",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -1272,12 +1739,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICRA 2025] CGTrack: Cascade Gating Network with Hierarchical Feature Aggregation for UAV Tracking",
+                "homepage": null,
                 "id": 940338600,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-02-28T02:16:59Z",
+                "open_issues": 1,
                 "owner": "Nightwatch-Fox11",
                 "repo": "CGTrack",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "tracking"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -1295,12 +1769,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICASSP'25] Enhancing Vision-Language Tracking by Effectively Converting Textual Cues into Visual Cues",
+                "homepage": null,
                 "id": 906871123,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-12-31T14:08:15Z",
+                "open_issues": 4,
                 "owner": "XiaokunFeng",
                 "repo": "CTVLT",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -1318,12 +1797,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A continuously updated project to track the latest progress in the field of multi-modal object tracking. This project focuses solely on single-object tracking.",
+                "homepage": null,
                 "id": 802742044,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:39:05Z",
+                "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1057
+                "stars": 1057,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1334,12 +1818,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation for the paper [ODTrack: Online Dense Temporal Token Learning for Visual Tracking].",
+                "homepage": null,
                 "id": 729698818,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-07T11:51:47Z",
+                "open_issues": 11,
                 "owner": "GXNU-ZhongLab",
                 "repo": "ODTrack",
-                "stars": 192
+                "stars": 192,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1350,12 +1839,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR-2024] The First High Definition (HD) Event based Visual Object Tracking Benchmark Dataset",
+                "homepage": null,
                 "id": 662607131,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-25T13:13:58Z",
+                "open_issues": 4,
                 "owner": "Event-AHU",
                 "repo": "EventVOT_Benchmark",
-                "stars": 149
+                "stars": 149,
+                "topics": [
+                  "benchmark-dataset",
+                  "cross-modality",
+                  "event-based-tracking",
+                  "high-definition",
+                  "multi-modal",
+                  "rgb-event",
+                  "single-object-tracking",
+                  "visual-object-tracking",
+                  "visual-tracking"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1366,12 +1870,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning.",
+                "homepage": null,
                 "id": 945875255,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-14T14:21:16Z",
+                "open_issues": 0,
                 "owner": "Wangbiao2",
                 "repo": "R1-Track",
-                "stars": 66
+                "stars": 66,
+                "topics": [
+                  "deep-reinforcement-learning",
+                  "grpo",
+                  "llm",
+                  "mllm",
+                  "multimodal",
+                  "object-tracking",
+                  "single-object-tracking",
+                  "tracking-by-natural-language"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1382,12 +1900,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 568342427,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-25T16:42:09Z",
+                "open_issues": 4,
                 "owner": "kangben258",
                 "repo": "HiT",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1398,12 +1921,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for our paper \"FocusTrack: A Self-Adaptive Local Sampling Algorithm for Efficient Anti-UAV Tracking\"",
+                "homepage": null,
                 "id": 968402792,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-04-21T10:28:58Z",
+                "open_issues": 5,
                 "owner": "vero1925",
                 "repo": "FocusTrack",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1414,12 +1942,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vision-Language based Visual Object Tracking",
+                "homepage": null,
                 "id": 805634872,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-04T02:24:27Z",
+                "open_issues": 1,
                 "owner": "Event-AHU",
                 "repo": "Open_VLTrack",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1430,12 +1963,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation of the TIP 2025 paper UncTrack: Reliable Visual Object Tracking with Uncertainty-Aware Prototype Memory Network",
+                "homepage": null,
                 "id": 921517232,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-16T14:30:02Z",
+                "open_issues": 1,
                 "owner": "ManOfStory",
                 "repo": "UncTrack",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1446,12 +1984,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 987595849,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-29T11:59:41Z",
+                "open_issues": 2,
                 "owner": "Sam1224",
                 "repo": "SAMITE",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1462,12 +2005,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 772965777,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-09T09:46:10Z",
+                "open_issues": 0,
                 "owner": "supertyd",
                 "repo": "hotmoe",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1478,12 +2026,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ISTASTrack: Bridging ANN and SNN via ISTA Adapter for RGB-Event Tracking",
+                "homepage": null,
                 "id": 1054777356,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-28T03:16:31Z",
+                "open_issues": 1,
                 "owner": "lsying009",
                 "repo": "ISTASTrack",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1494,12 +2047,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 873451292,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-28T07:50:18Z",
+                "open_issues": 2,
                 "owner": "xuboyue1999",
                 "repo": "mmtrack",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1510,12 +2068,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[IEEE TCSVT 2026] Official PyTorch implementation of \"Towards Low-Latency Event Stream-based Visual Object Tracking: A Slow-Fast Approach\"",
+                "homepage": null,
                 "id": 984650773,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-14T11:22:56Z",
+                "open_issues": 1,
                 "owner": "Event-AHU",
                 "repo": "SlowFast_Event_Track",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -1533,12 +2096,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of paper \"ARTrack\" and \"ARTrackV2\"",
+                "homepage": "https://artrackv2.github.io/",
                 "id": 645142404,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-20T11:37:34Z",
+                "open_issues": 9,
                 "owner": "MIV-XJTU",
                 "repo": "ARTrack",
-                "stars": 318
+                "stars": 319,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1549,12 +2117,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR-2024] The First High Definition (HD) Event based Visual Object Tracking Benchmark Dataset",
+                "homepage": null,
                 "id": 662607131,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-25T13:13:58Z",
+                "open_issues": 4,
                 "owner": "Event-AHU",
                 "repo": "EventVOT_Benchmark",
-                "stars": 149
+                "stars": 149,
+                "topics": [
+                  "benchmark-dataset",
+                  "cross-modality",
+                  "event-based-tracking",
+                  "high-definition",
+                  "multi-modal",
+                  "rgb-event",
+                  "single-object-tracking",
+                  "visual-object-tracking",
+                  "visual-tracking"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1565,12 +2148,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CVPR24",
+                "homepage": null,
                 "id": 768134810,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-04T06:04:09Z",
+                "open_issues": 4,
                 "owner": "GXNU-ZhongLab",
                 "repo": "AQATrack",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1581,12 +2169,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of HIPTrack: Visual Tracking with Historical Prompts. (CVPR 2024)",
+                "homepage": null,
                 "id": 776347254,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-04T06:19:49Z",
+                "open_issues": 4,
                 "owner": "WenRuiCai",
                 "repo": "HIPTrack",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1597,12 +2190,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking",
+                "homepage": null,
                 "id": 774925491,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-30T04:14:18Z",
+                "open_issues": 6,
                 "owner": "hoqolo",
                 "repo": "SDSTrack",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1613,12 +2211,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] Unified Multi-Sensor Tracker With One Parameter Set",
+                "homepage": null,
                 "id": 724150703,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-19T20:05:49Z",
+                "open_issues": 2,
                 "owner": "Zongwei97",
                 "repo": "UnTrack",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "cvpr2024",
+                  "multimodal",
+                  "tracking",
+                  "video-object-tracking"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1629,12 +2237,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR2024] DiffusionTrack: Point set Diffussion Model for Visual Object Tracking",
+                "homepage": null,
                 "id": 827658169,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-20T04:32:01Z",
+                "open_issues": 11,
                 "owner": "VISION-SJTU",
                 "repo": "DiffusionTrack",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1645,12 +2258,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 778836113,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-03-28T14:00:03Z",
+                "open_issues": 3,
                 "owner": "twotwo2",
                 "repo": "QueryNLT",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -1668,12 +2286,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A continuously updated project to track the latest progress in the field of multi-modal object tracking. This project focuses solely on single-object tracking.",
+                "homepage": null,
                 "id": 802742044,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:39:05Z",
+                "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1057
+                "stars": 1057,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1684,12 +2307,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS'24] MemVLT: Vision-Language Tracking with Adaptive Memory-based Prompts",
+                "homepage": null,
                 "id": 868980568,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-10-07T14:12:09Z",
+                "open_issues": 2,
                 "owner": "XiaokunFeng",
                 "repo": "MemVLT",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1700,12 +2328,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 868495182,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-02-08T13:07:11Z",
+                "open_issues": 1,
                 "owner": "ZhangDailing8",
                 "repo": "CPDTrack",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -1723,12 +2356,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024] Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance",
+                "homepage": "https://arxiv.org/abs/2403.05231",
                 "id": 830255708,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-06T04:47:02Z",
+                "open_issues": 19,
                 "owner": "LitingLin",
                 "repo": "LoRAT",
-                "stars": 125
+                "stars": 125,
+                "topics": [
+                  "single-object-tracking",
+                  "tracking"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -1746,12 +2387,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2024] Learning Adaptive and View-Invariant Vision Transformer for Real-Time UAV Tracking",
+                "homepage": null,
                 "id": 806848286,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-19T10:58:24Z",
+                "open_issues": 11,
                 "owner": "wuyou3474",
                 "repo": "AVTrack",
-                "stars": 114
+                "stars": 114,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -1769,12 +2415,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation for the paper [ODTrack: Online Dense Temporal Token Learning for Visual Tracking].",
+                "homepage": null,
                 "id": 729698818,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-07T11:51:47Z",
+                "open_issues": 11,
                 "owner": "GXNU-ZhongLab",
                 "repo": "ODTrack",
-                "stars": 192
+                "stars": 192,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1785,12 +2436,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bi-directional Adapter for Multi-modal Tracking",
+                "homepage": null,
                 "id": 731059747,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-19T04:26:38Z",
+                "open_issues": 11,
                 "owner": "SparkTempest",
                 "repo": "BAT",
-                "stars": 101
+                "stars": 101,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1801,12 +2457,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official pytorch implementation of our AAAI 2024 paper \"Unifying Visual and Vision-Language Tracking via Contrastive Learning\"",
+                "homepage": null,
                 "id": 730139712,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-11-04T09:04:40Z",
+                "open_issues": 4,
                 "owner": "OpenSpaceAI",
                 "repo": "UVLTrack",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1817,12 +2478,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 781487275,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-03T13:46:50Z",
+                "open_issues": 2,
                 "owner": "GXNU-ZhongLab",
                 "repo": "EVPTrack",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -1840,12 +2506,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PaperCode: Unified Single-Stage Transformer Network for Efficient RGB-T Tracking（Accepted by IJCAI2024）",
+                "homepage": null,
                 "id": 789742542,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-09-24T11:45:33Z",
+                "open_issues": 6,
                 "owner": "xiajianqiang",
                 "repo": "USTrack",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -1863,12 +2534,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Breaking Modality Gap in RGBT Tracking: Coupled Knowledge Distillation ACMMM2024",
+                "homepage": null,
                 "id": 845440572,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-16T01:47:34Z",
+                "open_issues": 1,
                 "owner": "Multi-Modality-Tracking",
                 "repo": "CKD-ACMMM2024",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -1886,12 +2562,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visual tracking library based on PyTorch.",
+                "homepage": null,
                 "id": 179265268,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-08T20:25:00Z",
+                "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3514
+                "stars": 3514,
+                "topics": [
+                  "computer-vision",
+                  "machine-learning",
+                  "tracking",
+                  "visual-tracking"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1902,12 +2588,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[WACV 2024] Separable Self and Mixed Attention Transformers for Efficient Object Tracking",
+                "homepage": null,
                 "id": 679859958,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-02T21:36:49Z",
+                "open_issues": 13,
                 "owner": "goutamyg",
                 "repo": "SMAT",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "mixed-attention",
+                  "self-attention",
+                  "single-object-tracking",
+                  "visual-object-tracking",
+                  "visual-tracking",
+                  "wacv",
+                  "wacv2024"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -1925,12 +2624,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICRA2024] Darkness Clue-Prompted Tracking in Nighttime UAVs",
+                "homepage": null,
                 "id": 721002329,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-20T01:06:22Z",
+                "open_issues": 7,
                 "owner": "bearyi26",
                 "repo": "DCPT",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -1948,12 +2652,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 762993421,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-29T03:54:03Z",
+                "open_issues": 1,
                 "owner": "vision4robotics",
                 "repo": "PRL-Track",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1964,12 +2673,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official code of “Enhancing Nighttime UAV Tracking with Light Distribution Suppression”.",
+                "homepage": null,
                 "id": 778306315,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-02T05:56:22Z",
+                "open_issues": 5,
                 "owner": "vision4robotics",
                 "repo": "LDEnhancer",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1980,12 +2694,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 773704934,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-26T08:35:49Z",
+                "open_issues": 1,
                 "owner": "vision4robotics",
                 "repo": "TDA-Track",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -1996,12 +2715,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 776983623,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-25T01:17:27Z",
+                "open_issues": 1,
                 "owner": "vision4robotics",
                 "repo": "DaDiff",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2012,12 +2736,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 773285025,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-25T06:12:58Z",
+                "open_issues": 1,
                 "owner": "vision4robotics",
                 "repo": "CGDenoiser",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -2035,12 +2764,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository of \"SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory\"",
+                "homepage": "https://yangchris11.github.io/samurai/",
                 "id": 884520984,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-18T20:49:46Z",
+                "open_issues": 11,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7113
+                "stars": 7113,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2051,12 +2785,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2024] Learning Adaptive and View-Invariant Vision Transformer for Real-Time UAV Tracking",
+                "homepage": null,
                 "id": 806848286,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-19T10:58:24Z",
+                "open_issues": 11,
                 "owner": "wuyou3474",
                 "repo": "AVTrack",
-                "stars": 114
+                "stars": 114,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2067,12 +2806,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SeqTrackv2: Unified Sequence-to-Sequence Learning for Single- and Multi-Modal Visual Object Tracking",
+                "homepage": null,
                 "id": 777584976,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-26T06:21:48Z",
+                "open_issues": 4,
                 "owner": "chenxin-dlut",
                 "repo": "SeqTrackv2",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2083,12 +2827,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Can we make visual tracking systems align more closely with human visual perception?",
+                "homepage": null,
                 "id": 862472091,
                 "language": "Jupyter Notebook",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-13T18:18:55Z",
+                "open_issues": 0,
                 "owner": "chenshihfang",
                 "repo": "GOT",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2099,12 +2848,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The First Frame-Event Long-Term Single Object Tracking Benchmark",
+                "homepage": null,
                 "id": 685134554,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-13T08:04:52Z",
+                "open_issues": 9,
                 "owner": "Event-AHU",
                 "repo": "FELT_SOT_Benchmark",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2115,12 +2869,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 795825406,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-24T06:43:15Z",
+                "open_issues": 7,
                 "owner": "LiYunfengLYF",
                 "repo": "CSTNet",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2131,12 +2890,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 692712850,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-23T09:53:00Z",
+                "open_issues": 0,
                 "owner": "BasitAlawode",
                 "repo": "Best_of_N_Trackers",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2147,12 +2911,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[IEEE TMM 2025] CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras",
+                "homepage": null,
                 "id": 730694499,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-01-18T18:31:39Z",
+                "open_issues": 1,
                 "owner": "Event-AHU",
                 "repo": "Cross_Resolution_SOT",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2163,12 +2932,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Attention-based Fusion Router for RGBT Tracking",
+                "homepage": null,
                 "id": 793877458,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-08T09:20:46Z",
+                "open_issues": 7,
                 "owner": "Alexadlu",
                 "repo": "AFter",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2179,12 +2953,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 440739336,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-11-23T10:54:55Z",
+                "open_issues": 5,
                 "owner": "phiphiphi31",
                 "repo": "SBT",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2195,12 +2974,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LoReTrack: Efficient and Accurate Low-Resolution Transformer Tracking, IROS 2025 (Oral)",
+                "homepage": null,
                 "id": 1018813208,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-13T05:19:42Z",
+                "open_issues": 1,
                 "owner": "ShaohuaDong2021",
                 "repo": "LoReTrack",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2211,12 +2995,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 813419495,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-07T07:04:27Z",
+                "open_issues": 8,
                 "owner": "LiYunfengLYF",
                 "repo": "SCANet",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2227,12 +3016,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 754989363,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-09-15T17:11:43Z",
+                "open_issues": 1,
                 "owner": "JananiKugaa",
                 "repo": "SIFTrack",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2243,12 +3037,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of “TENet: Targetness Entanglement Incorporating with Multi-Scale Pooling and Mutually-Guided Fusion for RGB-E Object Tracking”",
+                "homepage": null,
                 "id": 783618356,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-12-31T11:42:18Z",
+                "open_issues": 0,
                 "owner": "SSSpc333",
                 "repo": "TENet",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2259,12 +3058,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 841514000,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-27T12:34:23Z",
+                "open_issues": 1,
                 "owner": "openat25",
                 "repo": "HIPTrack-MLS",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2275,12 +3079,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "These are the codes for \"Nature Language Model for Thermal Infrared Tracking.\"",
+                "homepage": null,
                 "id": 775870494,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-26T07:14:41Z",
+                "open_issues": 1,
                 "owner": "ELOESZHANG",
                 "repo": "NLMTrack",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -2298,12 +3107,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VideoX: a collection of video cross-modal models",
+                "homepage": null,
                 "id": 223094600,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-03T02:11:26Z",
+                "open_issues": 31,
                 "owner": "microsoft",
                 "repo": "VideoX",
-                "stars": 1071
+                "stars": 1071,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2314,12 +3128,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR23] Visual Prompt Multi-Modal Tracking",
+                "homepage": null,
                 "id": 616447314,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-04T08:14:42Z",
+                "open_issues": 12,
                 "owner": "jiawen-zhu",
                 "repo": "ViPT",
-                "stars": 350
+                "stars": 350,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2330,12 +3149,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of paper \"ARTrack\" and \"ARTrackV2\"",
+                "homepage": "https://artrackv2.github.io/",
                 "id": 645142404,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-20T11:37:34Z",
+                "open_issues": 9,
                 "owner": "MIV-XJTU",
                 "repo": "ARTrack",
-                "stars": 318
+                "stars": 319,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2346,12 +3170,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an official implementation of our CVPR 2023 paper \"Revealing the Dark Secrets of Masked Image Modeling\" on Depth Estimation.",
+                "homepage": null,
                 "id": 587640154,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-27T05:03:49Z",
+                "open_issues": 6,
                 "owner": "SwinTransformer",
                 "repo": "MIM-Depth-Estimation",
-                "stars": 175
+                "stars": 175,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2362,12 +3191,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR'23] The official PyTorch implementation of our CVPR 2023 paper: \"Generalized Relation Modeling for Transformer Tracking\".",
+                "homepage": null,
                 "id": 617853742,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-30T03:16:06Z",
+                "open_issues": 1,
                 "owner": "Little-Podi",
                 "repo": "GRM",
-                "stars": 87
+                "stars": 87,
+                "topics": [
+                  "attention-mechanism",
+                  "cvpr2023",
+                  "object-tracking",
+                  "pytorch",
+                  "single-object-tracking",
+                  "tracking",
+                  "vision-transformer",
+                  "visual-tracking"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2378,12 +3221,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation for the CVPR 2023 paper Joint Visual Grounding and Tracking with Natural Language Specification.",
+                "homepage": null,
                 "id": 616437886,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-03T06:00:21Z",
+                "open_issues": 10,
                 "owner": "lizhou-cs",
                 "repo": "JointNLT",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2394,12 +3242,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 615732089,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-10T06:52:55Z",
+                "open_issues": 12,
                 "owner": "RyanHTR",
                 "repo": "TBSI",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2410,12 +3263,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of ARKitTrack for CVPR'2023 paper \"ARKitTrack: A New Diverse Dataset for Tracking Using Mobile RGB-D Data\", by Haojie Zhao, Junsong Chen, Lijun Wang, Huchuan Lu.  Code will be released here.",
+                "homepage": null,
                 "id": 610083873,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-15T06:10:59Z",
+                "open_issues": 3,
                 "owner": "lawrence-cj",
                 "repo": "ARKitTrack",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2426,12 +3284,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official fine-tuning code for DropTrack",
+                "homepage": null,
                 "id": 627858404,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-01T08:16:24Z",
+                "open_issues": 0,
                 "owner": "jimmy-dq",
                 "repo": "DropTrack",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2442,12 +3305,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "code for 'Representation Learning for Visual Object Tracking by Masked Appearance Transfer'",
+                "homepage": null,
                 "id": 610597629,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-06-10T02:48:22Z",
+                "open_issues": 5,
                 "owner": "difhnp",
                 "repo": "MAT",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2458,12 +3326,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 619014471,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-06-26T04:10:11Z",
+                "open_issues": 5,
                 "owner": "phiphiphi31",
                 "repo": "VideoTrack",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2474,12 +3347,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 617388263,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-05-23T03:49:06Z",
+                "open_issues": 1,
                 "owner": "yjybuaa",
                 "repo": "RGBDAerialTracking",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -2497,12 +3375,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2023] MixFormerV2: Efficient Fully Transformer Tracking",
+                "homepage": null,
                 "id": 645177299,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-20T11:16:56Z",
+                "open_issues": 35,
                 "owner": "MCG-NJU",
                 "repo": "MixFormerV2",
-                "stars": 227
+                "stars": 227,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2513,12 +3396,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2023 Spotlight] ZoomTrack: Target-aware Non-uniform Resizing for Efficient Visual Tracking",
+                "homepage": null,
                 "id": 638986054,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-04T14:46:02Z",
+                "open_issues": 1,
                 "owner": "Kou-99",
                 "repo": "ZoomTrack",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -2536,12 +3424,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code of ICCV 2023 paper Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers",
+                "homepage": null,
                 "id": 666336260,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-06T06:31:28Z",
+                "open_issues": 2,
                 "owner": "ZHU-Zhiyu",
                 "repo": "High-Rank_RGB-Event_Tracker",
-                "stars": 150
+                "stars": 150,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2552,12 +3445,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 568342427,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-25T16:42:09Z",
+                "open_issues": 4,
                 "owner": "kangben258",
                 "repo": "HiT",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2568,12 +3466,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Toolkit for 360VOT: A New Benchmark Dataset for Omnidirectional Visual Object Tracking, ICCV2023",
+                "homepage": null,
                 "id": 670439848,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-16T09:33:33Z",
+                "open_issues": 1,
                 "owner": "HuajianUP",
                 "repo": "360VOT",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2584,12 +3487,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 670623154,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-17T11:08:50Z",
+                "open_issues": 7,
                 "owner": "xyyang317",
                 "repo": "Aba-ViTrack",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2600,12 +3508,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV'23] CiteTracker: Correlating Image and Text for Visual Tracking",
+                "homepage": null,
                 "id": 673726736,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-20T03:04:04Z",
+                "open_issues": 9,
                 "owner": "NorahGreen",
                 "repo": "CiteTracker",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2616,12 +3529,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] Robust Object Modeling for Visual Tracking, Official Implementation",
+                "homepage": "https://arxiv.org/abs/2308.05140",
                 "id": 675294071,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-01-05T09:34:14Z",
+                "open_issues": 5,
                 "owner": "dawnyc",
                 "repo": "ROMTrack",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "iccv2023",
+                  "object-modeling",
+                  "pytorch",
+                  "robustness",
+                  "tracking",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -2639,12 +3564,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Target-Aware Tracking with Long-term Context Attention",
+                "homepage": null,
                 "id": 568609469,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-13T04:36:28Z",
+                "open_issues": 4,
                 "owner": "hekaijie123",
                 "repo": "TATrack",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2655,12 +3585,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 526521916,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-23T06:54:26Z",
+                "open_issues": 14,
                 "owner": "HUSTDML",
                 "repo": "CTTrack",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -2678,12 +3613,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficient Visual Tracking with Exemplar Transformers [WACV2023]",
+                "homepage": null,
                 "id": 538095539,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-25T18:05:06Z",
+                "open_issues": 9,
                 "owner": "pblatter",
                 "repo": "ettrack",
-                "stars": 98
+                "stars": 98,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -2701,12 +3641,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[BMVC 2023] Mobile Vision Transformer-based Visual Object Tracking",
+                "homepage": null,
                 "id": 681699692,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-23T21:51:30Z",
+                "open_issues": 7,
                 "owner": "goutamyg",
                 "repo": "MVT",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "bmvc",
+                  "bmvc2023",
+                  "mobile-vision-transformer",
+                  "single-object-tracking",
+                  "vision-transformer",
+                  "visual-object-tracking",
+                  "visual-tracking"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -2724,12 +3677,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 538038790,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-03T04:06:52Z",
+                "open_issues": 3,
                 "owner": "vision4robotics",
                 "repo": "SGDViT",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2740,12 +3698,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 538377234,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-09-20T12:13:12Z",
+                "open_issues": 0,
                 "owner": "vision4robotics",
                 "repo": "ClimRT",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -2763,12 +3726,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 541937702,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-24T15:03:45Z",
+                "open_issues": 1,
                 "owner": "vision4robotics",
                 "repo": "CDT",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2779,12 +3747,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "End-to-End Feature Decontaminated Network for UAV Tracking",
+                "homepage": null,
                 "id": 465201371,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-07T03:37:26Z",
+                "open_issues": 0,
                 "owner": "vision4robotics",
                 "repo": "FDNT",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2795,12 +3768,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 563158516,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-11-15T09:19:13Z",
+                "open_issues": 1,
                 "owner": "vision4robotics",
                 "repo": "TRTrack",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2811,12 +3789,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 551364436,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-10-22T12:41:51Z",
+                "open_issues": 1,
                 "owner": "vision4robotics",
                 "repo": "ScaleAwareDA",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2827,12 +3810,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transparent Object Tracking with Enhanced Fusion Module",
+                "homepage": null,
                 "id": 670365437,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2023-09-11T19:22:10Z",
+                "open_issues": 0,
                 "owner": "kalyan0510",
                 "repo": "TOTEM",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -2850,12 +3838,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 567191972,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-18T02:20:49Z",
+                "open_issues": 0,
                 "owner": "jp-lan",
                 "repo": "ProContEXT",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2866,12 +3859,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 591133105,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-05-30T13:26:08Z",
+                "open_issues": 3,
                 "owner": "vpx-ecnu",
                 "repo": "MSTL",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -2889,12 +3887,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2022 Oral & TPAMI 2024] MixFormer: End-to-End Tracking with Iterative Mixed Attention ",
+                "homepage": "https://arxiv.org/abs/2203.11082",
                 "id": 471606294,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-28T09:50:34Z",
+                "open_issues": 44,
                 "owner": "MCG-NJU",
                 "repo": "MixFormer",
-                "stars": 540
+                "stars": 540,
+                "topics": [
+                  "cvpr2022",
+                  "tracking",
+                  "vot"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2905,12 +3912,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TCTrack: Temporal Contexts for Aerial Tracking (CVPR2022) & TCTrack++ (TPAMI)",
+                "homepage": null,
                 "id": 464366456,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-29T14:42:51Z",
+                "open_issues": 9,
                 "owner": "vision4robotics",
                 "repo": "TCTrack",
-                "stars": 205
+                "stars": 205,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2921,12 +3933,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICRA2024]A fast and high-performance visual object tracker with real-time speed on Jetson.",
+                "homepage": null,
                 "id": 690002344,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-01-20T09:38:24Z",
+                "open_issues": 22,
                 "owner": "TsingWei",
                 "repo": "LiteTrack",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2937,12 +3954,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official code for the paper \"SAM-DA: UAV Tracks Anything at Night with SAM-Powered Domain Adaptation\".",
+                "homepage": null,
                 "id": 661222870,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-27T06:23:53Z",
+                "open_issues": 3,
                 "owner": "vision4robotics",
                 "repo": "SAM-DA",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2953,12 +3975,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 667461763,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-27T06:39:58Z",
+                "open_issues": 4,
                 "owner": "HusterYoung",
                 "repo": "MPLT",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2969,12 +3996,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation for the paper [Towards Unified Token Learning for Vision-Language Tracking].",
+                "homepage": null,
                 "id": 666433833,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-13T13:43:41Z",
+                "open_issues": 4,
                 "owner": "Azong-HQU",
                 "repo": "MMTrack",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -2985,12 +4017,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 738423590,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-01T09:55:19Z",
+                "open_issues": 3,
                 "owner": "supertyd",
                 "repo": "HyperTrack",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -3008,12 +4045,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visual tracking library based on PyTorch.",
+                "homepage": null,
                 "id": 179265268,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-08T20:25:00Z",
+                "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3514
+                "stars": 3514,
+                "topics": [
+                  "computer-vision",
+                  "machine-learning",
+                  "tracking",
+                  "visual-tracking"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3024,12 +4071,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2022 Oral & TPAMI 2024] MixFormer: End-to-End Tracking with Iterative Mixed Attention ",
+                "homepage": "https://arxiv.org/abs/2203.11082",
                 "id": 471606294,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-28T09:50:34Z",
+                "open_issues": 44,
                 "owner": "MCG-NJU",
                 "repo": "MixFormer",
-                "stars": 540
+                "stars": 540,
+                "topics": [
+                  "cvpr2022",
+                  "tracking",
+                  "vot"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3040,12 +4096,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TCTrack: Temporal Contexts for Aerial Tracking (CVPR2022) & TCTrack++ (TPAMI)",
+                "homepage": null,
                 "id": 464366456,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-29T14:42:51Z",
+                "open_issues": 9,
                 "owner": "vision4robotics",
                 "repo": "TCTrack",
-                "stars": 205
+                "stars": 205,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3056,12 +4117,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unsupervised Domain Adaptation for Nighttime Aerial Tracking (CVPR2022)",
+                "homepage": null,
                 "id": 466627506,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-23T16:33:53Z",
+                "open_issues": 3,
                 "owner": "vision4robotics",
                 "repo": "UDAT",
-                "stars": 126
+                "stars": 126,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3072,12 +4138,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 465949010,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-03-21T08:46:53Z",
+                "open_issues": 14,
                 "owner": "Jee-King",
                 "repo": "CVPR2022_STNet",
-                "stars": 99
+                "stars": 99,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3088,12 +4159,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transformer Tracking with Cyclic Shifting Window Attention (CSWinTT)",
+                "homepage": null,
                 "id": 472266473,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-05-10T01:28:48Z",
+                "open_issues": 7,
                 "owner": "SkyeSong38",
                 "repo": "CSWinTT",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3104,12 +4180,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ranking-Based Siamese Visual Tracking(CVPR2022)",
+                "homepage": null,
                 "id": 469642704,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-13T07:35:45Z",
+                "open_issues": 13,
                 "owner": "sansanfree",
                 "repo": "RBO",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3120,12 +4201,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 440739336,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-11-23T10:54:55Z",
+                "open_issues": 5,
                 "owner": "phiphiphi31",
                 "repo": "SBT",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3136,12 +4222,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An official implementation for \"Global Tracking via Ensemble of Local Trackers\"",
+                "homepage": null,
                 "id": 469282766,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-03-13T05:54:12Z",
+                "open_issues": 4,
                 "owner": "ZikunZhou",
                 "repo": "GTELT",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -3159,12 +4250,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 430340303,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-18T11:13:35Z",
+                "open_issues": 29,
                 "owner": "LitingLin",
                 "repo": "SwinTrack",
-                "stars": 259
+                "stars": 259,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -3182,12 +4278,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2022] Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework",
+                "homepage": null,
                 "id": 472649963,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-03T11:41:02Z",
+                "open_issues": 54,
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 680
+                "stars": 680,
+                "topics": [
+                  "tracking",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3198,12 +4302,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV'22] The official PyTorch implementation of our ECCV 2022 paper: \"AiATrack: Attention in Attention for Transformer Visual Tracking\".",
+                "homepage": null,
                 "id": 514461158,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-30T03:15:09Z",
+                "open_issues": 1,
                 "owner": "Little-Podi",
                 "repo": "AiATrack",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "attention-mechanism",
+                  "eccv2022",
+                  "object-tracking",
+                  "pytorch",
+                  "single-object-tracking",
+                  "tracking",
+                  "vision-transformer",
+                  "visual-tracking"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3214,12 +4332,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of the HCAT , including code and models.",
+                "homepage": null,
                 "id": 473882045,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-06-08T06:32:13Z",
+                "open_issues": 2,
                 "owner": "chenxin-dlut",
                 "repo": "HCAT",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3230,12 +4353,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 510725474,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-23T00:07:43Z",
+                "open_issues": 8,
                 "owner": "LPXTT",
                 "repo": "SimTrack",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3246,12 +4374,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 515197617,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-07-19T00:50:16Z",
+                "open_issues": 3,
                 "owner": "zxgravity",
                 "repo": "CIA",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3262,12 +4395,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 563259536,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2022-08-19T03:23:08Z",
+                "open_issues": 0,
                 "owner": "CV-Tracking",
                 "repo": "DMTracker",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -3285,12 +4423,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 434607972,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-05-05T04:33:47Z",
+                "open_issues": 10,
                 "owner": "yangmengmeng1997",
                 "repo": "APFNet",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -3308,12 +4451,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Single object tracking and segmentation.",
+                "homepage": null,
                 "id": 298496483,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-14T11:42:35Z",
+                "open_issues": 38,
                 "owner": "JudasDie",
                 "repo": "SOTS",
-                "stars": 517
+                "stars": 517,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3324,12 +4472,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation for paper \"SparseTT: Visual Tracking with Sparse Transformers\"",
+                "homepage": null,
                 "id": 487437668,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-05-21T06:41:25Z",
+                "open_issues": 9,
                 "owner": "fzh0917",
                 "repo": "SparseTT",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -3347,12 +4500,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for paper \"Transformer Lesion Tracker\" in MICCAI2022",
+                "homepage": null,
                 "id": 508131581,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-09-23T03:16:23Z",
+                "open_issues": 3,
                 "owner": "TangWen920812",
                 "repo": "TLT",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -3370,12 +4528,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation of paper Siamese Transformer Pyramid Networks for Real-Time UAV Tracking, accepted by WACV22",
+                "homepage": null,
                 "id": 416046341,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-20T13:51:31Z",
+                "open_issues": 4,
                 "owner": "RISC-NYUAD",
                 "repo": "SiamTPNTracker",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -3393,12 +4556,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official code for the paper \"Tracker Meets Night: A Transformer Enhancer for UAV Tracking\".",
+                "homepage": null,
                 "id": 404980811,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-16T05:28:56Z",
+                "open_issues": 4,
                 "owner": "vision4robotics",
                 "repo": "SCT",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "benchmark",
+                  "low-light-enhancer",
+                  "nighttime-uav-tracking",
+                  "spatial-channel-transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -3416,12 +4589,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Temporal-aware Siamese Tracker: Integrate Temporal Context for 3D Object Tracking",
+                "homepage": null,
                 "id": 544744357,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-11-24T06:27:48Z",
+                "open_issues": 0,
                 "owner": "tqsdyy",
                 "repo": "TAT",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -3439,12 +4617,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Siamese Object Tracking for Vision-Based UAM Approaching with Pairwise Scale-Channel Attention",
+                "homepage": null,
                 "id": 464943828,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-12-15T05:59:50Z",
+                "open_issues": 1,
                 "owner": "vision4robotics",
                 "repo": "SiamSA",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3455,12 +4638,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the implementation of our paper \"HighlightNet: Highlighting LowLight Potential Features for Real-Time UAV Tracking\".",
+                "homepage": null,
                 "id": 465177490,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-03-14T13:37:48Z",
+                "open_issues": 1,
                 "owner": "vision4robotics",
                 "repo": "HighlightNet",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3471,12 +4659,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Local Perception-Aware Transformer for Aerial Tracking",
+                "homepage": null,
                 "id": 465162955,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-08-23T02:25:39Z",
+                "open_issues": 1,
                 "owner": "vision4robotics",
                 "repo": "LPAT",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -3494,12 +4687,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[Pattern Recognition 2025] A large-scale benchmark dataset for color-event based visual tracking",
+                "homepage": null,
                 "id": 564353347,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-11-05T11:40:17Z",
+                "open_issues": 7,
                 "owner": "Event-AHU",
                 "repo": "COESOT",
-                "stars": 82
+                "stars": 82,
+                "topics": [
+                  "benchmark-dataset",
+                  "coesot",
+                  "dynamic-vision-sensors",
+                  "event-camera",
+                  "multi-modal",
+                  "multi-modality-tracking",
+                  "rgb-event",
+                  "single-object-tracking",
+                  "transformer",
+                  "visual-object-tracking"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3510,12 +4719,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dataset for the paper \"RGBD1K: A Large-scale Dataset and Benchmark for RGB-D Object Tracking\".",
+                "homepage": null,
                 "id": 528249898,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-10T05:58:45Z",
+                "open_issues": 0,
                 "owner": "xuefeng-zhu5",
                 "repo": "RGBD1K",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "dataset"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3526,12 +4742,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The implement of \"Learning Spatial-Frequency Transformer for Visual Object Tracking\"",
+                "homepage": null,
                 "id": 525232642,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-06-29T08:01:02Z",
+                "open_issues": 1,
                 "owner": "Tchuanm",
                 "repo": "SFTransT",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3542,12 +4763,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Feature-Distilled Transformer for UAV Tracking",
+                "homepage": null,
                 "id": 454826567,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-03-19T10:36:43Z",
+                "open_issues": 1,
                 "owner": "vision4robotics",
                 "repo": "FDT-tracker",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3558,12 +4784,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "On deep recurrent reinforcement learning for active visual tracking of space noncooperative objects",
+                "homepage": null,
                 "id": 560898691,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-02T14:18:35Z",
+                "open_issues": 0,
                 "owner": "Dongzhou-1996",
                 "repo": "RAMAVT",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -3581,12 +4812,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transformer Tracking (CVPR2021) ",
+                "homepage": null,
                 "id": 348575935,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-07-01T08:29:45Z",
+                "open_issues": 60,
                 "owner": "chenxin-dlut",
                 "repo": "TransT",
-                "stars": 634
+                "stars": 634,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3597,12 +4833,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 348364578,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-05-24T02:32:13Z",
+                "open_issues": 18,
                 "owner": "594422814",
                 "repo": "TransformerTrack",
-                "stars": 262
+                "stars": 262,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3613,12 +4854,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the paper \"Graph Attention Tracking\". (CVPR2021)",
+                "homepage": "https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Graph_Attention_Tracking_CVPR_2021_paper.pdf",
                 "id": 303643358,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-09-04T11:06:08Z",
+                "open_issues": 30,
                 "owner": "ohhhyeahhh",
                 "repo": "SiamGAT",
-                "stars": 151
+                "stars": 151,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3629,12 +4875,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "STMTrack: Template-free Visual Tracking with Space-time Memory Networks",
+                "homepage": null,
                 "id": 345110309,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-06-24T05:16:58Z",
+                "open_issues": 10,
                 "owner": "fzh0917",
                 "repo": "STMTrack",
-                "stars": 93
+                "stars": 93,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -3652,12 +4903,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV'21] Learning Spatio-Temporal Transformer for Visual Tracking",
+                "homepage": null,
                 "id": 351337211,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-13T07:02:29Z",
+                "open_issues": 70,
                 "owner": "researchmm",
                 "repo": "Stark",
-                "stars": 716
+                "stars": 716,
+                "topics": [
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3668,12 +4926,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Single object tracking and segmentation.",
+                "homepage": null,
                 "id": 298496483,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-14T11:42:35Z",
+                "open_issues": 38,
                 "owner": "JudasDie",
                 "repo": "SOTS",
-                "stars": 517
+                "stars": 517,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3684,12 +4947,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HiFT: Hierarchical Feature Transformer for Aerial Tracking (ICCV2021)",
+                "homepage": null,
                 "id": 389854308,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-11T08:14:25Z",
+                "open_issues": 4,
                 "owner": "vision4robotics",
                 "repo": "HiFT",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3700,12 +4968,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of the TransT-M (the winner of VOT-RT 2021) , including code and  models.",
+                "homepage": null,
                 "id": 473881411,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-28T11:16:22Z",
+                "open_issues": 4,
                 "owner": "chenxin-dlut",
                 "repo": "TransT-M",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3716,12 +4989,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 394813812,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-06-26T02:44:29Z",
+                "open_issues": 4,
                 "owner": "phiphiphi31",
                 "repo": "DualTFR",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3732,12 +5010,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 297242338,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-26T02:43:51Z",
+                "open_issues": 0,
                 "owner": "phiphiphi31",
                 "repo": "DMB",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3748,12 +5031,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bin Yu, et al. High-Performance Discriminative Tracking with Transformers. The International Conference on Computer Vision (ICCV). 2021.",
+                "homepage": null,
                 "id": 389275748,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-08-18T06:56:56Z",
+                "open_issues": 1,
                 "owner": "tominute",
                 "repo": "DTT",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -3771,12 +5059,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TrTr: Visual Tracking with Transformer",
+                "homepage": null,
                 "id": 358863441,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-12-19T03:04:09Z",
+                "open_issues": 13,
                 "owner": "tongtybj",
                 "repo": "TrTr",
-                "stars": 83
+                "stars": 83,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3787,12 +5080,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Target Transformed Regression for Accurate Tracking",
+                "homepage": null,
                 "id": 353666642,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-12-05T19:16:51Z",
+                "open_issues": 1,
                 "owner": "MCG-NJU",
                 "repo": "TREG",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -3810,12 +5108,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deformable Siamese Attention Networks for Visual Object Tracking (SiamAttn)",
+                "homepage": null,
                 "id": 350930264,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-03-24T03:17:03Z",
+                "open_issues": 8,
                 "owner": "msight-tech",
                 "repo": "research-siamattn",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -3839,12 +5142,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2026 Findings] ChronoTrack: Temporally Consistent Long-Term Memory for 3D Single Object Tracking",
+                "homepage": null,
                 "id": 1203540931,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-29T05:31:20Z",
+                "open_issues": 1,
                 "owner": "ujaejoon",
                 "repo": "ChronoTrack",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -3862,12 +5170,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code and video demonstrations for SOTFormer: A Constant-Memory Transformer with Ground-Truth-Primed Initialization for Online Single Object Tracking (CVPR 2026).",
+                "homepage": null,
                 "id": 1100788745,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-24T10:44:30Z",
+                "open_issues": 2,
                 "owner": "zhongpingDong12",
                 "repo": "SOTFormer",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -3885,12 +5198,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2024] M3SOT: Multi-frame, Multi-field, Multi-space 3D Single Object Tracking",
+                "homepage": null,
                 "id": 729694513,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-29T04:06:14Z",
+                "open_issues": 3,
                 "owner": "liujia99",
                 "repo": "M3SOT",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "3d-object-tracking",
+                  "point-cloud"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3901,12 +5222,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Robust-3D-Tracking-with-Quality-Aware-Shape-Completion",
+                "homepage": null,
                 "id": 731951311,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-01T14:20:32Z",
+                "open_issues": 2,
                 "owner": "zjwhit",
                 "repo": "SCVTrack",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -3924,12 +5250,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A multi-frame point cloud target tracker that leverages an attention mechanism.",
+                "homepage": null,
                 "id": 762615314,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-20T06:56:43Z",
+                "open_issues": 1,
                 "owner": "aron-lin",
                 "repo": "seqtrack3d",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -3947,12 +5278,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV'25] GSOT3D: Towards Generic 3D Single Object Tracking in the Wild",
+                "homepage": "https://arxiv.org/abs/2412.02129",
                 "id": 880122406,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-17T05:11:12Z",
+                "open_issues": 1,
                 "owner": "ailovejinx",
                 "repo": "GSOT3D",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3963,12 +5299,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds",
+                "homepage": null,
                 "id": 772885373,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-21T12:54:03Z",
+                "open_issues": 1,
                 "owner": "StiphyJay",
                 "repo": "PillarTrack",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -3979,12 +5320,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 715373963,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-11-07T02:26:01Z",
+                "open_issues": 2,
                 "owner": "KnightApple427",
                 "repo": "Easytrack",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -4002,12 +5348,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CXTrack:Improving 3D Point Cloud Tracking with Contextual Information (CVPR2023)",
+                "homepage": null,
                 "id": 564176977,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-09T01:10:37Z",
+                "open_issues": 1,
                 "owner": "slothfulxtx",
                 "repo": "cxtrack3d",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -4025,12 +5376,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV2023] MBPTrack: Improving 3D Point Cloud Tracking with Memory Networks and Box Priors ",
+                "homepage": null,
                 "id": 609509417,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-09-05T02:39:20Z",
+                "open_issues": 13,
                 "owner": "slothfulxtx",
                 "repo": "MBPTrack3D",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "autonomous-driving",
+                  "iccv2023",
+                  "point-cloud",
+                  "tracking"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -4048,12 +5409,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Pytorch Implementation for [AAAI'23 Oral] \"GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds\"",
+                "homepage": null,
                 "id": 614858070,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-18T08:34:31Z",
+                "open_issues": 3,
                 "owner": "haooozi",
                 "repo": "GLT-T",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -4071,12 +5437,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Pytorch Implementation for [AAAI'23 Oral] \"GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds\"",
+                "homepage": null,
                 "id": 614858070,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-18T08:34:31Z",
+                "open_issues": 3,
                 "owner": "haooozi",
                 "repo": "GLT-T",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -4087,12 +5458,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[RAL'23] Motion-to-Matching: A Mixed Paradigm for 3D Single Object Tracking",
+                "homepage": null,
                 "id": 660858488,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-01T07:28:43Z",
+                "open_issues": 0,
                 "owner": "NEU-REAL",
                 "repo": "MTM-Tracker",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -4103,12 +5479,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TIV'23] MMF-Track: Multi-modal Multi-level Fusion for 3D Single Object Tracking",
+                "homepage": null,
                 "id": 657985803,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-04-01T06:13:33Z",
+                "open_issues": 1,
                 "owner": "NEU-REAL",
                 "repo": "MMF-Tracker",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -4119,12 +5500,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-Correlation Siamese Transformer Network with Dense Connection for 3D Single Object Tracking",
+                "homepage": "https://arxiv.org/abs/2312.11051",
                 "id": 701949298,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-05T08:20:22Z",
+                "open_issues": 0,
                 "owner": "liangp",
                 "repo": "MCSTN-3DSOT",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -4142,12 +5528,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch Implementation of PTTR: Relational 3D Point Cloud Object Tracking with Transformer",
+                "homepage": null,
                 "id": 435400519,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-02T04:17:01Z",
+                "open_issues": 14,
                 "owner": "Jasonkks",
                 "repo": "PTTR",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "autonomous-driving",
+                  "point-cloud",
+                  "pytorch",
+                  "tracking"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -4165,12 +5561,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3D Siamese Transformer Network for Single Object Tracking on Point Clouds",
+                "homepage": null,
                 "id": 512375361,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-27T13:03:39Z",
+                "open_issues": 3,
                 "owner": "fpthink",
                 "repo": "STNet",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             },
@@ -4181,12 +5582,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Official implementation of the Context-Matching-Guided Transformer (CMT) Tracker for Point Clouds (ECCV22)",
+                "homepage": null,
                 "id": 513454227,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-12T09:47:36Z",
+                "open_issues": 0,
                 "owner": "jasongzy",
                 "repo": "CMT",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -4204,12 +5610,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch Implementation of PTTR: Relational 3D Point Cloud Object Tracking with Transformer",
+                "homepage": null,
                 "id": 435400519,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-02T04:17:01Z",
+                "open_issues": 14,
                 "owner": "Jasonkks",
                 "repo": "PTTR",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "autonomous-driving",
+                  "point-cloud",
+                  "pytorch",
+                  "tracking"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -4227,12 +5643,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[BMVC'21] 3D Object Tracking with Transformer",
+                "homepage": null,
                 "id": 418046166,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-08-27T12:36:14Z",
+                "open_issues": 0,
                 "owner": "NEU-REAL",
                 "repo": "LTTR",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -4250,12 +5671,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch Implementation for \"PTT: Point-Track-Transformer Module for 3D Single Object Trackingin Point Clouds\"",
+                "homepage": null,
                 "id": 344109156,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-06-29T02:59:25Z",
+                "open_issues": 2,
                 "owner": "shanjiayao",
                 "repo": "PTT",
-                "stars": 91
+                "stars": 91,
+                "topics": [
+                  "deep-learning",
+                  "point-cloud",
+                  "sot",
+                  "tracking"
+                ]
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
             }
@@ -4269,15 +5700,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:28:14.224Z",
+    "last_updated": "2026-08-29T04:45:59.514Z",
     "original_repository_info": {
       "archived": false,
+      "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
+      "homepage": null,
       "id": 449138962,
       "language": null,
+      "license": null,
       "last_commit": "2026-07-26T03:33:47Z",
+      "open_issues": 0,
       "owner": "Little-Podi",
       "repo": "Transformer_Tracking",
-      "stars": 391
+      "stars": 391,
+      "topics": [
+        "awesome-list",
+        "cvpr",
+        "eccv",
+        "iccv",
+        "neurips",
+        "ob",
+        "object-tracking",
+        "paper-list",
+        "single-object-tracking",
+        "tracking",
+        "transformer",
+        "visual-tracking"
+      ]
     },
     "original_repository_sha": "16cc7306a45e4c9f20c8b0b68717f1f76faea27c",
     "enhanced_repository": "enhansome/enhansome-Transformer_Tracking",
