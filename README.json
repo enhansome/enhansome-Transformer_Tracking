@@ -21,7 +21,7 @@
                 "open_issues": 482,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19777,
+                "stars": 19778,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -579,7 +579,7 @@
                 "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 6993,
+                "stars": 6994,
                 "topics": [
                   "inpaint-anything",
                   "interactive-tracking",
@@ -968,6 +968,27 @@
           "children": [
             {
               "node_type": "item",
+              "title": "SAMOSA (Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official repository of \"Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking\"",
+                "homepage": null,
+                "id": 1239665099,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-05-24T12:29:22Z",
+                "open_issues": 1,
+                "owner": "DurYi",
+                "repo": "SAMOSA",
+                "stars": 11,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
+            },
+            {
+              "node_type": "item",
               "title": "APRTrack (Active Adversarial Perturbation-Driven Associative Memory Retrieval for RGB-Event Visual Object Tracking) [paper",
               "description": "] [code]",
               "children": [],
@@ -1004,27 +1025,6 @@
                 "owner": "Event-AHU",
                 "repo": "OpenEvTracking",
                 "stars": 10,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:28:14.224Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SAMOSA (Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking) [paper",
-              "description": "] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official repository of \"Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking\"",
-                "homepage": null,
-                "id": 1239665099,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-05-24T12:29:22Z",
-                "open_issues": 1,
-                "owner": "DurYi",
-                "repo": "SAMOSA",
-                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1538,7 +1538,7 @@
                 "open_issues": 9,
                 "owner": "kangben258",
                 "repo": "MCITrack",
-                "stars": 116,
+                "stars": 117,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2105,7 +2105,7 @@
                 "open_issues": 9,
                 "owner": "MIV-XJTU",
                 "repo": "ARTrack",
-                "stars": 319,
+                "stars": 320,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2773,7 +2773,7 @@
                 "open_issues": 11,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7113,
+                "stars": 7114,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3158,7 +3158,7 @@
                 "open_issues": 9,
                 "owner": "MIV-XJTU",
                 "repo": "ARTrack",
-                "stars": 319,
+                "stars": 320,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3293,7 +3293,7 @@
                 "open_issues": 0,
                 "owner": "jimmy-dq",
                 "repo": "DropTrack",
-                "stars": 41,
+                "stars": 42,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5700,7 +5700,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:45:59.514Z",
+    "last_updated": "2026-08-29T19:17:07.660Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
