@@ -17,8 +17,9 @@
                 "last_commit": "2026-05-30T02:29:40Z",
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19775
-              }
+                "stars": 19777
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "yformer",
                 "repo": "EfficientTAM",
                 "stars": 822
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -55,7 +57,8 @@
                 "owner": "Little-Podi",
                 "repo": "AiATrack",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "Little-Podi",
                 "repo": "GRM",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -91,8 +95,9 @@
                 "last_commit": "2024-08-08T20:25:00Z",
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3515
-              }
+                "stars": 3514
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -129,7 +134,8 @@
                             "owner": "Little-Podi",
                             "repo": "Transformer_Tracking",
                             "stars": 391
-                          }
+                          },
+                          "first_seen": "2026-08-29T00:28:14.224Z"
                         }
                       ]
                     }
@@ -165,7 +171,8 @@
                             "owner": "Little-Podi",
                             "repo": "Transformer_Tracking",
                             "stars": 391
-                          }
+                          },
+                          "first_seen": "2026-08-29T00:28:14.224Z"
                         }
                       ]
                     },
@@ -187,7 +194,8 @@
                             "owner": "Little-Podi",
                             "repo": "Transformer_Tracking",
                             "stars": 391
-                          }
+                          },
+                          "first_seen": "2026-08-29T00:28:14.224Z"
                         }
                       ]
                     },
@@ -209,7 +217,8 @@
                             "owner": "Little-Podi",
                             "repo": "Transformer_Tracking",
                             "stars": 391
-                          }
+                          },
+                          "first_seen": "2026-08-29T00:28:14.224Z"
                         }
                       ]
                     },
@@ -231,7 +240,8 @@
                             "owner": "Little-Podi",
                             "repo": "Transformer_Tracking",
                             "stars": 391
-                          }
+                          },
+                          "first_seen": "2026-08-29T00:28:14.224Z"
                         }
                       ]
                     }
@@ -265,7 +275,8 @@
                 "owner": "MCG-NJU",
                 "repo": "SAM2-Plus",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -287,7 +298,8 @@
                 "owner": "FoundationVision",
                 "repo": "GLEE",
                 "stars": 1170
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -302,7 +314,8 @@
                 "owner": "wdrink",
                 "repo": "OmniVid",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -324,7 +337,8 @@
                 "owner": "MasterBin-IIAU",
                 "repo": "UNINEXT",
                 "stars": 1279
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -346,7 +360,8 @@
                 "owner": "yoxu515",
                 "repo": "MITS",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -367,8 +382,9 @@
                 "last_commit": "2025-12-13T11:02:33Z",
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 6994
-              }
+                "stars": 6993
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -382,8 +398,9 @@
                 "last_commit": "2026-07-03T21:59:37Z",
                 "owner": "z-x-yang",
                 "repo": "Segment-and-Track-Anything",
-                "stars": 3134
-              }
+                "stars": 3135
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -398,7 +415,8 @@
                 "owner": "jiawen-zhu",
                 "repo": "HQTrack",
                 "stars": 753
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -420,7 +438,8 @@
                 "owner": "Flowerfan",
                 "repo": "Trackron",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -442,7 +461,8 @@
                 "owner": "MasterBin-IIAU",
                 "repo": "Unicorn",
                 "stars": 951
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -469,8 +489,9 @@
                 "last_commit": "2026-08-14T14:04:24Z",
                 "owner": "IdolLab",
                 "repo": "RAGTrack",
-                "stars": 204
-              }
+                "stars": 205
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -485,7 +506,8 @@
                 "owner": "kangben258",
                 "repo": "UETrack",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -500,7 +522,8 @@
                 "owner": "faicaiwawa",
                 "repo": "SpikeTrack",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -515,7 +538,8 @@
                 "owner": "AutoLab-SAI-SJTU",
                 "repo": "SEATrack",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -530,7 +554,8 @@
                 "owner": "EIT-NLP",
                 "repo": "UTPTrack",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -545,7 +570,8 @@
                 "owner": "NorahGreen",
                 "repo": "DTPTrack",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -567,7 +593,8 @@
                 "owner": "chenshihfang",
                 "repo": "GOT",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -589,7 +616,8 @@
                 "owner": "Multimedia-Analytics-Laboratory",
                 "repo": "RELO",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -611,7 +639,8 @@
                 "owner": "MelanTech",
                 "repo": "GOLA",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -633,7 +662,8 @@
                 "owner": "yiheng-wang-duke",
                 "repo": "DPTracker",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -655,7 +685,8 @@
                 "owner": "Event-AHU",
                 "repo": "OpenEvTracking",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -670,7 +701,8 @@
                 "owner": "Event-AHU",
                 "repo": "OpenEvTracking",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -685,7 +717,8 @@
                 "owner": "DurYi",
                 "repo": "SAMOSA",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -700,7 +733,8 @@
                 "owner": "Confetti-lxy",
                 "repo": "GLAD",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -715,7 +749,8 @@
                 "owner": "han030927",
                 "repo": "E2EMPT",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -730,7 +765,8 @@
                 "owner": "ouha1998",
                 "repo": "Learning-Progressive-Adaptation-for-Multi-Modal-Tracking",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -745,7 +781,8 @@
                 "owner": "xuboyue1999",
                 "repo": "VL-UniTrack",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -763,11 +800,12 @@
                 "archived": false,
                 "id": 802742044,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-26T07:11:59Z",
+                "last_commit": "2026-08-28T14:39:05Z",
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
                 "stars": 1057
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -782,7 +820,8 @@
                 "owner": "jovanavidenovic",
                 "repo": "DAM4SAM",
                 "stars": 494
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -797,7 +836,8 @@
                 "owner": "XuM007",
                 "repo": "MITracker",
                 "stars": 137
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -811,8 +851,9 @@
                 "last_commit": "2025-06-12T11:42:50Z",
                 "owner": "wuyou3474",
                 "repo": "ORTrack",
-                "stars": 121
-              }
+                "stars": 122
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -826,8 +867,9 @@
                 "last_commit": "2026-08-14T07:44:30Z",
                 "owner": "GXNU-ZhongLab",
                 "repo": "SGLATrack",
-                "stars": 120
-              }
+                "stars": 122
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -842,7 +884,8 @@
                 "owner": "q2479036243",
                 "repo": "MUST-Multispectral-UAV-Single-Object-Tracking",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -857,7 +900,8 @@
                 "owner": "WenRuiCai",
                 "repo": "SPMTrack",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -872,7 +916,8 @@
                 "owner": "GXNU-ZhongLab",
                 "repo": "DUTrack",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -894,7 +939,8 @@
                 "owner": "XiaokunFeng",
                 "repo": "ATCTrack",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -909,7 +955,8 @@
                 "owner": "Z-Z188",
                 "repo": "UMDATrack",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -924,7 +971,8 @@
                 "owner": "supertyd",
                 "repo": "XTrack",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -939,7 +987,8 @@
                 "owner": "LingyiHongfd",
                 "repo": "CompressTracker",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -954,7 +1003,8 @@
                 "owner": "supertyd",
                 "repo": "FlexTrack",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -976,7 +1026,8 @@
                 "owner": "XiaokunFeng",
                 "repo": "CSTrack",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -991,7 +1042,8 @@
                 "owner": "zj5559",
                 "repo": "Motion-Prompt-Tracking",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -1013,7 +1065,8 @@
                 "owner": "IdolLab",
                 "repo": "CADTrack",
                 "stars": 188
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1027,8 +1080,9 @@
                 "last_commit": "2025-06-16T09:01:38Z",
                 "owner": "chenxin-dlut",
                 "repo": "SUTrack",
-                "stars": 166
-              }
+                "stars": 167
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1043,7 +1097,8 @@
                 "owner": "NJU-PCALab",
                 "repo": "STTrack",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1058,7 +1113,8 @@
                 "owner": "kangben258",
                 "repo": "MCITrack",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1073,7 +1129,8 @@
                 "owner": "jiawen-zhu",
                 "repo": "AsymTrack",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1088,7 +1145,8 @@
                 "owner": "GXNU-ZhongLab",
                 "repo": "MambaLCT",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1103,7 +1161,8 @@
                 "owner": "GXNU-ZhongLab",
                 "repo": "TemTrack",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1118,7 +1177,8 @@
                 "owner": "XuChenLong",
                 "repo": "LMTrack",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -1140,7 +1200,8 @@
                 "owner": "LiShenglana",
                 "repo": "GDSTrack",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -1162,7 +1223,8 @@
                 "owner": "GXNU-ZhongLab",
                 "repo": "RSTrack",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1177,7 +1239,8 @@
                 "owner": "wsumel",
                 "repo": "MST",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1192,7 +1255,8 @@
                 "owner": "Zhangyong-Tang",
                 "repo": "UniBench300",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -1214,7 +1278,8 @@
                 "owner": "Nightwatch-Fox11",
                 "repo": "CGTrack",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -1236,7 +1301,8 @@
                 "owner": "XiaokunFeng",
                 "repo": "CTVLT",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -1254,11 +1320,12 @@
                 "archived": false,
                 "id": 802742044,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-26T07:11:59Z",
+                "last_commit": "2026-08-28T14:39:05Z",
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
                 "stars": 1057
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1272,8 +1339,9 @@
                 "last_commit": "2024-10-07T11:51:47Z",
                 "owner": "GXNU-ZhongLab",
                 "repo": "ODTrack",
-                "stars": 191
-              }
+                "stars": 192
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1287,8 +1355,9 @@
                 "last_commit": "2026-03-25T13:13:58Z",
                 "owner": "Event-AHU",
                 "repo": "EventVOT_Benchmark",
-                "stars": 148
-              }
+                "stars": 149
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1303,7 +1372,8 @@
                 "owner": "Wangbiao2",
                 "repo": "R1-Track",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1318,7 +1388,8 @@
                 "owner": "kangben258",
                 "repo": "HiT",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1333,7 +1404,8 @@
                 "owner": "vero1925",
                 "repo": "FocusTrack",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1348,7 +1420,8 @@
                 "owner": "Event-AHU",
                 "repo": "Open_VLTrack",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1363,7 +1436,8 @@
                 "owner": "ManOfStory",
                 "repo": "UncTrack",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1378,7 +1452,8 @@
                 "owner": "Sam1224",
                 "repo": "SAMITE",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1392,8 +1467,9 @@
                 "last_commit": "2025-07-09T09:46:10Z",
                 "owner": "supertyd",
                 "repo": "hotmoe",
-                "stars": 9
-              }
+                "stars": 10
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1408,7 +1484,8 @@
                 "owner": "lsying009",
                 "repo": "ISTASTrack",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1423,7 +1500,8 @@
                 "owner": "xuboyue1999",
                 "repo": "mmtrack",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1438,7 +1516,8 @@
                 "owner": "Event-AHU",
                 "repo": "SlowFast_Event_Track",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -1460,7 +1539,8 @@
                 "owner": "MIV-XJTU",
                 "repo": "ARTrack",
                 "stars": 318
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1474,8 +1554,9 @@
                 "last_commit": "2026-03-25T13:13:58Z",
                 "owner": "Event-AHU",
                 "repo": "EventVOT_Benchmark",
-                "stars": 148
-              }
+                "stars": 149
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1489,8 +1570,9 @@
                 "last_commit": "2024-08-04T06:04:09Z",
                 "owner": "GXNU-ZhongLab",
                 "repo": "AQATrack",
-                "stars": 72
-              }
+                "stars": 73
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1504,8 +1586,9 @@
                 "last_commit": "2024-05-04T06:19:49Z",
                 "owner": "WenRuiCai",
                 "repo": "HIPTrack",
-                "stars": 71
-              }
+                "stars": 72
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1520,7 +1603,8 @@
                 "owner": "hoqolo",
                 "repo": "SDSTrack",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1535,7 +1619,8 @@
                 "owner": "Zongwei97",
                 "repo": "UnTrack",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1550,7 +1635,8 @@
                 "owner": "VISION-SJTU",
                 "repo": "DiffusionTrack",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1565,7 +1651,8 @@
                 "owner": "twotwo2",
                 "repo": "QueryNLT",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -1583,11 +1670,12 @@
                 "archived": false,
                 "id": 802742044,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-26T07:11:59Z",
+                "last_commit": "2026-08-28T14:39:05Z",
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
                 "stars": 1057
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1602,7 +1690,8 @@
                 "owner": "XiaokunFeng",
                 "repo": "MemVLT",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1617,7 +1706,8 @@
                 "owner": "ZhangDailing8",
                 "repo": "CPDTrack",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -1639,7 +1729,8 @@
                 "owner": "LitingLin",
                 "repo": "LoRAT",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -1661,7 +1752,8 @@
                 "owner": "wuyou3474",
                 "repo": "AVTrack",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -1682,8 +1774,9 @@
                 "last_commit": "2024-10-07T11:51:47Z",
                 "owner": "GXNU-ZhongLab",
                 "repo": "ODTrack",
-                "stars": 191
-              }
+                "stars": 192
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1698,7 +1791,8 @@
                 "owner": "SparkTempest",
                 "repo": "BAT",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1713,7 +1807,8 @@
                 "owner": "OpenSpaceAI",
                 "repo": "UVLTrack",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1728,7 +1823,8 @@
                 "owner": "GXNU-ZhongLab",
                 "repo": "EVPTrack",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -1750,7 +1846,8 @@
                 "owner": "xiajianqiang",
                 "repo": "USTrack",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -1772,7 +1869,8 @@
                 "owner": "Multi-Modality-Tracking",
                 "repo": "CKD-ACMMM2024",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -1793,8 +1891,9 @@
                 "last_commit": "2024-08-08T20:25:00Z",
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3515
-              }
+                "stars": 3514
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1809,7 +1908,8 @@
                 "owner": "goutamyg",
                 "repo": "SMAT",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -1831,7 +1931,8 @@
                 "owner": "bearyi26",
                 "repo": "DCPT",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -1853,7 +1954,8 @@
                 "owner": "vision4robotics",
                 "repo": "PRL-Track",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1868,7 +1970,8 @@
                 "owner": "vision4robotics",
                 "repo": "LDEnhancer",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1883,7 +1986,8 @@
                 "owner": "vision4robotics",
                 "repo": "TDA-Track",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1898,7 +2002,8 @@
                 "owner": "vision4robotics",
                 "repo": "DaDiff",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1913,7 +2018,8 @@
                 "owner": "vision4robotics",
                 "repo": "CGDenoiser",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -1935,7 +2041,8 @@
                 "owner": "yangchris11",
                 "repo": "samurai",
                 "stars": 7113
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1950,7 +2057,8 @@
                 "owner": "wuyou3474",
                 "repo": "AVTrack",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1964,8 +2072,9 @@
                 "last_commit": "2024-03-26T06:21:48Z",
                 "owner": "chenxin-dlut",
                 "repo": "SeqTrackv2",
-                "stars": 96
-              }
+                "stars": 97
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1980,7 +2089,8 @@
                 "owner": "chenshihfang",
                 "repo": "GOT",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -1995,7 +2105,8 @@
                 "owner": "Event-AHU",
                 "repo": "FELT_SOT_Benchmark",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2010,7 +2121,8 @@
                 "owner": "LiYunfengLYF",
                 "repo": "CSTNet",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2025,7 +2137,8 @@
                 "owner": "BasitAlawode",
                 "repo": "Best_of_N_Trackers",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2040,7 +2153,8 @@
                 "owner": "Event-AHU",
                 "repo": "Cross_Resolution_SOT",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2055,7 +2169,8 @@
                 "owner": "Alexadlu",
                 "repo": "AFter",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2070,7 +2185,8 @@
                 "owner": "phiphiphi31",
                 "repo": "SBT",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2085,7 +2201,8 @@
                 "owner": "ShaohuaDong2021",
                 "repo": "LoReTrack",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2100,7 +2217,8 @@
                 "owner": "LiYunfengLYF",
                 "repo": "SCANet",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2115,7 +2233,8 @@
                 "owner": "JananiKugaa",
                 "repo": "SIFTrack",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2130,7 +2249,8 @@
                 "owner": "SSSpc333",
                 "repo": "TENet",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2145,7 +2265,8 @@
                 "owner": "openat25",
                 "repo": "HIPTrack-MLS",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2160,7 +2281,8 @@
                 "owner": "ELOESZHANG",
                 "repo": "NLMTrack",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -2182,7 +2304,8 @@
                 "owner": "microsoft",
                 "repo": "VideoX",
                 "stars": 1071
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2197,7 +2320,8 @@
                 "owner": "jiawen-zhu",
                 "repo": "ViPT",
                 "stars": 350
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2212,7 +2336,8 @@
                 "owner": "MIV-XJTU",
                 "repo": "ARTrack",
                 "stars": 318
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2227,7 +2352,8 @@
                 "owner": "SwinTransformer",
                 "repo": "MIM-Depth-Estimation",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2242,7 +2368,8 @@
                 "owner": "Little-Podi",
                 "repo": "GRM",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2257,7 +2384,8 @@
                 "owner": "lizhou-cs",
                 "repo": "JointNLT",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2272,7 +2400,8 @@
                 "owner": "RyanHTR",
                 "repo": "TBSI",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2287,7 +2416,8 @@
                 "owner": "lawrence-cj",
                 "repo": "ARKitTrack",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2302,7 +2432,8 @@
                 "owner": "jimmy-dq",
                 "repo": "DropTrack",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2317,7 +2448,8 @@
                 "owner": "difhnp",
                 "repo": "MAT",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2332,7 +2464,8 @@
                 "owner": "phiphiphi31",
                 "repo": "VideoTrack",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2347,7 +2480,8 @@
                 "owner": "yjybuaa",
                 "repo": "RGBDAerialTracking",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -2369,7 +2503,8 @@
                 "owner": "MCG-NJU",
                 "repo": "MixFormerV2",
                 "stars": 227
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2384,7 +2519,8 @@
                 "owner": "Kou-99",
                 "repo": "ZoomTrack",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -2406,7 +2542,8 @@
                 "owner": "ZHU-Zhiyu",
                 "repo": "High-Rank_RGB-Event_Tracker",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2421,7 +2558,8 @@
                 "owner": "kangben258",
                 "repo": "HiT",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2436,7 +2574,8 @@
                 "owner": "HuajianUP",
                 "repo": "360VOT",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2451,7 +2590,8 @@
                 "owner": "xyyang317",
                 "repo": "Aba-ViTrack",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2466,7 +2606,8 @@
                 "owner": "NorahGreen",
                 "repo": "CiteTracker",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2481,7 +2622,8 @@
                 "owner": "dawnyc",
                 "repo": "ROMTrack",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -2503,7 +2645,8 @@
                 "owner": "hekaijie123",
                 "repo": "TATrack",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2518,7 +2661,8 @@
                 "owner": "HUSTDML",
                 "repo": "CTTrack",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -2540,7 +2684,8 @@
                 "owner": "pblatter",
                 "repo": "ettrack",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -2562,7 +2707,8 @@
                 "owner": "goutamyg",
                 "repo": "MVT",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -2584,7 +2730,8 @@
                 "owner": "vision4robotics",
                 "repo": "SGDViT",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2599,7 +2746,8 @@
                 "owner": "vision4robotics",
                 "repo": "ClimRT",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -2621,7 +2769,8 @@
                 "owner": "vision4robotics",
                 "repo": "CDT",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2636,7 +2785,8 @@
                 "owner": "vision4robotics",
                 "repo": "FDNT",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2651,7 +2801,8 @@
                 "owner": "vision4robotics",
                 "repo": "TRTrack",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2666,7 +2817,8 @@
                 "owner": "vision4robotics",
                 "repo": "ScaleAwareDA",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2681,7 +2833,8 @@
                 "owner": "kalyan0510",
                 "repo": "TOTEM",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -2703,7 +2856,8 @@
                 "owner": "jp-lan",
                 "repo": "ProContEXT",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2718,7 +2872,8 @@
                 "owner": "vpx-ecnu",
                 "repo": "MSTL",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -2740,7 +2895,8 @@
                 "owner": "MCG-NJU",
                 "repo": "MixFormer",
                 "stars": 540
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2755,7 +2911,8 @@
                 "owner": "vision4robotics",
                 "repo": "TCTrack",
                 "stars": 205
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2770,7 +2927,8 @@
                 "owner": "TsingWei",
                 "repo": "LiteTrack",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2785,7 +2943,8 @@
                 "owner": "vision4robotics",
                 "repo": "SAM-DA",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2800,7 +2959,8 @@
                 "owner": "HusterYoung",
                 "repo": "MPLT",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2815,7 +2975,8 @@
                 "owner": "Azong-HQU",
                 "repo": "MMTrack",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2830,7 +2991,8 @@
                 "owner": "supertyd",
                 "repo": "HyperTrack",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -2851,8 +3013,9 @@
                 "last_commit": "2024-08-08T20:25:00Z",
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3515
-              }
+                "stars": 3514
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2867,7 +3030,8 @@
                 "owner": "MCG-NJU",
                 "repo": "MixFormer",
                 "stars": 540
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2882,7 +3046,8 @@
                 "owner": "vision4robotics",
                 "repo": "TCTrack",
                 "stars": 205
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2897,7 +3062,8 @@
                 "owner": "vision4robotics",
                 "repo": "UDAT",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2912,7 +3078,8 @@
                 "owner": "Jee-King",
                 "repo": "CVPR2022_STNet",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2927,7 +3094,8 @@
                 "owner": "SkyeSong38",
                 "repo": "CSWinTT",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2942,7 +3110,8 @@
                 "owner": "sansanfree",
                 "repo": "RBO",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2957,7 +3126,8 @@
                 "owner": "phiphiphi31",
                 "repo": "SBT",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -2972,7 +3142,8 @@
                 "owner": "ZikunZhou",
                 "repo": "GTELT",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -2994,7 +3165,8 @@
                 "owner": "LitingLin",
                 "repo": "SwinTrack",
                 "stars": 259
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -3015,8 +3187,9 @@
                 "last_commit": "2023-08-03T11:41:02Z",
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 679
-              }
+                "stars": 680
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3031,7 +3204,8 @@
                 "owner": "Little-Podi",
                 "repo": "AiATrack",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3046,7 +3220,8 @@
                 "owner": "chenxin-dlut",
                 "repo": "HCAT",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3061,7 +3236,8 @@
                 "owner": "LPXTT",
                 "repo": "SimTrack",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3076,7 +3252,8 @@
                 "owner": "zxgravity",
                 "repo": "CIA",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3091,7 +3268,8 @@
                 "owner": "CV-Tracking",
                 "repo": "DMTracker",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -3113,7 +3291,8 @@
                 "owner": "yangmengmeng1997",
                 "repo": "APFNet",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -3135,7 +3314,8 @@
                 "owner": "JudasDie",
                 "repo": "SOTS",
                 "stars": 517
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3150,7 +3330,8 @@
                 "owner": "fzh0917",
                 "repo": "SparseTT",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -3172,7 +3353,8 @@
                 "owner": "TangWen920812",
                 "repo": "TLT",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -3194,7 +3376,8 @@
                 "owner": "RISC-NYUAD",
                 "repo": "SiamTPNTracker",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -3216,7 +3399,8 @@
                 "owner": "vision4robotics",
                 "repo": "SCT",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -3238,7 +3422,8 @@
                 "owner": "tqsdyy",
                 "repo": "TAT",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -3260,7 +3445,8 @@
                 "owner": "vision4robotics",
                 "repo": "SiamSA",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3275,7 +3461,8 @@
                 "owner": "vision4robotics",
                 "repo": "HighlightNet",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3290,7 +3477,8 @@
                 "owner": "vision4robotics",
                 "repo": "LPAT",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -3312,7 +3500,8 @@
                 "owner": "Event-AHU",
                 "repo": "COESOT",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3327,7 +3516,8 @@
                 "owner": "xuefeng-zhu5",
                 "repo": "RGBD1K",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3342,7 +3532,8 @@
                 "owner": "Tchuanm",
                 "repo": "SFTransT",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3357,7 +3548,8 @@
                 "owner": "vision4robotics",
                 "repo": "FDT-tracker",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3372,7 +3564,8 @@
                 "owner": "Dongzhou-1996",
                 "repo": "RAMAVT",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -3394,7 +3587,8 @@
                 "owner": "chenxin-dlut",
                 "repo": "TransT",
                 "stars": 634
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3409,7 +3603,8 @@
                 "owner": "594422814",
                 "repo": "TransformerTrack",
                 "stars": 262
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3424,7 +3619,8 @@
                 "owner": "ohhhyeahhh",
                 "repo": "SiamGAT",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3439,7 +3635,8 @@
                 "owner": "fzh0917",
                 "repo": "STMTrack",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -3461,7 +3658,8 @@
                 "owner": "researchmm",
                 "repo": "Stark",
                 "stars": 716
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3476,7 +3674,8 @@
                 "owner": "JudasDie",
                 "repo": "SOTS",
                 "stars": 517
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3491,7 +3690,8 @@
                 "owner": "vision4robotics",
                 "repo": "HiFT",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3506,7 +3706,8 @@
                 "owner": "chenxin-dlut",
                 "repo": "TransT-M",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3521,7 +3722,8 @@
                 "owner": "phiphiphi31",
                 "repo": "DualTFR",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3536,7 +3738,8 @@
                 "owner": "phiphiphi31",
                 "repo": "DMB",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3551,7 +3754,8 @@
                 "owner": "tominute",
                 "repo": "DTT",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -3573,7 +3777,8 @@
                 "owner": "tongtybj",
                 "repo": "TrTr",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3588,7 +3793,8 @@
                 "owner": "MCG-NJU",
                 "repo": "TREG",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -3610,7 +3816,8 @@
                 "owner": "msight-tech",
                 "repo": "research-siamattn",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -3638,7 +3845,8 @@
                 "owner": "ujaejoon",
                 "repo": "ChronoTrack",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -3660,7 +3868,8 @@
                 "owner": "zhongpingDong12",
                 "repo": "SOTFormer",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -3682,7 +3891,8 @@
                 "owner": "liujia99",
                 "repo": "M3SOT",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3697,7 +3907,8 @@
                 "owner": "zjwhit",
                 "repo": "SCVTrack",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -3719,7 +3930,8 @@
                 "owner": "aron-lin",
                 "repo": "seqtrack3d",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -3741,7 +3953,8 @@
                 "owner": "ailovejinx",
                 "repo": "GSOT3D",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3756,7 +3969,8 @@
                 "owner": "StiphyJay",
                 "repo": "PillarTrack",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3771,7 +3985,8 @@
                 "owner": "KnightApple427",
                 "repo": "Easytrack",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -3793,7 +4008,8 @@
                 "owner": "slothfulxtx",
                 "repo": "cxtrack3d",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -3815,7 +4031,8 @@
                 "owner": "slothfulxtx",
                 "repo": "MBPTrack3D",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -3837,7 +4054,8 @@
                 "owner": "haooozi",
                 "repo": "GLT-T",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -3859,7 +4077,8 @@
                 "owner": "haooozi",
                 "repo": "GLT-T",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3874,7 +4093,8 @@
                 "owner": "NEU-REAL",
                 "repo": "MTM-Tracker",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3889,7 +4109,8 @@
                 "owner": "NEU-REAL",
                 "repo": "MMF-Tracker",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3904,7 +4125,8 @@
                 "owner": "liangp",
                 "repo": "MCSTN-3DSOT",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -3926,7 +4148,8 @@
                 "owner": "Jasonkks",
                 "repo": "PTTR",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -3948,7 +4171,8 @@
                 "owner": "fpthink",
                 "repo": "STNet",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             },
             {
               "node_type": "item",
@@ -3963,7 +4187,8 @@
                 "owner": "jasongzy",
                 "repo": "CMT",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -3985,7 +4210,8 @@
                 "owner": "Jasonkks",
                 "repo": "PTTR",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -4007,7 +4233,8 @@
                 "owner": "NEU-REAL",
                 "repo": "LTTR",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -4029,7 +4256,8 @@
                 "owner": "shanjiayao",
                 "repo": "PTT",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
             }
           ],
           "description": null,
@@ -4041,7 +4269,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:47:15.787Z",
+    "last_updated": "2026-08-29T00:28:14.224Z",
     "original_repository_info": {
       "archived": false,
       "id": 449138962,
