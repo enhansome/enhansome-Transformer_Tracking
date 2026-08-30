@@ -21,7 +21,7 @@
                 "open_issues": 482,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19778,
+                "stars": 19781,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -734,7 +734,7 @@
                 "open_issues": 3,
                 "owner": "IdolLab",
                 "repo": "RAGTrack",
-                "stars": 205,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -776,7 +776,7 @@
                 "open_issues": 1,
                 "owner": "faicaiwawa",
                 "repo": "SpikeTrack",
-                "stars": 43,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1909,7 +1909,7 @@
                 "open_issues": 4,
                 "owner": "kangben258",
                 "repo": "HiT",
-                "stars": 61,
+                "stars": 60,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3179,7 +3179,7 @@
                 "open_issues": 6,
                 "owner": "SwinTransformer",
                 "repo": "MIM-Depth-Estimation",
-                "stars": 175,
+                "stars": 176,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3454,7 +3454,7 @@
                 "open_issues": 4,
                 "owner": "kangben258",
                 "repo": "HiT",
-                "stars": 61,
+                "stars": 60,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3622,7 +3622,7 @@
                 "open_issues": 9,
                 "owner": "pblatter",
                 "repo": "ettrack",
-                "stars": 98,
+                "stars": 99,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3896,7 +3896,7 @@
                 "open_issues": 44,
                 "owner": "MCG-NJU",
                 "repo": "MixFormer",
-                "stars": 540,
+                "stars": 539,
                 "topics": [
                   "cvpr2022",
                   "tracking",
@@ -4080,7 +4080,7 @@
                 "open_issues": 44,
                 "owner": "MCG-NJU",
                 "repo": "MixFormer",
-                "stars": 540,
+                "stars": 539,
                 "topics": [
                   "cvpr2022",
                   "tracking",
@@ -4259,7 +4259,7 @@
                 "open_issues": 29,
                 "owner": "LitingLin",
                 "repo": "SwinTrack",
-                "stars": 259,
+                "stars": 260,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4287,7 +4287,7 @@
                 "open_issues": 54,
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 680,
+                "stars": 681,
                 "topics": [
                   "tracking",
                   "transformer"
@@ -4821,7 +4821,7 @@
                 "open_issues": 60,
                 "owner": "chenxin-dlut",
                 "repo": "TransT",
-                "stars": 634,
+                "stars": 635,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4956,7 +4956,7 @@
                 "open_issues": 4,
                 "owner": "vision4robotics",
                 "repo": "HiFT",
-                "stars": 86,
+                "stars": 85,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5700,7 +5700,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:17:07.660Z",
+    "last_updated": "2026-08-30T19:09:04.710Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
