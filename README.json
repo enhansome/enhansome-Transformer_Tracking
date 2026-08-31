@@ -21,7 +21,7 @@
                 "open_issues": 482,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19781,
+                "stars": 19784,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -579,7 +579,7 @@
                 "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 6994,
+                "stars": 6996,
                 "topics": [
                   "inpaint-anything",
                   "interactive-tracking",
@@ -607,7 +607,7 @@
                 "open_issues": 45,
                 "owner": "z-x-yang",
                 "repo": "Segment-and-Track-Anything",
-                "stars": 3135,
+                "stars": 3134,
                 "topics": [
                   "interactive-segmentation",
                   "segment-anything",
@@ -1181,7 +1181,7 @@
                 "open_issues": 14,
                 "owner": "XuM007",
                 "repo": "MITracker",
-                "stars": 137,
+                "stars": 138,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1650,7 +1650,7 @@
                 "open_issues": 1,
                 "owner": "LiShenglana",
                 "repo": "GDSTrack",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2773,7 +2773,7 @@
                 "open_issues": 11,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7114,
+                "stars": 7113,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3622,7 +3622,7 @@
                 "open_issues": 9,
                 "owner": "pblatter",
                 "repo": "ettrack",
-                "stars": 99,
+                "stars": 100,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4460,7 +4460,7 @@
                 "open_issues": 38,
                 "owner": "JudasDie",
                 "repo": "SOTS",
-                "stars": 517,
+                "stars": 518,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4935,7 +4935,7 @@
                 "open_issues": 38,
                 "owner": "JudasDie",
                 "repo": "SOTS",
-                "stars": 517,
+                "stars": 518,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5700,7 +5700,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T19:09:04.710Z",
+    "last_updated": "2026-08-31T21:21:59.519Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
