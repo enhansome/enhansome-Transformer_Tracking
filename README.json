@@ -21,7 +21,7 @@
                 "open_issues": 482,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19784,
+                "stars": 19788,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -923,7 +923,7 @@
                 "open_issues": 3,
                 "owner": "MelanTech",
                 "repo": "GOLA",
-                "stars": 27,
+                "stars": 28,
                 "topics": [
                   "tracking",
                   "transformer"
@@ -1042,7 +1042,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-03-14T15:26:39Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "Confetti-lxy",
                 "repo": "GLAD",
                 "stars": 6,
@@ -1132,7 +1132,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-08-28T14:39:05Z",
+                "last_commit": "2026-09-01T15:59:24Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -1157,7 +1157,7 @@
                 "open_issues": 8,
                 "owner": "jovanavidenovic",
                 "repo": "DAM4SAM",
-                "stars": 494,
+                "stars": 493,
                 "topics": [
                   "computer-vision",
                   "object-tracking"
@@ -1188,6 +1188,27 @@
             },
             {
               "node_type": "item",
+              "title": "SGLATrack (Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking (CVPR 2025)",
+                "homepage": null,
+                "id": 945422421,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-14T07:44:30Z",
+                "open_issues": 9,
+                "owner": "GXNU-ZhongLab",
+                "repo": "SGLATrack",
+                "stars": 123,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
+            },
+            {
+              "node_type": "item",
               "title": "ORTrack (Learning Occlusion-Robust Vision Transformers for Real-Time UAV Tracking) [paper",
               "description": "] [code]",
               "children": [],
@@ -1209,27 +1230,6 @@
             },
             {
               "node_type": "item",
-              "title": "SGLATrack (Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking) [paper",
-              "description": "] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking (CVPR 2025)",
-                "homepage": null,
-                "id": 945422421,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-08-14T07:44:30Z",
-                "open_issues": 9,
-                "owner": "GXNU-ZhongLab",
-                "repo": "SGLATrack",
-                "stars": 122,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:28:14.224Z"
-            },
-            {
-              "node_type": "item",
               "title": "UNTrack (MUST: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking) [paper",
               "description": "] [code]",
               "children": [],
@@ -1244,7 +1244,7 @@
                 "open_issues": 8,
                 "owner": "q2479036243",
                 "repo": "MUST-Multispectral-UAV-Single-Object-Tracking",
-                "stars": 74,
+                "stars": 73,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1265,7 +1265,7 @@
                 "open_issues": 8,
                 "owner": "WenRuiCai",
                 "repo": "SPMTrack",
-                "stars": 60,
+                "stars": 61,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1377,7 +1377,7 @@
                 "open_issues": 5,
                 "owner": "LingyiHongfd",
                 "repo": "CompressTracker",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1475,7 +1475,7 @@
                 "open_issues": 0,
                 "owner": "IdolLab",
                 "repo": "CADTrack",
-                "stars": 188,
+                "stars": 189,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1496,7 +1496,28 @@
                 "open_issues": 12,
                 "owner": "chenxin-dlut",
                 "repo": "SUTrack",
-                "stars": 167,
+                "stars": 168,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MCITrack (Exploring Enhanced Contextual Information for Video-Level Object Tracking) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 901259510,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-12-17T07:45:19Z",
+                "open_issues": 9,
+                "owner": "kangben258",
+                "repo": "MCITrack",
+                "stars": 118,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1518,27 +1539,6 @@
                 "owner": "NJU-PCALab",
                 "repo": "STTrack",
                 "stars": 118,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:28:14.224Z"
-            },
-            {
-              "node_type": "item",
-              "title": "MCITrack (Exploring Enhanced Contextual Information for Video-Level Object Tracking) [paper",
-              "description": "] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 901259510,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2024-12-17T07:45:19Z",
-                "open_issues": 9,
-                "owner": "kangben258",
-                "repo": "MCITrack",
-                "stars": 117,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1802,7 +1802,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-08-28T14:39:05Z",
+                "last_commit": "2026-09-01T15:59:24Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -2014,7 +2014,7 @@
                 "open_issues": 0,
                 "owner": "supertyd",
                 "repo": "hotmoe",
-                "stars": 10,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2291,7 +2291,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-08-28T14:39:05Z",
+                "last_commit": "2026-09-01T15:59:24Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -2365,7 +2365,7 @@
                 "open_issues": 19,
                 "owner": "LitingLin",
                 "repo": "LoRAT",
-                "stars": 125,
+                "stars": 126,
                 "topics": [
                   "single-object-tracking",
                   "tracking"
@@ -2445,7 +2445,7 @@
                 "open_issues": 11,
                 "owner": "SparkTempest",
                 "repo": "BAT",
-                "stars": 101,
+                "stars": 102,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3137,7 +3137,7 @@
                 "open_issues": 12,
                 "owner": "jiawen-zhu",
                 "repo": "ViPT",
-                "stars": 350,
+                "stars": 351,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4287,7 +4287,7 @@
                 "open_issues": 54,
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 681,
+                "stars": 682,
                 "topics": [
                   "tracking",
                   "transformer"
@@ -5284,7 +5284,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-11-17T05:11:12Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "ailovejinx",
                 "repo": "GSOT3D",
                 "stars": 33,
@@ -5700,7 +5700,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:21:59.519Z",
+    "last_updated": "2026-09-01T19:16:29.987Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
