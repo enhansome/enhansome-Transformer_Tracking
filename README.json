@@ -21,7 +21,7 @@
                 "open_issues": 482,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19788,
+                "stars": 19793,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -42,7 +42,7 @@
                 "open_issues": 24,
                 "owner": "yformer",
                 "repo": "EfficientTAM",
-                "stars": 822,
+                "stars": 823,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -137,7 +137,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3514,
+                "stars": 3513,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -181,7 +181,7 @@
                             "id": 449138962,
                             "language": null,
                             "license": null,
-                            "last_commit": "2026-07-26T03:33:47Z",
+                            "last_commit": "2026-09-02T08:47:02Z",
                             "open_issues": 0,
                             "owner": "Little-Podi",
                             "repo": "Transformer_Tracking",
@@ -236,7 +236,7 @@
                             "id": 449138962,
                             "language": null,
                             "license": null,
-                            "last_commit": "2026-07-26T03:33:47Z",
+                            "last_commit": "2026-09-02T08:47:02Z",
                             "open_issues": 0,
                             "owner": "Little-Podi",
                             "repo": "Transformer_Tracking",
@@ -277,7 +277,7 @@
                             "id": 449138962,
                             "language": null,
                             "license": null,
-                            "last_commit": "2026-07-26T03:33:47Z",
+                            "last_commit": "2026-09-02T08:47:02Z",
                             "open_issues": 0,
                             "owner": "Little-Podi",
                             "repo": "Transformer_Tracking",
@@ -318,7 +318,7 @@
                             "id": 449138962,
                             "language": null,
                             "license": null,
-                            "last_commit": "2026-07-26T03:33:47Z",
+                            "last_commit": "2026-09-02T08:47:02Z",
                             "open_issues": 0,
                             "owner": "Little-Podi",
                             "repo": "Transformer_Tracking",
@@ -359,7 +359,7 @@
                             "id": 449138962,
                             "language": null,
                             "license": null,
-                            "last_commit": "2026-07-26T03:33:47Z",
+                            "last_commit": "2026-09-02T08:47:02Z",
                             "open_issues": 0,
                             "owner": "Little-Podi",
                             "repo": "Transformer_Tracking",
@@ -607,7 +607,7 @@
                 "open_issues": 45,
                 "owner": "z-x-yang",
                 "repo": "Segment-and-Track-Anything",
-                "stars": 3134,
+                "stars": 3135,
                 "topics": [
                   "interactive-segmentation",
                   "segment-anything",
@@ -843,6 +843,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SCDT (Spatio-Temporal Conditional Denoising Transformer for Modality-Missing RGBT Tracking) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Spatio-Temporal Conditional Denoising Transformer for Modality-Missing RGBT Tracking",
+                "homepage": null,
+                "id": 1186038491,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-03-19T07:46:40Z",
+                "open_issues": 2,
+                "owner": "Multi-Modality-Tracking",
+                "repo": "SCDT-CVPR2026",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-09-02T19:16:47.781Z"
             }
           ],
           "description": null,
@@ -909,6 +930,34 @@
           "children": [
             {
               "node_type": "item",
+              "title": "MaST (MaST: Motion-aware Sparse Pipeline for Lightweight Object Tracking) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1347156799,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-08-26T09:43:46Z",
+                "open_issues": 0,
+                "owner": "TsingWei",
+                "repo": "MaST",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-09-02T19:16:47.781Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ECCV 2026"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "GOLA (Group Orthogonal Low-Rank Adaptation for RGB-T Tracking) [paper",
               "description": "] [code]",
               "children": [],
@@ -940,6 +989,34 @@
           "children": [
             {
               "node_type": "item",
+              "title": "AnyTrack (AnyTrack: Unifying Visual Object Tracking with Any Modalities) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ACMMM 2026 Oral] AnyTrack: Unifying Visual Object Tracking with Any Modalities",
+                "homepage": null,
+                "id": 1306150973,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-07-25T10:47:32Z",
+                "open_issues": 2,
+                "owner": "IdolLab",
+                "repo": "AnyTrack",
+                "stars": 46,
+                "topics": []
+              },
+              "first_seen": "2026-09-02T19:16:47.781Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MM 2026"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "DPTracker (Dual Prompt-Driven Feature Encoding for Nighttime UAV Tracking) [paper",
               "description": "] [code]",
               "children": [],
@@ -954,7 +1031,7 @@
                 "open_issues": 2,
                 "owner": "yiheng-wang-duke",
                 "repo": "DPTracker",
-                "stars": 4,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1042,7 +1119,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-03-14T15:26:39Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "Confetti-lxy",
                 "repo": "GLAD",
                 "stars": 6,
@@ -1132,7 +1209,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-01T15:59:24Z",
+                "last_commit": "2026-09-02T01:20:36Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -1157,7 +1234,7 @@
                 "open_issues": 8,
                 "owner": "jovanavidenovic",
                 "repo": "DAM4SAM",
-                "stars": 493,
+                "stars": 494,
                 "topics": [
                   "computer-vision",
                   "object-tracking"
@@ -1802,7 +1879,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-01T15:59:24Z",
+                "last_commit": "2026-09-02T01:20:36Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -2291,7 +2368,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-01T15:59:24Z",
+                "last_commit": "2026-09-02T01:20:36Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -2396,7 +2473,7 @@
                 "open_issues": 11,
                 "owner": "wuyou3474",
                 "repo": "AVTrack",
-                "stars": 114,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2571,7 +2648,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3514,
+                "stars": 3513,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -2794,7 +2871,7 @@
                 "open_issues": 11,
                 "owner": "wuyou3474",
                 "repo": "AVTrack",
-                "stars": 114,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3230,7 +3307,7 @@
                 "open_issues": 10,
                 "owner": "lizhou-cs",
                 "repo": "JointNLT",
-                "stars": 77,
+                "stars": 78,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4054,7 +4131,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3514,
+                "stars": 3513,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -4460,7 +4537,7 @@
                 "open_issues": 38,
                 "owner": "JudasDie",
                 "repo": "SOTS",
-                "stars": 518,
+                "stars": 517,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4821,7 +4898,7 @@
                 "open_issues": 60,
                 "owner": "chenxin-dlut",
                 "repo": "TransT",
-                "stars": 635,
+                "stars": 634,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4863,7 +4940,7 @@
                 "open_issues": 30,
                 "owner": "ohhhyeahhh",
                 "repo": "SiamGAT",
-                "stars": 151,
+                "stars": 150,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4884,7 +4961,7 @@
                 "open_issues": 10,
                 "owner": "fzh0917",
                 "repo": "STMTrack",
-                "stars": 93,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4912,7 +4989,7 @@
                 "open_issues": 70,
                 "owner": "researchmm",
                 "repo": "Stark",
-                "stars": 716,
+                "stars": 714,
                 "topics": [
                   "transformer"
                 ]
@@ -4935,7 +5012,7 @@
                 "open_issues": 38,
                 "owner": "JudasDie",
                 "repo": "SOTS",
-                "stars": 518,
+                "stars": 517,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4956,7 +5033,7 @@
                 "open_issues": 4,
                 "owner": "vision4robotics",
                 "repo": "HiFT",
-                "stars": 85,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5117,7 +5194,7 @@
                 "open_issues": 8,
                 "owner": "msight-tech",
                 "repo": "research-siamattn",
-                "stars": 48,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5284,7 +5361,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-11-17T05:11:12Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "ailovejinx",
                 "repo": "GSOT3D",
                 "stars": 33,
@@ -5700,7 +5777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T19:16:29.987Z",
+    "last_updated": "2026-09-02T19:16:47.781Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
@@ -5708,7 +5785,7 @@
       "id": 449138962,
       "language": null,
       "license": null,
-      "last_commit": "2026-07-26T03:33:47Z",
+      "last_commit": "2026-09-02T08:47:02Z",
       "open_issues": 0,
       "owner": "Little-Podi",
       "repo": "Transformer_Tracking",
@@ -5728,7 +5805,7 @@
         "visual-tracking"
       ]
     },
-    "original_repository_sha": "16cc7306a45e4c9f20c8b0b68717f1f76faea27c",
+    "original_repository_sha": "d5e9f9f7ffc29eef496099cd5d3d692f76695fa5",
     "enhanced_repository": "enhansome/enhansome-Transformer_Tracking",
     "enhanced_repository_description": null,
     "title": "Awesome Transformer Tracking with stars"
