@@ -18,10 +18,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-30T02:29:40Z",
-                "open_issues": 482,
+                "open_issues": 483,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19793,
+                "stars": 19801,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -42,7 +42,7 @@
                 "open_issues": 24,
                 "owner": "yformer",
                 "repo": "EfficientTAM",
-                "stars": 823,
+                "stars": 825,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -579,7 +579,7 @@
                 "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 6996,
+                "stars": 6997,
                 "topics": [
                   "inpaint-anything",
                   "interactive-tracking",
@@ -604,7 +604,7 @@
                 "language": "Jupyter Notebook",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-07-03T21:59:37Z",
-                "open_issues": 45,
+                "open_issues": 43,
                 "owner": "z-x-yang",
                 "repo": "Segment-and-Track-Anything",
                 "stars": 3135,
@@ -773,7 +773,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-04-08T06:08:38Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "faicaiwawa",
                 "repo": "SpikeTrack",
                 "stars": 44,
@@ -839,7 +839,7 @@
                 "open_issues": 2,
                 "owner": "NorahGreen",
                 "repo": "DTPTrack",
-                "stars": 14,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1210,7 +1210,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-09-02T01:20:36Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
                 "stars": 1057,
@@ -1276,7 +1276,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-14T07:44:30Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "GXNU-ZhongLab",
                 "repo": "SGLATrack",
                 "stars": 123,
@@ -1880,7 +1880,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-09-02T01:20:36Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
                 "stars": 1057,
@@ -1925,7 +1925,7 @@
                 "open_issues": 4,
                 "owner": "Event-AHU",
                 "repo": "EventVOT_Benchmark",
-                "stars": 149,
+                "stars": 150,
                 "topics": [
                   "benchmark-dataset",
                   "cross-modality",
@@ -2203,7 +2203,7 @@
                 "open_issues": 4,
                 "owner": "Event-AHU",
                 "repo": "EventVOT_Benchmark",
-                "stars": 149,
+                "stars": 150,
                 "topics": [
                   "benchmark-dataset",
                   "cross-modality",
@@ -2369,7 +2369,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-09-02T01:20:36Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
                 "stars": 1057,
@@ -3461,7 +3461,7 @@
                 "open_issues": 35,
                 "owner": "MCG-NJU",
                 "repo": "MixFormerV2",
-                "stars": 227,
+                "stars": 228,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4989,7 +4989,7 @@
                 "open_issues": 70,
                 "owner": "researchmm",
                 "repo": "Stark",
-                "stars": 714,
+                "stars": 713,
                 "topics": [
                   "transformer"
                 ]
@@ -5777,7 +5777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T19:16:47.781Z",
+    "last_updated": "2026-09-03T19:11:02.107Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
