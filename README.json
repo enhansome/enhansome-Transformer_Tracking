@@ -18,10 +18,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-30T02:29:40Z",
-                "open_issues": 483,
+                "open_issues": 484,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19811,
+                "stars": 19812,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -734,7 +734,7 @@
                 "open_issues": 3,
                 "owner": "IdolLab",
                 "repo": "RAGTrack",
-                "stars": 211,
+                "stars": 215,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -755,7 +755,7 @@
                 "open_issues": 2,
                 "owner": "kangben258",
                 "repo": "UETrack",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1003,7 +1003,7 @@
                 "open_issues": 2,
                 "owner": "IdolLab",
                 "repo": "AnyTrack",
-                "stars": 51,
+                "stars": 54,
                 "topics": []
               },
               "first_seen": "2026-09-02T19:16:47.781Z"
@@ -1209,11 +1209,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-02T01:20:36Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-05T13:19:11Z",
+                "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1058,
+                "stars": 1059,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1279,7 +1279,7 @@
                 "open_issues": 9,
                 "owner": "GXNU-ZhongLab",
                 "repo": "SGLATrack",
-                "stars": 123,
+                "stars": 124,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1552,7 +1552,7 @@
                 "open_issues": 0,
                 "owner": "IdolLab",
                 "repo": "CADTrack",
-                "stars": 196,
+                "stars": 200,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1879,11 +1879,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-02T01:20:36Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-05T13:19:11Z",
+                "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1058,
+                "stars": 1059,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2368,11 +2368,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-02T01:20:36Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-05T13:19:11Z",
+                "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1058,
+                "stars": 1059,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3046,27 +3046,6 @@
             },
             {
               "node_type": "item",
-              "title": "LoReTrack (LoReTrack: Efficient and Accurate Low-Resolution Transformer Tracking) [paper",
-              "description": "] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "LoReTrack: Efficient and Accurate Low-Resolution Transformer Tracking, IROS 2025 (Oral)",
-                "homepage": null,
-                "id": 1018813208,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-07-13T05:19:42Z",
-                "open_issues": 1,
-                "owner": "ShaohuaDong2021",
-                "repo": "LoReTrack",
-                "stars": 10,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:28:14.224Z"
-            },
-            {
-              "node_type": "item",
               "title": "SCANet (RGB-Sonar Tracking Benchmark and Spatial Cross-Attention Transformer Tracker) [paper",
               "description": "] [code]",
               "children": [],
@@ -3081,6 +3060,27 @@
                 "open_issues": 8,
                 "owner": "LiYunfengLYF",
                 "repo": "SCANet",
+                "stars": 11,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
+            },
+            {
+              "node_type": "item",
+              "title": "LoReTrack (LoReTrack: Efficient and Accurate Low-Resolution Transformer Tracking) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "LoReTrack: Efficient and Accurate Low-Resolution Transformer Tracking, IROS 2025 (Oral)",
+                "homepage": null,
+                "id": 1018813208,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-07-13T05:19:42Z",
+                "open_issues": 1,
+                "owner": "ShaohuaDong2021",
+                "repo": "LoReTrack",
                 "stars": 10,
                 "topics": []
               },
@@ -5777,7 +5777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T18:53:19.148Z",
+    "last_updated": "2026-09-05T17:59:34.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
