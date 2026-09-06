@@ -21,7 +21,7 @@
                 "open_issues": 484,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19812,
+                "stars": 19815,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -944,7 +944,7 @@
                 "open_issues": 0,
                 "owner": "TsingWei",
                 "repo": "MaST",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-09-02T19:16:47.781Z"
@@ -1471,7 +1471,7 @@
                 "id": 1015973470,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-08-27T11:07:59Z",
+                "last_commit": "2026-09-05T20:24:37Z",
                 "open_issues": 3,
                 "owner": "supertyd",
                 "repo": "FlexTrack",
@@ -1552,7 +1552,7 @@
                 "open_issues": 0,
                 "owner": "IdolLab",
                 "repo": "CADTrack",
-                "stars": 200,
+                "stars": 201,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5777,7 +5777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T17:59:34.891Z",
+    "last_updated": "2026-09-06T18:06:59.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",

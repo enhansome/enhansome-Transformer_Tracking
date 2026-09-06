@@ -15,7 +15,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### Game Over???
 
-* **[SAM 2](https://ai.meta.com/SAM2)** \[[paper](https://arxiv.org/abs/2408.00714)] \[[code](https://github.com/facebookresearch/segment-anything-2) ⭐ 19,812 | 🐛 484 | 🌐 Jupyter Notebook | 📅 2026-05-30]
+* **[SAM 2](https://ai.meta.com/SAM2)** \[[paper](https://arxiv.org/abs/2408.00714)] \[[code](https://github.com/facebookresearch/segment-anything-2) ⭐ 19,815 | 🐛 484 | 🌐 Jupyter Notebook | 📅 2026-05-30]
 * **[EfficientTAM](https://yformer.github.io/efficient-track-anything)** \[[paper](https://arxiv.org/abs/2411.18933)] \[[code](https://github.com/yformer/EfficientTAM) ⭐ 825 | 🐛 24 | 🌐 Python | 📅 2025-01-06]
 
 ### State-of-the-Art Transformer Tracker:two\_hearts::two\_hearts::two\_hearts:
@@ -135,7 +135,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### ECCV 2026
 
-* **MaST** (MaST: Motion-aware Sparse Pipeline for Lightweight Object Tracking) \[[paper](https://arxiv.org/abs/2608.24365)] \[[code](https://github.com/TsingWei/MaST) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-08-26]
+* **MaST** (MaST: Motion-aware Sparse Pipeline for Lightweight Object Tracking) \[[paper](https://arxiv.org/abs/2608.24365)] \[[code](https://github.com/TsingWei/MaST) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-08-26]
 
 ### AAAI 2026
 
@@ -189,7 +189,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 * **UMDATrack** (UMDATrack: Unified Multi-Domain Adaptive Tracking Under Adverse Weather Conditions) \[[paper](https://arxiv.org/abs/2507.00648)] \[[code](https://github.com/Z-Z188/UMDATrack) ⭐ 44 | 🐛 3 | 🌐 Python | 📅 2026-02-10]
 * **XTrack** (XTrack: Multimodal Training Boosts RGB-X Video Object Trackers) \[[paper](https://arxiv.org/abs/2405.17773)] \[[code](https://github.com/supertyd/XTrack) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2025-07-11]
 * **CompressTracker** (General Compression Framework for Efficient Transformer Object Tracking) \[[paper](https://arxiv.org/abs/2409.17564)] \[[code](https://github.com/LingyiHongfd/CompressTracker) ⭐ 25 | 🐛 5 | 🌐 Python | 📅 2025-11-16]
-* **FlexTrack** (What You Have is What You Track: Adaptive and Robust Multimodal Tracking) \[[paper](https://arxiv.org/abs/2507.05899)] \[[code](https://github.com/supertyd/FlexTrack) ⭐ 22 | 🐛 3 | 📅 2026-08-27]
+* **FlexTrack** (What You Have is What You Track: Adaptive and Robust Multimodal Tracking) \[[paper](https://arxiv.org/abs/2507.05899)] \[[code](https://github.com/supertyd/FlexTrack) ⭐ 22 | 🐛 3 | 📅 2026-09-05]
 * **TUE** (Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking) \[[paper](https://arxiv.org/abs/2507.07483)] \[~~code~~]
 
 ### ICML 2025
@@ -199,7 +199,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### AAAI 2025
 
-* **CADTrack** (CADTrack: Learning Contextual Aggregation with Deformable Alignment for Robust RGBT Tracking) \[[paper](https://arxiv.org/abs/2511.17967)] \[[code](https://github.com/IdolLab/CADTrack) ⭐ 200 | 🐛 0 | 🌐 Python | 📅 2026-06-03]
+* **CADTrack** (CADTrack: Learning Contextual Aggregation with Deformable Alignment for Robust RGBT Tracking) \[[paper](https://arxiv.org/abs/2511.17967)] \[[code](https://github.com/IdolLab/CADTrack) ⭐ 201 | 🐛 0 | 🌐 Python | 📅 2026-06-03]
 * **SUTrack** (SUTrack: Towards Simple and Unified Single Object Tracking) \[[paper](https://arxiv.org/abs/2412.19138)] \[[code](https://github.com/chenxin-dlut/SUTrack) ⭐ 168 | 🐛 12 | 🌐 Python | 📅 2025-06-16]
 * **MCITrack** (Exploring Enhanced Contextual Information for Video-Level Object Tracking) \[[paper](https://arxiv.org/abs/2412.11023)] \[[code](https://github.com/kangben258/MCITrack) ⭐ 118 | 🐛 9 | 🌐 Python | 📅 2024-12-17]
 * **STTrack** (Exploiting Multimodal Spatial-Temporal Patterns for Video Object Tracking) \[[paper](https://arxiv.org/abs/2412.15691)] \[[code](https://github.com/NJU-PCALab/STTrack) ⭐ 118 | 🐛 7 | 🌐 Python | 📅 2025-05-18]
@@ -657,4 +657,4 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
