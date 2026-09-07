@@ -21,7 +21,7 @@
                 "open_issues": 484,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19815,
+                "stars": 19820,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -604,7 +604,7 @@
                 "language": "Jupyter Notebook",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-07-03T21:59:37Z",
-                "open_issues": 43,
+                "open_issues": 42,
                 "owner": "z-x-yang",
                 "repo": "Segment-and-Track-Anything",
                 "stars": 3136,
@@ -734,7 +734,7 @@
                 "open_issues": 3,
                 "owner": "IdolLab",
                 "repo": "RAGTrack",
-                "stars": 215,
+                "stars": 217,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -755,7 +755,7 @@
                 "open_issues": 2,
                 "owner": "kangben258",
                 "repo": "UETrack",
-                "stars": 47,
+                "stars": 48,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -797,7 +797,7 @@
                 "open_issues": 3,
                 "owner": "AutoLab-SAI-SJTU",
                 "repo": "SEATrack",
-                "stars": 41,
+                "stars": 42,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1003,7 +1003,7 @@
                 "open_issues": 2,
                 "owner": "IdolLab",
                 "repo": "AnyTrack",
-                "stars": 54,
+                "stars": 56,
                 "topics": []
               },
               "first_seen": "2026-09-02T19:16:47.781Z"
@@ -1209,7 +1209,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-05T13:19:11Z",
+                "last_commit": "2026-09-07T07:02:15Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -1552,7 +1552,7 @@
                 "open_issues": 0,
                 "owner": "IdolLab",
                 "repo": "CADTrack",
-                "stars": 201,
+                "stars": 203,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1594,7 +1594,7 @@
                 "open_issues": 9,
                 "owner": "kangben258",
                 "repo": "MCITrack",
-                "stars": 118,
+                "stars": 119,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1879,7 +1879,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-05T13:19:11Z",
+                "last_commit": "2026-09-07T07:02:15Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -2368,7 +2368,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-05T13:19:11Z",
+                "last_commit": "2026-09-07T07:02:15Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -2759,7 +2759,7 @@
                 "open_issues": 5,
                 "owner": "vision4robotics",
                 "repo": "LDEnhancer",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2850,7 +2850,7 @@
                 "open_issues": 11,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7113,
+                "stars": 7114,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4642,7 +4642,7 @@
                 "open_issues": 4,
                 "owner": "vision4robotics",
                 "repo": "SCT",
-                "stars": 60,
+                "stars": 61,
                 "topics": [
                   "benchmark",
                   "low-light-enhancer",
@@ -5777,7 +5777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T18:06:59.563Z",
+    "last_updated": "2026-09-07T19:41:22.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
