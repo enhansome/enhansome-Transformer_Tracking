@@ -21,7 +21,7 @@
                 "open_issues": 485,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19840,
+                "stars": 19849,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -42,7 +42,7 @@
                 "open_issues": 24,
                 "owner": "yformer",
                 "repo": "EfficientTAM",
-                "stars": 825,
+                "stars": 826,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -734,7 +734,7 @@
                 "open_issues": 3,
                 "owner": "IdolLab",
                 "repo": "RAGTrack",
-                "stars": 222,
+                "stars": 224,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -776,7 +776,7 @@
                 "open_issues": 0,
                 "owner": "faicaiwawa",
                 "repo": "SpikeTrack",
-                "stars": 44,
+                "stars": 45,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -916,7 +916,7 @@
                 "open_issues": 2,
                 "owner": "Multimedia-Analytics-Laboratory",
                 "repo": "RELO",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -944,7 +944,7 @@
                 "open_issues": 0,
                 "owner": "TsingWei",
                 "repo": "MaST",
-                "stars": 4,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-09-02T19:16:47.781Z"
@@ -1003,7 +1003,7 @@
                 "open_issues": 2,
                 "owner": "IdolLab",
                 "repo": "AnyTrack",
-                "stars": 59,
+                "stars": 62,
                 "topics": []
               },
               "first_seen": "2026-09-02T19:16:47.781Z"
@@ -1213,7 +1213,7 @@
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1061,
+                "stars": 1062,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1279,7 +1279,7 @@
                 "open_issues": 9,
                 "owner": "GXNU-ZhongLab",
                 "repo": "SGLATrack",
-                "stars": 124,
+                "stars": 125,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1552,7 +1552,7 @@
                 "open_issues": 0,
                 "owner": "IdolLab",
                 "repo": "CADTrack",
-                "stars": 207,
+                "stars": 209,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1883,7 +1883,7 @@
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1061,
+                "stars": 1062,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2372,7 +2372,7 @@
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1061,
+                "stars": 1062,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2442,7 +2442,7 @@
                 "open_issues": 19,
                 "owner": "LitingLin",
                 "repo": "LoRAT",
-                "stars": 126,
+                "stars": 127,
                 "topics": [
                   "single-object-tracking",
                   "tracking"
@@ -2850,7 +2850,7 @@
                 "open_issues": 11,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7119,
+                "stars": 7120,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3482,7 +3482,7 @@
                 "open_issues": 1,
                 "owner": "Kou-99",
                 "repo": "ZoomTrack",
-                "stars": 19,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5777,7 +5777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T19:00:24.139Z",
+    "last_updated": "2026-09-11T19:02:09.036Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
