@@ -21,7 +21,7 @@
                 "open_issues": 485,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19849,
+                "stars": 19852,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -884,7 +884,7 @@
                 "id": 862472091,
                 "language": "Jupyter Notebook",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-07-13T18:18:55Z",
+                "last_commit": "2026-09-12T15:10:29Z",
                 "open_issues": 0,
                 "owner": "chenshihfang",
                 "repo": "GOT",
@@ -1209,11 +1209,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-10T01:32:58Z",
+                "last_commit": "2026-09-12T13:28:40Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1062,
+                "stars": 1063,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1879,11 +1879,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-10T01:32:58Z",
+                "last_commit": "2026-09-12T13:28:40Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1062,
+                "stars": 1063,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2007,7 +2007,7 @@
                 "open_issues": 5,
                 "owner": "vero1925",
                 "repo": "FocusTrack",
-                "stars": 37,
+                "stars": 38,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2368,11 +2368,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-10T01:32:58Z",
+                "last_commit": "2026-09-12T13:28:40Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1062,
+                "stars": 1063,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2850,7 +2850,7 @@
                 "open_issues": 11,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7120,
+                "stars": 7119,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2909,7 +2909,7 @@
                 "id": 862472091,
                 "language": "Jupyter Notebook",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-07-13T18:18:55Z",
+                "last_commit": "2026-09-12T15:10:29Z",
                 "open_issues": 0,
                 "owner": "chenshihfang",
                 "repo": "GOT",
@@ -3973,7 +3973,7 @@
                 "open_issues": 44,
                 "owner": "MCG-NJU",
                 "repo": "MixFormer",
-                "stars": 539,
+                "stars": 540,
                 "topics": [
                   "cvpr2022",
                   "tracking",
@@ -4157,7 +4157,7 @@
                 "open_issues": 44,
                 "owner": "MCG-NJU",
                 "repo": "MixFormer",
-                "stars": 539,
+                "stars": 540,
                 "topics": [
                   "cvpr2022",
                   "tracking",
@@ -4336,7 +4336,7 @@
                 "open_issues": 29,
                 "owner": "LitingLin",
                 "repo": "SwinTrack",
-                "stars": 260,
+                "stars": 261,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4364,7 +4364,7 @@
                 "open_issues": 54,
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 685,
+                "stars": 686,
                 "topics": [
                   "tracking",
                   "transformer"
@@ -5777,7 +5777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T19:02:09.036Z",
+    "last_updated": "2026-09-12T18:12:46.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
