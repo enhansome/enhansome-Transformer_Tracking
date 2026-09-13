@@ -21,7 +21,7 @@
                 "open_issues": 485,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19852,
+                "stars": 19853,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1164,7 +1164,7 @@
                 "open_issues": 1,
                 "owner": "ouha1998",
                 "repo": "Learning-Progressive-Adaptation-for-Multi-Modal-Tracking",
-                "stars": 3,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1234,7 +1234,7 @@
                 "open_issues": 8,
                 "owner": "jovanavidenovic",
                 "repo": "DAM4SAM",
-                "stars": 495,
+                "stars": 496,
                 "topics": [
                   "computer-vision",
                   "object-tracking"
@@ -3699,7 +3699,7 @@
                 "open_issues": 9,
                 "owner": "pblatter",
                 "repo": "ettrack",
-                "stars": 100,
+                "stars": 101,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4364,7 +4364,7 @@
                 "open_issues": 54,
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 686,
+                "stars": 687,
                 "topics": [
                   "tracking",
                   "transformer"
@@ -5777,7 +5777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T18:12:46.252Z",
+    "last_updated": "2026-09-13T18:36:41.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
