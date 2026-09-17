@@ -18,10 +18,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-30T02:29:40Z",
-                "open_issues": 488,
+                "open_issues": 487,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19876,
+                "stars": 19881,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -42,7 +42,7 @@
                 "open_issues": 24,
                 "owner": "yformer",
                 "repo": "EfficientTAM",
-                "stars": 827,
+                "stars": 828,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -579,7 +579,7 @@
                 "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 7000,
+                "stars": 6999,
                 "topics": [
                   "inpaint-anything",
                   "interactive-tracking",
@@ -734,7 +734,7 @@
                 "open_issues": 3,
                 "owner": "IdolLab",
                 "repo": "RAGTrack",
-                "stars": 227,
+                "stars": 228,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -755,7 +755,7 @@
                 "open_issues": 2,
                 "owner": "kangben258",
                 "repo": "UETrack",
-                "stars": 49,
+                "stars": 48,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1003,7 +1003,7 @@
                 "open_issues": 2,
                 "owner": "IdolLab",
                 "repo": "AnyTrack",
-                "stars": 63,
+                "stars": 62,
                 "topics": []
               },
               "first_seen": "2026-09-02T19:16:47.781Z"
@@ -1209,7 +1209,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-16T15:30:22Z",
+                "last_commit": "2026-09-17T09:41:58Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -1234,7 +1234,7 @@
                 "open_issues": 9,
                 "owner": "jovanavidenovic",
                 "repo": "DAM4SAM",
-                "stars": 496,
+                "stars": 497,
                 "topics": [
                   "computer-vision",
                   "object-tracking"
@@ -1636,7 +1636,7 @@
                 "open_issues": 9,
                 "owner": "jiawen-zhu",
                 "repo": "AsymTrack",
-                "stars": 57,
+                "stars": 56,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1879,7 +1879,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-16T15:30:22Z",
+                "last_commit": "2026-09-17T09:41:58Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -2182,7 +2182,7 @@
                 "open_issues": 9,
                 "owner": "MIV-XJTU",
                 "repo": "ARTrack",
-                "stars": 320,
+                "stars": 319,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2368,7 +2368,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-16T15:30:22Z",
+                "last_commit": "2026-09-17T09:41:58Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -2850,7 +2850,7 @@
                 "open_issues": 12,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7121,
+                "stars": 7122,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3235,7 +3235,7 @@
                 "open_issues": 9,
                 "owner": "MIV-XJTU",
                 "repo": "ARTrack",
-                "stars": 320,
+                "stars": 319,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5777,7 +5777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T19:25:52.769Z",
+    "last_updated": "2026-09-17T19:36:38.599Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
