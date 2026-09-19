@@ -18,10 +18,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-30T02:29:40Z",
-                "open_issues": 487,
+                "open_issues": 488,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19888,
+                "stars": 19897,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -185,7 +185,7 @@
                             "open_issues": 0,
                             "owner": "Little-Podi",
                             "repo": "Transformer_Tracking",
-                            "stars": 391,
+                            "stars": 392,
                             "topics": [
                               "awesome-list",
                               "cvpr",
@@ -240,7 +240,7 @@
                             "open_issues": 0,
                             "owner": "Little-Podi",
                             "repo": "Transformer_Tracking",
-                            "stars": 391,
+                            "stars": 392,
                             "topics": [
                               "awesome-list",
                               "cvpr",
@@ -281,7 +281,7 @@
                             "open_issues": 0,
                             "owner": "Little-Podi",
                             "repo": "Transformer_Tracking",
-                            "stars": 391,
+                            "stars": 392,
                             "topics": [
                               "awesome-list",
                               "cvpr",
@@ -322,7 +322,7 @@
                             "open_issues": 0,
                             "owner": "Little-Podi",
                             "repo": "Transformer_Tracking",
-                            "stars": 391,
+                            "stars": 392,
                             "topics": [
                               "awesome-list",
                               "cvpr",
@@ -363,7 +363,7 @@
                             "open_issues": 0,
                             "owner": "Little-Podi",
                             "repo": "Transformer_Tracking",
-                            "stars": 391,
+                            "stars": 392,
                             "topics": [
                               "awesome-list",
                               "cvpr",
@@ -579,7 +579,7 @@
                 "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 6999,
+                "stars": 6998,
                 "topics": [
                   "inpaint-anything",
                   "interactive-tracking",
@@ -694,7 +694,7 @@
                 "open_issues": 23,
                 "owner": "MasterBin-IIAU",
                 "repo": "Unicorn",
-                "stars": 951,
+                "stars": 950,
                 "topics": [
                   "multi-object-tracking-segmentation",
                   "multiple-object-tracking",
@@ -1209,7 +1209,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-18T13:37:45Z",
+                "last_commit": "2026-09-19T03:35:09Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -1879,7 +1879,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-18T13:37:45Z",
+                "last_commit": "2026-09-19T03:35:09Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -2007,7 +2007,7 @@
                 "open_issues": 5,
                 "owner": "vero1925",
                 "repo": "FocusTrack",
-                "stars": 39,
+                "stars": 41,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2182,7 +2182,7 @@
                 "open_issues": 9,
                 "owner": "MIV-XJTU",
                 "repo": "ARTrack",
-                "stars": 319,
+                "stars": 320,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2276,7 +2276,7 @@
                 "open_issues": 6,
                 "owner": "hoqolo",
                 "repo": "SDSTrack",
-                "stars": 71,
+                "stars": 72,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2368,7 +2368,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-18T13:37:45Z",
+                "last_commit": "2026-09-19T03:35:09Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -2850,7 +2850,7 @@
                 "open_issues": 12,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7122,
+                "stars": 7120,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2892,7 +2892,7 @@
                 "open_issues": 4,
                 "owner": "chenxin-dlut",
                 "repo": "SeqTrackv2",
-                "stars": 97,
+                "stars": 98,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3235,7 +3235,7 @@
                 "open_issues": 9,
                 "owner": "MIV-XJTU",
                 "repo": "ARTrack",
-                "stars": 319,
+                "stars": 320,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5777,7 +5777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T18:55:45.835Z",
+    "last_updated": "2026-09-19T18:28:50.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
@@ -5789,7 +5789,7 @@
       "open_issues": 0,
       "owner": "Little-Podi",
       "repo": "Transformer_Tracking",
-      "stars": 391,
+      "stars": 392,
       "topics": [
         "awesome-list",
         "cvpr",
