@@ -21,7 +21,7 @@
                 "open_issues": 488,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19901,
+                "stars": 19906,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -579,7 +579,7 @@
                 "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 6998,
+                "stars": 6997,
                 "topics": [
                   "inpaint-anything",
                   "interactive-tracking",
@@ -734,7 +734,7 @@
                 "open_issues": 3,
                 "owner": "IdolLab",
                 "repo": "RAGTrack",
-                "stars": 231,
+                "stars": 232,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1003,7 +1003,7 @@
                 "open_issues": 2,
                 "owner": "IdolLab",
                 "repo": "AnyTrack",
-                "stars": 64,
+                "stars": 65,
                 "topics": []
               },
               "first_seen": "2026-09-02T19:16:47.781Z"
@@ -1279,7 +1279,7 @@
                 "open_issues": 6,
                 "owner": "GXNU-ZhongLab",
                 "repo": "SGLATrack",
-                "stars": 125,
+                "stars": 127,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1300,7 +1300,7 @@
                 "open_issues": 7,
                 "owner": "wuyou3474",
                 "repo": "ORTrack",
-                "stars": 123,
+                "stars": 124,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1552,7 +1552,7 @@
                 "open_issues": 0,
                 "owner": "IdolLab",
                 "repo": "CADTrack",
-                "stars": 216,
+                "stars": 217,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1986,7 +1986,7 @@
                 "open_issues": 4,
                 "owner": "kangben258",
                 "repo": "HiT",
-                "stars": 62,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2049,7 +2049,7 @@
                 "open_issues": 1,
                 "owner": "ManOfStory",
                 "repo": "UncTrack",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2543,7 +2543,7 @@
                 "open_issues": 4,
                 "owner": "OpenSpaceAI",
                 "repo": "UVLTrack",
-                "stars": 51,
+                "stars": 52,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3214,7 +3214,7 @@
                 "open_issues": 12,
                 "owner": "jiawen-zhu",
                 "repo": "ViPT",
-                "stars": 351,
+                "stars": 352,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3531,7 +3531,7 @@
                 "open_issues": 4,
                 "owner": "kangben258",
                 "repo": "HiT",
-                "stars": 62,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4019,7 +4019,7 @@
                 "open_issues": 22,
                 "owner": "TsingWei",
                 "repo": "LiteTrack",
-                "stars": 92,
+                "stars": 93,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4364,7 +4364,7 @@
                 "open_issues": 54,
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 688,
+                "stars": 689,
                 "topics": [
                   "tracking",
                   "transformer"
@@ -5777,7 +5777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T18:33:13.248Z",
+    "last_updated": "2026-09-21T20:18:37.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
