@@ -21,7 +21,7 @@
                 "open_issues": 488,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19906,
+                "stars": 19907,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -444,7 +444,7 @@
                 "open_issues": 47,
                 "owner": "FoundationVision",
                 "repo": "GLEE",
-                "stars": 1171,
+                "stars": 1172,
                 "topics": [
                   "foundation-model",
                   "interactive-segmentation",
@@ -734,7 +734,7 @@
                 "open_issues": 3,
                 "owner": "IdolLab",
                 "repo": "RAGTrack",
-                "stars": 232,
+                "stars": 233,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -888,7 +888,7 @@
                 "open_issues": 0,
                 "owner": "chenshihfang",
                 "repo": "GOT",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -995,11 +995,11 @@
               "repo_info": {
                 "archived": false,
                 "description": "[ACMMM 2026 Oral] AnyTrack: Unifying Visual Object Tracking with Any Modalities",
-                "homepage": null,
+                "homepage": "https://arxiv.org/abs/2608.06773",
                 "id": 1306150973,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-07-25T10:47:32Z",
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-22T06:58:18Z",
                 "open_issues": 2,
                 "owner": "IdolLab",
                 "repo": "AnyTrack",
@@ -1209,7 +1209,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-20T03:03:41Z",
+                "last_commit": "2026-09-22T09:02:13Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -1258,7 +1258,7 @@
                 "open_issues": 14,
                 "owner": "XuM007",
                 "repo": "MITracker",
-                "stars": 138,
+                "stars": 139,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1552,7 +1552,7 @@
                 "open_issues": 0,
                 "owner": "IdolLab",
                 "repo": "CADTrack",
-                "stars": 217,
+                "stars": 218,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1615,7 +1615,7 @@
                 "open_issues": 7,
                 "owner": "NJU-PCALab",
                 "repo": "STTrack",
-                "stars": 118,
+                "stars": 119,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1879,7 +1879,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-20T03:03:41Z",
+                "last_commit": "2026-09-22T09:02:13Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -2368,7 +2368,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-20T03:03:41Z",
+                "last_commit": "2026-09-22T09:02:13Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -2913,7 +2913,7 @@
                 "open_issues": 0,
                 "owner": "chenshihfang",
                 "repo": "GOT",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5777,7 +5777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:18:37.368Z",
+    "last_updated": "2026-09-22T19:37:01.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
