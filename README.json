@@ -21,7 +21,7 @@
                 "open_issues": 488,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19913,
+                "stars": 19919,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -509,7 +509,7 @@
                 "open_issues": 32,
                 "owner": "MasterBin-IIAU",
                 "repo": "UNINEXT",
-                "stars": 1279,
+                "stars": 1280,
                 "topics": [
                   "instance-segmentation",
                   "multi-object-tracking-segmentation",
@@ -1209,7 +1209,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-23T10:23:32Z",
+                "last_commit": "2026-09-24T03:40:30Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -1321,7 +1321,7 @@
                 "open_issues": 8,
                 "owner": "q2479036243",
                 "repo": "MUST-Multispectral-UAV-Single-Object-Tracking",
-                "stars": 73,
+                "stars": 75,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1879,7 +1879,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-23T10:23:32Z",
+                "last_commit": "2026-09-24T03:40:30Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -2368,7 +2368,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-23T10:23:32Z",
+                "last_commit": "2026-09-24T03:40:30Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -5777,7 +5777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T19:33:39.666Z",
+    "last_updated": "2026-09-24T19:52:32.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
