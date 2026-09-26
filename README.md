@@ -15,7 +15,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### Game Over???
 
-* **[SAM 2](https://ai.meta.com/SAM2)** \[[paper](https://arxiv.org/abs/2408.00714)] \[[code](https://github.com/facebookresearch/segment-anything-2) ⭐ 19,923 | 🐛 488 | 🌐 Jupyter Notebook | 📅 2026-05-30]
+* **[SAM 2](https://ai.meta.com/SAM2)** \[[paper](https://arxiv.org/abs/2408.00714)] \[[code](https://github.com/facebookresearch/segment-anything-2) ⭐ 19,926 | 🐛 488 | 🌐 Jupyter Notebook | 📅 2026-05-30]
 * **[EfficientTAM](https://yformer.github.io/efficient-track-anything)** \[[paper](https://arxiv.org/abs/2411.18933)] \[[code](https://github.com/yformer/EfficientTAM) ⭐ 829 | 🐛 24 | 🌐 Python | 📅 2025-01-06]
 
 ### State-of-the-Art Transformer Tracker:two\_hearts::two\_hearts::two\_hearts:
@@ -98,9 +98,9 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### Preprint 2023
 
-* **TAM** (Track Anything: Segment Anything Meets Videos) \[[paper](https://arxiv.org/abs/2304.11968)] \[[code](https://github.com/gaomingqi/Track-Anything) ⭐ 7,000 | 🐛 114 | 🌐 Python | 📅 2025-12-13]
+* **TAM** (Track Anything: Segment Anything Meets Videos) \[[paper](https://arxiv.org/abs/2304.11968)] \[[code](https://github.com/gaomingqi/Track-Anything) ⭐ 7,001 | 🐛 114 | 🌐 Python | 📅 2025-12-13]
 * **SAM-Track** (Segment and Track Anything) \[[paper](https://arxiv.org/abs/2305.06558)] \[[code](https://github.com/z-x-yang/Segment-and-Track-Anything) ⭐ 3,139 | 🐛 42 | 🌐 Jupyter Notebook | 📅 2026-07-03]
-* **HQTrack** (Tracking Anything in High Quality) \[[paper](https://arxiv.org/abs/2307.13974)] \[[code](https://github.com/jiawen-zhu/HQTrack) ⭐ 752 | 🐛 14 | 🌐 Python | 📅 2023-12-01]
+* **HQTrack** (Tracking Anything in High Quality) \[[paper](https://arxiv.org/abs/2307.13974)] \[[code](https://github.com/jiawen-zhu/HQTrack) ⭐ 751 | 🐛 14 | 🌐 Python | 📅 2023-12-01]
 
 ### CVPR 2022
 
@@ -124,7 +124,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### ICLR 2026
 
-* **GOT-Edit** (GOT-Edit: Geometry-Aware Generic Object Tracking via Online Model Editing) \[[paper\&review](https://openreview.net/forum?id=aVa7etWnwF)] \[[code](https://github.com/chenshihfang/GOT) ⭐ 47 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-12]
+* **GOT-Edit** (GOT-Edit: Geometry-Aware Generic Object Tracking via Online Model Editing) \[[paper\&review](https://openreview.net/forum?id=aVa7etWnwF)] \[[code](https://github.com/chenshihfang/GOT) ⭐ 48 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-12]
 * **FARTrack** (FARTrack: Fast Autoregressive Visual Tracking with High Performance) \[[paper\&review](https://openreview.net/forum?id=lq7Zfr8kAS)] \[[code](https://github.com/wangguijiepedeval/FARTrack)]
 
 ### ICML 2026
@@ -143,7 +143,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### MM 2026
 
-* **AnyTrack** (AnyTrack: Unifying Visual Object Tracking with Any Modalities) \[[paper](https://arxiv.org/abs/2608.06773)] \[[code](https://github.com/IdolLab/AnyTrack) ⭐ 65 | 🐛 2 | 🌐 Python | 📅 2026-09-25]
+* **AnyTrack** (AnyTrack: Unifying Visual Object Tracking with Any Modalities) \[[paper](https://arxiv.org/abs/2608.06773)] \[[code](https://github.com/IdolLab/AnyTrack) ⭐ 65 | 🐛 2 | 🌐 Python | 📅 2026-09-26]
 
 ### ICRA 2026
 
@@ -167,7 +167,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### CVPR 2025
 
-* **VL-SAM2** (Underwater Camouflaged Object Tracking Meets Vision-Language SAM2) \[[paper](https://arxiv.org/abs/2409.16902)] \[[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking) ⭐ 1,066 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-24]
+* **VL-SAM2** (Underwater Camouflaged Object Tracking Meets Vision-Language SAM2) \[[paper](https://arxiv.org/abs/2409.16902)] \[[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking) ⭐ 1,066 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-26]
 * **SAM2.1++** (A Distractor-Aware Memory for Visual Object Tracking with SAM2) \[[paper](https://arxiv.org/abs/2411.17576)] \[[code](https://github.com/jovanavidenovic/DAM4SAM) ⭐ 500 | 🐛 9 | 🌐 Python | 📅 2026-09-25]
 * **MITracker** (MITracker: Multi-View Integration for Visual Object Tracking) \[[paper](https://arxiv.org/abs/2502.20111)] \[[code](https://github.com/XuM007/MITracker) ⭐ 139 | 🐛 14 | 🌐 Python | 📅 2025-06-18]
 * **SGLATrack** (Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking)  \[[paper](https://arxiv.org/abs/2503.06625)] \[[code](https://github.com/GXNU-ZhongLab/SGLATrack) ⭐ 127 | 🐛 6 | 🌐 Python | 📅 2026-08-14]
@@ -229,7 +229,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### Preprint 2025
 
-* **COST** (COST: Contrastive One-Stage Transformer for Vision-Language Small Object Tracking) \[[paper](https://arxiv.org/abs/2504.01321)] \[[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking) ⭐ 1,066 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-24]
+* **COST** (COST: Contrastive One-Stage Transformer for Vision-Language Small Object Tracking) \[[paper](https://arxiv.org/abs/2504.01321)] \[[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking) ⭐ 1,066 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-26]
 * **UM-ODTrack** (Towards Universal Modal Tracking with Online Dense Temporal Token Learning) \[[paper](https://arxiv.org/abs/2507.20177)] \[[code](https://github.com/GXNU-ZhongLab/ODTrack) ⭐ 192 | 🐛 11 | 🌐 Python | 📅 2024-10-07]
 * **HDETrackV2** (Event Stream-Based Visual Object Tracking: HDETrack V2 and A High-Definition Benchmark) \[[paper](https://arxiv.org/abs/2502.05574)] \[[code](https://github.com/Event-AHU/EventVOT_Benchmark) ⭐ 150 | 🐛 4 | 🌐 Python | 📅 2026-03-25]
 * **R1-Track** (R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning) \[[paper](https://arxiv.org/abs/2506.21980)] \[[code](https://github.com/Wangbiao2/R1-Track) ⭐ 67 | 🐛 0 | 🌐 Python | 📅 2025-05-14]
@@ -268,7 +268,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### NeurIPS 2024
 
-* **OKTrack** (WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark) \[[paper\&review](https://openreview.net/forum?id=cLS4fLIA5P)] \[[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking) ⭐ 1,066 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-24]
+* **OKTrack** (WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark) \[[paper\&review](https://openreview.net/forum?id=cLS4fLIA5P)] \[[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking) ⭐ 1,066 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-26]
 * **MemVLT** (MemVLT: Vision-Language Tracking with Adaptive Memory-Based Prompts) \[[paper\&review](https://openreview.net/forum?id=ZK1CZXKgG5)] \[[code](https://github.com/XiaokunFeng/MemVLT) ⭐ 19 | 🐛 2 | 📅 2024-10-07]
 * **CPDTrack** (Beyond Accuracy: Tracking More Like Human via Visual Search) \[[paper\&review](https://openreview.net/forum?id=LezAEImfoc)] \[[code](https://github.com/ZhangDailing8/CPDTrack) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2026-02-08]
 * **ChatTracker** (ChatTracker: Enhancing Visual Tracking Performance via Chatting with Multimodal Large Language Model) \[[paper\&review](https://openreview.net/forum?id=HzANl2unCB)] \[~~code~~]
@@ -321,10 +321,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### Preprint 2024
 
-* **SAMURAI** (SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory) \[[paper](https://arxiv.org/abs/2411.11922)] \[[code](https://github.com/yangchris11/samurai) ⭐ 7,119 | 🐛 12 | 🌐 Python | 📅 2025-03-18]
+* **SAMURAI** (SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory) \[[paper](https://arxiv.org/abs/2411.11922)] \[[code](https://github.com/yangchris11/samurai) ⭐ 7,120 | 🐛 12 | 🌐 Python | 📅 2025-03-18]
 * **AVTrack-MD** (Learning Adaptive and View-Invariant Vision Transformer with Multi-Teacher Knowledge Distillation for Real-Time UAV Tracking) \[[paper](https://arxiv.org/abs/2412.20002)] \[[code](https://github.com/wuyou3474/AVTrack) ⭐ 115 | 🐛 11 | 🌐 Python | 📅 2025-08-19]
 * **SeqTrackv2** (Unified Sequence-to-Sequence Learning for Single- and Multi-Modal Visual Object Tracking) \[[paper](https://arxiv.org/abs/2304.14394)] \[[code](https://github.com/chenxin-dlut/SeqTrackv2) ⭐ 98 | 🐛 4 | 🌐 Python | 📅 2024-03-26]
-* **PiVOT** (Improving Visual Object Tracking through Visual Prompting) \[[paper](https://arxiv.org/abs/2409.18901)] \[[code](https://github.com/chenshihfang/GOT) ⭐ 47 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-12]
+* **PiVOT** (Improving Visual Object Tracking through Visual Prompting) \[[paper](https://arxiv.org/abs/2409.18901)] \[[code](https://github.com/chenshihfang/GOT) ⭐ 48 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-12]
 * **AMTTrack** (Long-Term Frame-Event Visual Tracking: Benchmark Dataset and Baseline) \[[paper](https://arxiv.org/abs/2403.05839)] \[[code](https://github.com/Event-AHU/FELT_SOT_Benchmark) ⭐ 40 | 🐛 9 | 🌐 Python | 📅 2026-06-13]
 * **CSTNet** (Transformer-Based RGB-T Tracking with Channel and Spatial Feature Fusion) \[[paper](https://arxiv.org/abs/2405.03177)] \[[code](https://github.com/LiYunfengLYF/CSTNet) ⭐ 29 | 🐛 7 | 🌐 Python | 📅 2024-07-24]
 * **BofN** (Predicting the Best of N Visual Trackers) \[[paper](https://arxiv.org/abs/2407.15707)] \[[code](https://github.com/BasitAlawode/Best_of_N_Trackers) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2024-12-23]
@@ -657,4 +657,4 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
