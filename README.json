@@ -21,7 +21,7 @@
                 "open_issues": 488,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19928,
+                "stars": 19934,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -509,7 +509,7 @@
                 "open_issues": 32,
                 "owner": "MasterBin-IIAU",
                 "repo": "UNINEXT",
-                "stars": 1280,
+                "stars": 1279,
                 "topics": [
                   "instance-segmentation",
                   "multi-object-tracking-segmentation",
@@ -579,7 +579,7 @@
                 "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 7002,
+                "stars": 7004,
                 "topics": [
                   "inpaint-anything",
                   "interactive-tracking",
@@ -607,7 +607,7 @@
                 "open_issues": 42,
                 "owner": "z-x-yang",
                 "repo": "Segment-and-Track-Anything",
-                "stars": 3141,
+                "stars": 3140,
                 "topics": [
                   "interactive-segmentation",
                   "segment-anything",
@@ -752,7 +752,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-03-20T03:34:46Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "kangben258",
                 "repo": "UETrack",
                 "stars": 48,
@@ -797,7 +797,7 @@
                 "open_issues": 3,
                 "owner": "AutoLab-SAI-SJTU",
                 "repo": "SEATrack",
-                "stars": 42,
+                "stars": 43,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2070,7 +2070,7 @@
                 "open_issues": 2,
                 "owner": "Sam1224",
                 "repo": "SAMITE",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2850,7 +2850,7 @@
                 "open_issues": 12,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7119,
+                "stars": 7117,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3193,7 +3193,7 @@
                 "open_issues": 32,
                 "owner": "microsoft",
                 "repo": "VideoX",
-                "stars": 1071,
+                "stars": 1072,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4989,7 +4989,7 @@
                 "open_issues": 70,
                 "owner": "researchmm",
                 "repo": "Stark",
-                "stars": 713,
+                "stars": 714,
                 "topics": [
                   "transformer"
                 ]
@@ -5777,7 +5777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:38:02.755Z",
+    "last_updated": "2026-09-28T21:40:27.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
