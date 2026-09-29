@@ -18,10 +18,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-30T02:29:40Z",
-                "open_issues": 488,
+                "open_issues": 487,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19934,
+                "stars": 19938,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -137,7 +137,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3517,
+                "stars": 3518,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -755,7 +755,7 @@
                 "open_issues": 3,
                 "owner": "kangben258",
                 "repo": "UETrack",
-                "stars": 48,
+                "stars": 49,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1055,7 +1055,7 @@
                 "id": 1239665099,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-05-24T12:29:22Z",
+                "last_commit": "2026-09-29T13:58:24Z",
                 "open_issues": 1,
                 "owner": "DurYi",
                 "repo": "SAMOSA",
@@ -1209,11 +1209,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-27T02:53:47Z",
+                "last_commit": "2026-09-29T13:01:28Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1066,
+                "stars": 1067,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1388,7 +1388,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-08-23T13:38:14Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "XiaokunFeng",
                 "repo": "ATCTrack",
                 "stars": 119,
@@ -1879,11 +1879,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-27T02:53:47Z",
+                "last_commit": "2026-09-29T13:01:28Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1066,
+                "stars": 1067,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2368,11 +2368,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-27T02:53:47Z",
+                "last_commit": "2026-09-29T13:01:28Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1066,
+                "stars": 1067,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2648,7 +2648,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3517,
+                "stars": 3518,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -2850,7 +2850,7 @@
                 "open_issues": 12,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7117,
+                "stars": 7116,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4131,7 +4131,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3517,
+                "stars": 3518,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -5777,7 +5777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T21:40:27.647Z",
+    "last_updated": "2026-09-29T20:31:14.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
