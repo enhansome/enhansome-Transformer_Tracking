@@ -21,7 +21,7 @@
                 "open_issues": 487,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19938,
+                "stars": 19941,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -42,7 +42,7 @@
                 "open_issues": 24,
                 "owner": "yformer",
                 "repo": "EfficientTAM",
-                "stars": 829,
+                "stars": 831,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -137,7 +137,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3518,
+                "stars": 3517,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -755,7 +755,7 @@
                 "open_issues": 3,
                 "owner": "kangben258",
                 "repo": "UETrack",
-                "stars": 49,
+                "stars": 50,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -797,7 +797,7 @@
                 "open_issues": 3,
                 "owner": "AutoLab-SAI-SJTU",
                 "repo": "SEATrack",
-                "stars": 43,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -818,7 +818,7 @@
                 "open_issues": 0,
                 "owner": "EIT-NLP",
                 "repo": "UTPTrack",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1003,7 +1003,7 @@
                 "open_issues": 2,
                 "owner": "IdolLab",
                 "repo": "AnyTrack",
-                "stars": 66,
+                "stars": 67,
                 "topics": []
               },
               "first_seen": "2026-09-02T19:16:47.781Z"
@@ -1045,27 +1045,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "SAMOSA (Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking) [paper",
-              "description": "] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official repository of \"Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking\"",
-                "homepage": null,
-                "id": 1239665099,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-29T13:58:24Z",
-                "open_issues": 1,
-                "owner": "DurYi",
-                "repo": "SAMOSA",
-                "stars": 11,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:28:14.224Z"
-            },
-            {
-              "node_type": "item",
               "title": "APRTrack (Active Adversarial Perturbation-Driven Associative Memory Retrieval for RGB-Event Visual Object Tracking) [paper",
               "description": "] [code]",
               "children": [],
@@ -1080,7 +1059,7 @@
                 "open_issues": 1,
                 "owner": "Event-AHU",
                 "repo": "OpenEvTracking",
-                "stars": 10,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1101,7 +1080,28 @@
                 "open_issues": 1,
                 "owner": "Event-AHU",
                 "repo": "OpenEvTracking",
-                "stars": 10,
+                "stars": 11,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SAMOSA (Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official repository of \"Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking\"",
+                "homepage": null,
+                "id": 1239665099,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-29T13:58:24Z",
+                "open_issues": 1,
+                "owner": "DurYi",
+                "repo": "SAMOSA",
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1213,7 +1213,7 @@
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1067,
+                "stars": 1068,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1727,7 +1727,7 @@
                 "open_issues": 1,
                 "owner": "LiShenglana",
                 "repo": "GDSTrack",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1883,7 +1883,7 @@
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1067,
+                "stars": 1068,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2372,7 +2372,7 @@
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1067,
+                "stars": 1068,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2648,7 +2648,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3518,
+                "stars": 3517,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -2850,7 +2850,7 @@
                 "open_issues": 12,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7116,
+                "stars": 7118,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3552,7 +3552,7 @@
                 "open_issues": 1,
                 "owner": "HuajianUP",
                 "repo": "360VOT",
-                "stars": 55,
+                "stars": 56,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4019,7 +4019,7 @@
                 "open_issues": 22,
                 "owner": "TsingWei",
                 "repo": "LiteTrack",
-                "stars": 93,
+                "stars": 94,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4131,7 +4131,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3518,
+                "stars": 3517,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -5777,7 +5777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T20:31:14.410Z",
+    "last_updated": "2026-09-30T20:38:32.463Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
