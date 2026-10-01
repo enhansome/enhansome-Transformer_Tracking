@@ -21,7 +21,7 @@
                 "open_issues": 487,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19941,
+                "stars": 19944,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -137,7 +137,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3517,
+                "stars": 3516,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -579,7 +579,7 @@
                 "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 7004,
+                "stars": 7005,
                 "topics": [
                   "inpaint-anything",
                   "interactive-tracking",
@@ -944,7 +944,7 @@
                 "open_issues": 0,
                 "owner": "TsingWei",
                 "repo": "MaST",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-09-02T19:16:47.781Z"
@@ -1213,7 +1213,7 @@
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1068,
+                "stars": 1038,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1234,7 +1234,7 @@
                 "open_issues": 9,
                 "owner": "jovanavidenovic",
                 "repo": "DAM4SAM",
-                "stars": 500,
+                "stars": 502,
                 "topics": [
                   "computer-vision",
                   "object-tracking"
@@ -1883,7 +1883,7 @@
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1068,
+                "stars": 1038,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2372,7 +2372,7 @@
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1068,
+                "stars": 1038,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2648,7 +2648,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3517,
+                "stars": 3516,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -4131,7 +4131,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3517,
+                "stars": 3516,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -5777,7 +5777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T20:38:32.463Z",
+    "last_updated": "2026-10-01T20:52:37.757Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
