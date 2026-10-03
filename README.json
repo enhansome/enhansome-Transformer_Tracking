@@ -21,7 +21,7 @@
                 "open_issues": 487,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19949,
+                "stars": 19952,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -973,7 +973,7 @@
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1038,
+                "stars": 1037,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1643,7 +1643,7 @@
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1038,
+                "stars": 1037,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2132,7 +2132,7 @@
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1038,
+                "stars": 1037,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2610,7 +2610,7 @@
                 "open_issues": 12,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7117,
+                "stars": 7116,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2820,7 +2820,7 @@
                 "open_issues": 8,
                 "owner": "LiYunfengLYF",
                 "repo": "SCANet",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2943,7 +2943,7 @@
               "description": "microsoft/VideoX",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "VideoX: a collection of video cross-modal models",
                 "homepage": null,
                 "id": 223094600,
@@ -3309,7 +3309,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-01-16T09:33:33Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "HuajianUP",
                 "repo": "360VOT",
                 "stars": 56,
@@ -5537,7 +5537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:29:59.722Z",
+    "last_updated": "2026-10-03T19:05:24.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
