@@ -21,7 +21,7 @@
                 "open_issues": 487,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19946,
+                "stars": 19949,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -124,7 +124,7 @@
             {
               "node_type": "item",
               "title": "(Library) PyTracking: Visual Tracking Library Based on PyTorch [code",
-              "description": "]",
+              "description": "visionml/pytracking",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -151,246 +151,6 @@
           "description": null,
           "node_type": "group",
           "title": "Helpful Learning Resource for Tracking:thumbsup::thumbsup::thumbsup:"
-        },
-        {
-          "children": [
-            {
-              "node_type": "group",
-              "title": "",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "group",
-                  "title": "",
-                  "description": null,
-                  "children": [
-                    {
-                      "node_type": "group",
-                      "title": "Bounding box as coordinate sequence.",
-                      "description": null,
-                      "children": [
-                        {
-                          "node_type": "item",
-                          "title": "ARTrackV2 [CVPR'24",
-                          "description": "] ARTrack [CVPR'23], SeqTrack [CVPR'23]",
-                          "children": [],
-                          "repo_info": {
-                            "archived": false,
-                            "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
-                            "homepage": null,
-                            "id": 449138962,
-                            "language": null,
-                            "license": null,
-                            "last_commit": "2026-09-02T08:47:02Z",
-                            "open_issues": 0,
-                            "owner": "Little-Podi",
-                            "repo": "Transformer_Tracking",
-                            "stars": 392,
-                            "topics": [
-                              "awesome-list",
-                              "cvpr",
-                              "eccv",
-                              "iccv",
-                              "neurips",
-                              "ob",
-                              "object-tracking",
-                              "paper-list",
-                              "single-object-tracking",
-                              "tracking",
-                              "transformer",
-                              "visual-tracking"
-                            ]
-                          },
-                          "first_seen": "2026-08-29T00:28:14.224Z"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "group",
-                  "title": "",
-                  "description": null,
-                  "children": [
-                    {
-                      "node_type": "group",
-                      "title": "1st step :feet: feature interaction inside the backbone.",
-                      "description": null,
-                      "children": [
-                        {
-                          "node_type": "item",
-                          "title": "SiamAttn [CVPR'20",
-                          "description": "], SBT [CVPR'22], InMo [IJCAI'22]",
-                          "children": [],
-                          "repo_info": {
-                            "archived": false,
-                            "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
-                            "homepage": null,
-                            "id": 449138962,
-                            "language": null,
-                            "license": null,
-                            "last_commit": "2026-09-02T08:47:02Z",
-                            "open_issues": 0,
-                            "owner": "Little-Podi",
-                            "repo": "Transformer_Tracking",
-                            "stars": 392,
-                            "topics": [
-                              "awesome-list",
-                              "cvpr",
-                              "eccv",
-                              "iccv",
-                              "neurips",
-                              "ob",
-                              "object-tracking",
-                              "paper-list",
-                              "single-object-tracking",
-                              "tracking",
-                              "transformer",
-                              "visual-tracking"
-                            ]
-                          },
-                          "first_seen": "2026-08-29T00:28:14.224Z"
-                        }
-                      ]
-                    },
-                    {
-                      "node_type": "group",
-                      "title": "2nd step :feet: concatenation-based feature interaction.",
-                      "description": null,
-                      "children": [
-                        {
-                          "node_type": "item",
-                          "title": "STARK [ICCV'21",
-                          "description": "], SwinTrack [NeurIPS'22]",
-                          "children": [],
-                          "repo_info": {
-                            "archived": false,
-                            "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
-                            "homepage": null,
-                            "id": 449138962,
-                            "language": null,
-                            "license": null,
-                            "last_commit": "2026-09-02T08:47:02Z",
-                            "open_issues": 0,
-                            "owner": "Little-Podi",
-                            "repo": "Transformer_Tracking",
-                            "stars": 392,
-                            "topics": [
-                              "awesome-list",
-                              "cvpr",
-                              "eccv",
-                              "iccv",
-                              "neurips",
-                              "ob",
-                              "object-tracking",
-                              "paper-list",
-                              "single-object-tracking",
-                              "tracking",
-                              "transformer",
-                              "visual-tracking"
-                            ]
-                          },
-                          "first_seen": "2026-08-29T00:28:14.224Z"
-                        }
-                      ]
-                    },
-                    {
-                      "node_type": "group",
-                      "title": "3rd step :feet: joint feature extraction and interaction.",
-                      "description": null,
-                      "children": [
-                        {
-                          "node_type": "item",
-                          "title": "MixFormer [CVPR'22",
-                          "description": "], OSTrack [ECCV'22], SimTrack [ECCV'22]",
-                          "children": [],
-                          "repo_info": {
-                            "archived": false,
-                            "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
-                            "homepage": null,
-                            "id": 449138962,
-                            "language": null,
-                            "license": null,
-                            "last_commit": "2026-09-02T08:47:02Z",
-                            "open_issues": 0,
-                            "owner": "Little-Podi",
-                            "repo": "Transformer_Tracking",
-                            "stars": 392,
-                            "topics": [
-                              "awesome-list",
-                              "cvpr",
-                              "eccv",
-                              "iccv",
-                              "neurips",
-                              "ob",
-                              "object-tracking",
-                              "paper-list",
-                              "single-object-tracking",
-                              "tracking",
-                              "transformer",
-                              "visual-tracking"
-                            ]
-                          },
-                          "first_seen": "2026-08-29T00:28:14.224Z"
-                        }
-                      ]
-                    },
-                    {
-                      "node_type": "group",
-                      "title": "4th step :feet: generalized and robust relation modeling.",
-                      "description": null,
-                      "children": [
-                        {
-                          "node_type": "item",
-                          "title": "GRM [CVPR'23",
-                          "description": "], ROMTrack [ICCV'23].",
-                          "children": [],
-                          "repo_info": {
-                            "archived": false,
-                            "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
-                            "homepage": null,
-                            "id": 449138962,
-                            "language": null,
-                            "license": null,
-                            "last_commit": "2026-09-02T08:47:02Z",
-                            "open_issues": 0,
-                            "owner": "Little-Podi",
-                            "repo": "Transformer_Tracking",
-                            "stars": 392,
-                            "topics": [
-                              "awesome-list",
-                              "cvpr",
-                              "eccv",
-                              "iccv",
-                              "neurips",
-                              "ob",
-                              "object-tracking",
-                              "paper-list",
-                              "single-object-tracking",
-                              "tracking",
-                              "transformer",
-                              "visual-tracking"
-                            ]
-                          },
-                          "first_seen": "2026-08-29T00:28:14.224Z"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Recent Trends:fire::fire::fire:"
         }
       ],
       "title": ":star2:Recommendation"
@@ -403,7 +163,7 @@
             {
               "node_type": "item",
               "title": "SAM 2++ (SAM 2++: Tracking Anything at Any Granularity) [paper",
-              "description": "] [code]",
+              "description": "MCG-NJU/SAM2-Plus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -431,7 +191,7 @@
             {
               "node_type": "item",
               "title": "GLEE (General Object Foundation Model for Images and Videos at Scale) [paper",
-              "description": "] [code]",
+              "description": "FoundationVision/GLEE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -468,7 +228,7 @@
             {
               "node_type": "item",
               "title": "OmniViD (OmniVid: A Generative Framework for Universal Video Understanding) [paper",
-              "description": "] [code]",
+              "description": "wdrink/OmniVid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -496,7 +256,7 @@
             {
               "node_type": "item",
               "title": "UNINEXT (Universal Instance Perception as Object Discovery and Retrieval) [paper",
-              "description": "] [code]",
+              "description": "MasterBin-IIAU/UNINEXT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -538,7 +298,7 @@
             {
               "node_type": "item",
               "title": "MITS (Integrating Boxes and Masks: A Multi-Object Framework for Unified Visual Tracking and Segmentation) [paper",
-              "description": "] [code]",
+              "description": "yoxu515/MITS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -566,7 +326,7 @@
             {
               "node_type": "item",
               "title": "TAM (Track Anything: Segment Anything Meets Videos) [paper",
-              "description": "] [code]",
+              "description": "gaomingqi/Track-Anything",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -594,7 +354,7 @@
             {
               "node_type": "item",
               "title": "SAM-Track (Segment and Track Anything) [paper",
-              "description": "] [code]",
+              "description": "z-x-yang/Segment-and-Track-Anything",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -621,7 +381,7 @@
             {
               "node_type": "item",
               "title": "HQTrack (Tracking Anything in High Quality) [paper",
-              "description": "] [code]",
+              "description": "jiawen-zhu/HQTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -653,7 +413,7 @@
             {
               "node_type": "item",
               "title": "UTT (Unified Transformer Tracker for Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "Flowerfan/Trackron",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -681,7 +441,7 @@
             {
               "node_type": "item",
               "title": "Unicorn (Towards Grand Unification of Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "MasterBin-IIAU/Unicorn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -721,7 +481,7 @@
             {
               "node_type": "item",
               "title": "RAGTrack (RAGTrack: Language-Aware RGBT Tracking with Retrieval-Augmented Generation) [paper",
-              "description": "] [code]",
+              "description": "IdolLab/RAGTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -742,7 +502,7 @@
             {
               "node_type": "item",
               "title": "UETrack (UETrack: A Unified and Efficient Framework for Single Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "kangben258/UETrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -763,7 +523,7 @@
             {
               "node_type": "item",
               "title": "SpikeTrack (SpikeTrack: A Spike-Driven Framework for Efficient Visual Tracking) [paper",
-              "description": "] [code]",
+              "description": "faicaiwawa/SpikeTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -784,7 +544,7 @@
             {
               "node_type": "item",
               "title": "SEATrack (SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker) [paper",
-              "description": "] [code]",
+              "description": "AutoLab-SAI-SJTU/SEATrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -805,7 +565,7 @@
             {
               "node_type": "item",
               "title": "UTPTrack (UTPTrack: Towards Simple and Unified Token Pruning for Visual Tracking) [paper",
-              "description": "] [code]",
+              "description": "EIT-NLP/UTPTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -826,7 +586,7 @@
             {
               "node_type": "item",
               "title": "DTPTrack (Drift-Resilient Temporal Priors for Visual Tracking) [paper",
-              "description": "] [code]",
+              "description": "NorahGreen/DTPTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -847,7 +607,7 @@
             {
               "node_type": "item",
               "title": "SCDT (Spatio-Temporal Conditional Denoising Transformer for Modality-Missing RGBT Tracking) [paper",
-              "description": "] [code]",
+              "description": "Multi-Modality-Tracking/SCDT-CVPR2026",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -875,7 +635,7 @@
             {
               "node_type": "item",
               "title": "GOT-Edit (GOT-Edit: Geometry-Aware Generic Object Tracking via Online Model Editing) [paper&review",
-              "description": "] [code]",
+              "description": "chenshihfang/GOT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -903,7 +663,7 @@
             {
               "node_type": "item",
               "title": "RELO (RELO: Reinforcement Learning to Localize for Visual Object Tracking) [paper&review",
-              "description": "] [code]",
+              "description": "Multimedia-Analytics-Laboratory/RELO",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -931,7 +691,7 @@
             {
               "node_type": "item",
               "title": "MaST (MaST: Motion-aware Sparse Pipeline for Lightweight Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "TsingWei/MaST",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -959,7 +719,7 @@
             {
               "node_type": "item",
               "title": "GOLA (Group Orthogonal Low-Rank Adaptation for RGB-T Tracking) [paper",
-              "description": "] [code]",
+              "description": "MelanTech/GOLA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -990,7 +750,7 @@
             {
               "node_type": "item",
               "title": "AnyTrack (AnyTrack: Unifying Visual Object Tracking with Any Modalities) [paper",
-              "description": "] [code]",
+              "description": "IdolLab/AnyTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1018,7 +778,7 @@
             {
               "node_type": "item",
               "title": "DPTracker (Dual Prompt-Driven Feature Encoding for Nighttime UAV Tracking) [paper",
-              "description": "] [code]",
+              "description": "yiheng-wang-duke/DPTracker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1046,7 +806,7 @@
             {
               "node_type": "item",
               "title": "APRTrack (Active Adversarial Perturbation-Driven Associative Memory Retrieval for RGB-Event Visual Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "Event-AHU/OpenEvTracking",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1067,7 +827,7 @@
             {
               "node_type": "item",
               "title": "PSMTrack (Dynamic Pondering Sparsity-Aware Mixture-of-Experts Transformer for Event Stream-Based Visual Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "Event-AHU/OpenEvTracking",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1088,7 +848,7 @@
             {
               "node_type": "item",
               "title": "SAMOSA (Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "DurYi/SAMOSA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1109,7 +869,7 @@
             {
               "node_type": "item",
               "title": "GLAD (GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates) [paper",
-              "description": "] [code]",
+              "description": "Confetti-lxy/GLAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1130,7 +890,7 @@
             {
               "node_type": "item",
               "title": "E2EMPT (End-to-End Unmixing with Material Prompts for Hyperspectral Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "han030927/E2EMPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1151,7 +911,7 @@
             {
               "node_type": "item",
               "title": "PATrack (Learning Progressive Adaptation for Multi-Modal Tracking) [paper",
-              "description": "] [code]",
+              "description": "ouha1998/Learning-Progressive-Adaptation-for-Multi-Modal-Tracking",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1172,7 +932,7 @@
             {
               "node_type": "item",
               "title": "VL-UniTrack (VL-UniTrack: A Unified Framework with Visual-Language Prompts for UAV-Ground Visual Tracking) [paper",
-              "description": "] [code]",
+              "description": "xuboyue1999/VL-UniTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1200,7 +960,7 @@
             {
               "node_type": "item",
               "title": "VL-SAM2 (Underwater Camouflaged Object Tracking Meets Vision-Language SAM2) [paper",
-              "description": "] [code]",
+              "description": "983632847/Awesome-Multimodal-Object-Tracking",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1221,7 +981,7 @@
             {
               "node_type": "item",
               "title": "SAM2.1++ (A Distractor-Aware Memory for Visual Object Tracking with SAM2) [paper",
-              "description": "] [code]",
+              "description": "jovanavidenovic/DAM4SAM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1245,7 +1005,7 @@
             {
               "node_type": "item",
               "title": "MITracker (MITracker: Multi-View Integration for Visual Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "XuM007/MITracker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1266,7 +1026,7 @@
             {
               "node_type": "item",
               "title": "SGLATrack (Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking) [paper",
-              "description": "] [code]",
+              "description": "GXNU-ZhongLab/SGLATrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1287,7 +1047,7 @@
             {
               "node_type": "item",
               "title": "ORTrack (Learning Occlusion-Robust Vision Transformers for Real-Time UAV Tracking) [paper",
-              "description": "] [code]",
+              "description": "wuyou3474/ORTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1308,7 +1068,7 @@
             {
               "node_type": "item",
               "title": "UNTrack (MUST: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "q2479036243/MUST-Multispectral-UAV-Single-Object-Tracking",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1329,7 +1089,7 @@
             {
               "node_type": "item",
               "title": "SPMTrack (SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking) [paper",
-              "description": "] [code]",
+              "description": "WenRuiCai/SPMTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1350,7 +1110,7 @@
             {
               "node_type": "item",
               "title": "DUTrack (Dynamic Updates for Language Adaptation in Visual-Language Tracking) [paper",
-              "description": "] [code]",
+              "description": "GXNU-ZhongLab/DUTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1378,7 +1138,7 @@
             {
               "node_type": "item",
               "title": "ATCTrack (ATCTrack: Aligning Target-Context Cues with Dynamic Target States for Robust Vision-Language Tracking) [paper",
-              "description": "] [code]",
+              "description": "XiaokunFeng/ATCTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1399,7 +1159,7 @@
             {
               "node_type": "item",
               "title": "UMDATrack (UMDATrack: Unified Multi-Domain Adaptive Tracking Under Adverse Weather Conditions) [paper",
-              "description": "] [code]",
+              "description": "Z-Z188/UMDATrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1420,7 +1180,7 @@
             {
               "node_type": "item",
               "title": "XTrack (XTrack: Multimodal Training Boosts RGB-X Video Object Trackers) [paper",
-              "description": "] [code]",
+              "description": "supertyd/XTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1441,7 +1201,7 @@
             {
               "node_type": "item",
               "title": "CompressTracker (General Compression Framework for Efficient Transformer Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "LingyiHongfd/CompressTracker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1462,7 +1222,7 @@
             {
               "node_type": "item",
               "title": "FlexTrack (What You Have is What You Track: Adaptive and Robust Multimodal Tracking) [paper",
-              "description": "] [code]",
+              "description": "supertyd/FlexTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1490,7 +1250,7 @@
             {
               "node_type": "item",
               "title": "CSTrack (CSTrack: Enhancing RGB-X Tracking via Compact Spatiotemporal Features) [paper",
-              "description": "] [code]",
+              "description": "XiaokunFeng/CSTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1511,7 +1271,7 @@
             {
               "node_type": "item",
               "title": "MPT (Efficient Motion Prompt Learning for Robust Visual Tracking) [paper",
-              "description": "] [code]",
+              "description": "zj5559/Motion-Prompt-Tracking",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1539,7 +1299,7 @@
             {
               "node_type": "item",
               "title": "CADTrack (CADTrack: Learning Contextual Aggregation with Deformable Alignment for Robust RGBT Tracking) [paper",
-              "description": "] [code]",
+              "description": "IdolLab/CADTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1560,7 +1320,7 @@
             {
               "node_type": "item",
               "title": "SUTrack (SUTrack: Towards Simple and Unified Single Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "chenxin-dlut/SUTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1581,7 +1341,7 @@
             {
               "node_type": "item",
               "title": "MCITrack (Exploring Enhanced Contextual Information for Video-Level Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "kangben258/MCITrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1602,7 +1362,7 @@
             {
               "node_type": "item",
               "title": "STTrack (Exploiting Multimodal Spatial-Temporal Patterns for Video Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "NJU-PCALab/STTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1623,7 +1383,7 @@
             {
               "node_type": "item",
               "title": "AsymTrack (Two-Stream Beats One-Stream: Asymmetric Siamese Network for Efficient Visual Tracking) [paper",
-              "description": "] [code]",
+              "description": "jiawen-zhu/AsymTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1644,7 +1404,7 @@
             {
               "node_type": "item",
               "title": "MambaLCT (MambaLCT: Boosting Tracking via Long-Term Context State Space Model) [paper",
-              "description": "] [code]",
+              "description": "GXNU-ZhongLab/MambaLCT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1665,7 +1425,7 @@
             {
               "node_type": "item",
               "title": "TemTrack (Robust Tracking via Mamba-Vased Context-Aware Token Learning) [paper",
-              "description": "] [code]",
+              "description": "GXNU-ZhongLab/TemTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1686,7 +1446,7 @@
             {
               "node_type": "item",
               "title": "LMTrack (Less is More: Token Context-Aware Learning for Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "XuChenLong/LMTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1714,7 +1474,7 @@
             {
               "node_type": "item",
               "title": "GDSTrack (Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking) [paper",
-              "description": "] [code]",
+              "description": "LiShenglana/GDSTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1742,7 +1502,7 @@
             {
               "node_type": "item",
               "title": "RSTrack (Explicit Context Reasoning with Supervision for Visual Tracking) [paper",
-              "description": "] [code]",
+              "description": "GXNU-ZhongLab/RSTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1763,7 +1523,7 @@
             {
               "node_type": "item",
               "title": "MST (Multi-State Tracker: Enhancing Efficient Object Tracking via Multi-State Specialization and Interaction) [paper",
-              "description": "] [code]",
+              "description": "wsumel/MST",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1784,7 +1544,7 @@
             {
               "node_type": "item",
               "title": "SymTrack (Serial Over Parallel: Learning Continual Unification for Multi-Modal Visual Object Tracking and Benchmarking) [paper",
-              "description": "] [code]",
+              "description": "Zhangyong-Tang/UniBench300",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1812,7 +1572,7 @@
             {
               "node_type": "item",
               "title": "CGTrack (CGTrack: Cascade Gating Network with Hierarchical Feature Aggregation for UAV Tracking) [paper",
-              "description": "] [code]",
+              "description": "Nightwatch-Fox11/CGTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1842,7 +1602,7 @@
             {
               "node_type": "item",
               "title": "CTVLT (Enhancing Vision-Language Tracking by Effectively Converting Textual Cues into Visual Cues) [paper",
-              "description": "] [code]",
+              "description": "XiaokunFeng/CTVLT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1870,7 +1630,7 @@
             {
               "node_type": "item",
               "title": "COST (COST: Contrastive One-Stage Transformer for Vision-Language Small Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "983632847/Awesome-Multimodal-Object-Tracking",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1891,7 +1651,7 @@
             {
               "node_type": "item",
               "title": "UM-ODTrack (Towards Universal Modal Tracking with Online Dense Temporal Token Learning) [paper",
-              "description": "] [code]",
+              "description": "GXNU-ZhongLab/ODTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1912,7 +1672,7 @@
             {
               "node_type": "item",
               "title": "HDETrackV2 (Event Stream-Based Visual Object Tracking: HDETrack V2 and A High-Definition Benchmark) [paper",
-              "description": "] [code]",
+              "description": "Event-AHU/EventVOT_Benchmark",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1943,7 +1703,7 @@
             {
               "node_type": "item",
               "title": "R1-Track (R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning) [paper",
-              "description": "] [code]",
+              "description": "Wangbiao2/R1-Track",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1973,7 +1733,7 @@
             {
               "node_type": "item",
               "title": "DyHiT (Exploiting Lightweight Hierarchical ViT and Dynamic Framework for Efficient Visual Tracking) [paper",
-              "description": "] [code]",
+              "description": "kangben258/HiT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1994,7 +1754,7 @@
             {
               "node_type": "item",
               "title": "FocusTrack (FocusTrack: A Self-Adaptive Local Sampling Algorithm for Efficient Anti-UAV Tracking) [paper",
-              "description": "] [code]",
+              "description": "vero1925/FocusTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2015,7 +1775,7 @@
             {
               "node_type": "item",
               "title": "ReasoningTrack (ReasoningTrack: Chain-of-Thought Reasoning for Long-term Vision-Language Tracking) [paper",
-              "description": "] [code]",
+              "description": "Event-AHU/Open_VLTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2036,7 +1796,7 @@
             {
               "node_type": "item",
               "title": "UncTrack (UncTrack: Reliable Visual Object Tracking with Uncertainty-Aware Prototype Memory Network) [paper",
-              "description": "] [code]",
+              "description": "ManOfStory/UncTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2057,7 +1817,7 @@
             {
               "node_type": "item",
               "title": "SAMITE (SAMITE: Position Prompted SAM2 with Calibrated Memory for Visual Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "Sam1224/SAMITE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2078,7 +1838,7 @@
             {
               "node_type": "item",
               "title": "HotMoE (HotMoE: Exploring Sparse Mixture-of-Experts for Hyperspectral Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "supertyd/hotmoe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2099,7 +1859,7 @@
             {
               "node_type": "item",
               "title": "ISTASTrack (ISTASTrack: Bridging ANN and SNN via ISTA Adapter for RGB-Event Tracking) [paper",
-              "description": "] [code]",
+              "description": "lsying009/ISTASTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2120,7 +1880,7 @@
             {
               "node_type": "item",
               "title": "MMTrack (Visual and Memory Dual Adapter for Multi-Modal Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "xuboyue1999/mmtrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2141,7 +1901,7 @@
             {
               "node_type": "item",
               "title": "SFTrack (Towards Low-Latency Event Stream-Based Visual Object Tracking: A Slow-Fast Approach) [paper",
-              "description": "] [code]",
+              "description": "Event-AHU/SlowFast_Event_Track",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2169,7 +1929,7 @@
             {
               "node_type": "item",
               "title": "ARTrackV2 (ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe) [paper",
-              "description": "] [code]",
+              "description": "MIV-XJTU/ARTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2190,7 +1950,7 @@
             {
               "node_type": "item",
               "title": "HDETrack (Event Stream-Based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline) [paper",
-              "description": "] [code]",
+              "description": "Event-AHU/EventVOT_Benchmark",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2221,7 +1981,7 @@
             {
               "node_type": "item",
               "title": "AQATrack (Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers) [paper",
-              "description": "] [code]",
+              "description": "GXNU-ZhongLab/AQATrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2242,7 +2002,7 @@
             {
               "node_type": "item",
               "title": "HIPTrack (HIPTrack: Visual Tracking with Historical Prompts) [paper",
-              "description": "] [code]",
+              "description": "WenRuiCai/HIPTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2263,7 +2023,7 @@
             {
               "node_type": "item",
               "title": "SDSTrack (SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "hoqolo/SDSTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2284,7 +2044,7 @@
             {
               "node_type": "item",
               "title": "Un-Track (Single-Model and Any-Modality for Video Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "Zongwei97/UnTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2310,7 +2070,7 @@
             {
               "node_type": "item",
               "title": "DiffusionTrack (DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "VISION-SJTU/DiffusionTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2331,7 +2091,7 @@
             {
               "node_type": "item",
               "title": "QueryNLT (Context-Aware Integration of Language and Visual References for Natural Language Tracking) [paper",
-              "description": "] [code]",
+              "description": "twotwo2/QueryNLT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2359,7 +2119,7 @@
             {
               "node_type": "item",
               "title": "OKTrack (WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark) [paper&review",
-              "description": "] [code]",
+              "description": "983632847/Awesome-Multimodal-Object-Tracking",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2380,7 +2140,7 @@
             {
               "node_type": "item",
               "title": "MemVLT (MemVLT: Vision-Language Tracking with Adaptive Memory-Based Prompts) [paper&review",
-              "description": "] [code]",
+              "description": "XiaokunFeng/MemVLT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2401,7 +2161,7 @@
             {
               "node_type": "item",
               "title": "CPDTrack (Beyond Accuracy: Tracking More Like Human via Visual Search) [paper&review",
-              "description": "] [code]",
+              "description": "ZhangDailing8/CPDTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2429,7 +2189,7 @@
             {
               "node_type": "item",
               "title": "LoRAT (Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance) [paper",
-              "description": "] [code]",
+              "description": "LitingLin/LoRAT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2460,7 +2220,7 @@
             {
               "node_type": "item",
               "title": "AVTrack (Learning Adaptive and View-Invariant Vision Transformer for Real-Time UAV Tracking) [paper",
-              "description": "] [code]",
+              "description": "wuyou3474/AVTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2488,7 +2248,7 @@
             {
               "node_type": "item",
               "title": "ODTrack (ODTrack: Online Dense Temporal Token Learning for Visual Tracking) [paper",
-              "description": "] [code]",
+              "description": "GXNU-ZhongLab/ODTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2509,7 +2269,7 @@
             {
               "node_type": "item",
               "title": "BAT (Bi-Directional Adapter for Multi-Modal Tracking) [paper",
-              "description": "] [code]",
+              "description": "SparkTempest/BAT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2530,7 +2290,7 @@
             {
               "node_type": "item",
               "title": "UVLTrack (Unifying Visual and Vision-Language Tracking via Contrastive Learning) [paper",
-              "description": "] [code]",
+              "description": "OpenSpaceAI/UVLTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2551,7 +2311,7 @@
             {
               "node_type": "item",
               "title": "EVPTrack (Explicit Visual Prompts for Visual Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "GXNU-ZhongLab/EVPTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2579,7 +2339,7 @@
             {
               "node_type": "item",
               "title": "USTrack (Unified Single-Stage Transformer Network for Efficient RGB-T Tracking) [paper",
-              "description": "] [code]",
+              "description": "xiajianqiang/USTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2607,7 +2367,7 @@
             {
               "node_type": "item",
               "title": "CKD (Breaking Modality Gap in RGBT Tracking: Coupled Knowledge Distillation) [paper&review",
-              "description": "] [code]",
+              "description": "Multi-Modality-Tracking/CKD-ACMMM2024",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2635,7 +2395,7 @@
             {
               "node_type": "item",
               "title": "TaMOs (Beyond SOT: It's Time to Track Multiple Generic Objects at Once) [paper",
-              "description": "] [code]",
+              "description": "visionml/pytracking",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2661,7 +2421,7 @@
             {
               "node_type": "item",
               "title": "SMAT (Separable Self and Mixed Attention Transformers for Efficient Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "goutamyg/SMAT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2697,7 +2457,7 @@
             {
               "node_type": "item",
               "title": "DCPT (DCPT: Darkness Clue-Prompted Tracking in Nighttime UAVs) [paper",
-              "description": "] [code]",
+              "description": "bearyi26/DCPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2725,7 +2485,7 @@
             {
               "node_type": "item",
               "title": "PRL-Track (Progressive Representation Learning for Real-Time UAV Tracking) [paper",
-              "description": "] [code]",
+              "description": "vision4robotics/PRL-Track",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2746,7 +2506,7 @@
             {
               "node_type": "item",
               "title": "LDEnhancer (Enhancing Nighttime UAV Tracking with Light Distribution Suppression) [paper",
-              "description": "] [code]",
+              "description": "vision4robotics/LDEnhancer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2767,7 +2527,7 @@
             {
               "node_type": "item",
               "title": "TDA-Track (TDA-Track: Prompt-Driven Temporal Domain Adaptation for Nighttime UAV Tracking) [paper",
-              "description": "] [code]",
+              "description": "vision4robotics/TDA-Track",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2788,7 +2548,7 @@
             {
               "node_type": "item",
               "title": "DaDiff (DaDiff: Domain-Aware Diffusion Model for Nighttime UAV Tracking) [paper",
-              "description": "] [code]",
+              "description": "vision4robotics/DaDiff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2809,7 +2569,7 @@
             {
               "node_type": "item",
               "title": "CGDenoiser (Conditional Generative Denoiser for Nighttime UAV Tracking) [paper",
-              "description": "] [code]",
+              "description": "vision4robotics/CGDenoiser",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2837,7 +2597,7 @@
             {
               "node_type": "item",
               "title": "SAMURAI (SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory) [paper",
-              "description": "] [code]",
+              "description": "yangchris11/samurai",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2858,7 +2618,7 @@
             {
               "node_type": "item",
               "title": "AVTrack-MD (Learning Adaptive and View-Invariant Vision Transformer with Multi-Teacher Knowledge Distillation for Real-Time UAV Tracking) [paper",
-              "description": "] [code]",
+              "description": "wuyou3474/AVTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2879,7 +2639,7 @@
             {
               "node_type": "item",
               "title": "SeqTrackv2 (Unified Sequence-to-Sequence Learning for Single- and Multi-Modal Visual Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "chenxin-dlut/SeqTrackv2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2900,7 +2660,7 @@
             {
               "node_type": "item",
               "title": "PiVOT (Improving Visual Object Tracking through Visual Prompting) [paper",
-              "description": "] [code]",
+              "description": "chenshihfang/GOT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2921,7 +2681,7 @@
             {
               "node_type": "item",
               "title": "AMTTrack (Long-Term Frame-Event Visual Tracking: Benchmark Dataset and Baseline) [paper",
-              "description": "] [code]",
+              "description": "Event-AHU/FELT_SOT_Benchmark",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2942,7 +2702,7 @@
             {
               "node_type": "item",
               "title": "CSTNet (Transformer-Based RGB-T Tracking with Channel and Spatial Feature Fusion) [paper",
-              "description": "] [code]",
+              "description": "LiYunfengLYF/CSTNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2963,7 +2723,7 @@
             {
               "node_type": "item",
               "title": "BofN (Predicting the Best of N Visual Trackers) [paper",
-              "description": "] [code]",
+              "description": "BasitAlawode/Best_of_N_Trackers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2984,7 +2744,7 @@
             {
               "node_type": "item",
               "title": "CRSOT (CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras) [paper",
-              "description": "] [code]",
+              "description": "Event-AHU/Cross_Resolution_SOT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3005,7 +2765,7 @@
             {
               "node_type": "item",
               "title": "AFter (AFter: Attention-Based Fusion Router for RGBT Tracking) [paper",
-              "description": "] [code]",
+              "description": "Alexadlu/AFter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3026,7 +2786,7 @@
             {
               "node_type": "item",
               "title": "SuperSBT (Correlation-Embedded Transformer Tracking: A Single-Branch Framework) [paper",
-              "description": "] [code]",
+              "description": "phiphiphi31/SBT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3047,7 +2807,7 @@
             {
               "node_type": "item",
               "title": "SCANet (RGB-Sonar Tracking Benchmark and Spatial Cross-Attention Transformer Tracker) [paper",
-              "description": "] [code]",
+              "description": "LiYunfengLYF/SCANet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3068,7 +2828,7 @@
             {
               "node_type": "item",
               "title": "LoReTrack (LoReTrack: Efficient and Accurate Low-Resolution Transformer Tracking) [paper",
-              "description": "] [code]",
+              "description": "ShaohuaDong2021/LoReTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3089,7 +2849,7 @@
             {
               "node_type": "item",
               "title": "OIFTrack (Optimized Information Flow for Transformer Tracking) [paper",
-              "description": "] [code]",
+              "description": "JananiKugaa/SIFTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3110,7 +2870,7 @@
             {
               "node_type": "item",
               "title": "TENet (TENet: Targetness Entanglement Incorporating with Multi-Scale Pooling and Mutually-Guided Fusion for RGB-E Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "SSSpc333/TENet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3131,7 +2891,7 @@
             {
               "node_type": "item",
               "title": "HiPTrack-MLS (Camouflaged Object Tracking: A Benchmark) [paper",
-              "description": "] [code]",
+              "description": "openat25/HIPTrack-MLS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3152,7 +2912,7 @@
             {
               "node_type": "item",
               "title": "NLMTrack (Enhancing Thermal Infrared Tracking with Natural Language Modeling and Coordinate Sequence Generation) [paper",
-              "description": "] [code]",
+              "description": "ELOESZHANG/NLMTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3180,7 +2940,7 @@
             {
               "node_type": "item",
               "title": "SeqTrack (SeqTrack: Sequence to Sequence Learning for Visual Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "microsoft/VideoX",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3201,7 +2961,7 @@
             {
               "node_type": "item",
               "title": "ViPT (Visual Prompt Multi-Modal Tracking) [paper",
-              "description": "] [code]",
+              "description": "jiawen-zhu/ViPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3222,7 +2982,7 @@
             {
               "node_type": "item",
               "title": "ARTrack (Autoregressive Visual Tracking) [paper",
-              "description": "] [code]",
+              "description": "MIV-XJTU/ARTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3243,7 +3003,7 @@
             {
               "node_type": "item",
               "title": "SwinV2 (Revealing the Dark Secrets of Masked Image Modeling) [paper",
-              "description": "] [code]",
+              "description": "SwinTransformer/MIM-Depth-Estimation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3264,7 +3024,7 @@
             {
               "node_type": "item",
               "title": "GRM (Generalized Relation Modeling for Transformer Tracking) [paper",
-              "description": "] [code]",
+              "description": "Little-Podi/GRM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3294,7 +3054,7 @@
             {
               "node_type": "item",
               "title": "JointNLT (Joint Visual Grounding and Tracking with Natural Language Specification) [paper",
-              "description": "] [code]",
+              "description": "lizhou-cs/JointNLT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3315,7 +3075,7 @@
             {
               "node_type": "item",
               "title": "TBSI (Bridging Search Region Interaction with Template for RGB-T Tracking) [paper",
-              "description": "] [code]",
+              "description": "RyanHTR/TBSI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3336,7 +3096,7 @@
             {
               "node_type": "item",
               "title": "ART (ARKitTrack: A New Diverse Dataset for Tracking Using Mobile RGB-D Data) [paper",
-              "description": "] [code]",
+              "description": "lawrence-cj/ARKitTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3357,7 +3117,7 @@
             {
               "node_type": "item",
               "title": "DropTrack (DropMAE: Masked Autoencoders with Spatial-Attention Dropout for Tracking Tasks) [paper",
-              "description": "] [code]",
+              "description": "jimmy-dq/DropTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3378,7 +3138,7 @@
             {
               "node_type": "item",
               "title": "MAT (Representation Learning for Visual Object Tracking by Masked Appearance Transfer) [paper",
-              "description": "] [code]",
+              "description": "difhnp/MAT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3399,7 +3159,7 @@
             {
               "node_type": "item",
               "title": "VideoTrack (VideoTrack: Learning to Track Objects via Video Transformer) [paper",
-              "description": "] [code]",
+              "description": "phiphiphi31/VideoTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3420,7 +3180,7 @@
             {
               "node_type": "item",
               "title": "EMT (Resource-Efficient RGBD Aerial Tracking) [paper",
-              "description": "] [code]",
+              "description": "yjybuaa/RGBDAerialTracking",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3448,7 +3208,7 @@
             {
               "node_type": "item",
               "title": "MixFormerV2 (MixFormerV2: Efficient Fully Transformer Tracking) [paper&review",
-              "description": "] [code]",
+              "description": "MCG-NJU/MixFormerV2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3469,7 +3229,7 @@
             {
               "node_type": "item",
               "title": "ZoomTrack (ZoomTrack: Target-Aware Non-Uniform Resizing for Efficient Visual Tracking) [paper&review",
-              "description": "] [code]",
+              "description": "Kou-99/ZoomTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3497,7 +3257,7 @@
             {
               "node_type": "item",
               "title": "HRTrack (Cross-Modal Orthogonal High-Rank Augmentation for RGB-Event Transformer-Trackers) [paper",
-              "description": "] [code]",
+              "description": "ZHU-Zhiyu/High-Rank_RGB-Event_Tracker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3518,7 +3278,7 @@
             {
               "node_type": "item",
               "title": "HiT (Exploring Lightweight Hierarchical Vision Transformers for Efficient Visual Tracking) [paper",
-              "description": "] [code]",
+              "description": "kangben258/HiT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3539,7 +3299,7 @@
             {
               "node_type": "item",
               "title": "AiATrack-360 (360VOT: A New Benchmark Dataset for Omnidirectional Visual Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "HuajianUP/360VOT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3560,7 +3320,7 @@
             {
               "node_type": "item",
               "title": "Aba-ViTrack (Adaptive and Background-Aware Vision Transformer for Real-Time UAV Tracking) [paper",
-              "description": "] [code]",
+              "description": "xyyang317/Aba-ViTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3581,7 +3341,7 @@
             {
               "node_type": "item",
               "title": "CiteTracker (CiteTracker: Correlating Image and Text for Visual Tracking) [paper",
-              "description": "] [code]",
+              "description": "NorahGreen/CiteTracker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3602,7 +3362,7 @@
             {
               "node_type": "item",
               "title": "ROMTrack (Robust Object Modeling for Visual Tracking) [paper",
-              "description": "] [code]",
+              "description": "dawnyc/ROMTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3637,7 +3397,7 @@
             {
               "node_type": "item",
               "title": "TATrack (Target-Aware Tracking with Long-Term Context Attention) [paper",
-              "description": "] [code]",
+              "description": "hekaijie123/TATrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3658,7 +3418,7 @@
             {
               "node_type": "item",
               "title": "CTTrack (Compact Transformer Tracker with Correlative Masked Modeling) [paper",
-              "description": "] [code]",
+              "description": "HUSTDML/CTTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3686,7 +3446,7 @@
             {
               "node_type": "item",
               "title": "E.T.Track (Efficient Visual Tracking with Exemplar Transformers) [paper",
-              "description": "] [code]",
+              "description": "pblatter/ettrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3714,7 +3474,7 @@
             {
               "node_type": "item",
               "title": "MVT (Mobile Vision Transformer-Based Visual Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "goutamyg/MVT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3750,7 +3510,7 @@
             {
               "node_type": "item",
               "title": "SGDViT (SGDViT: Saliency-Guided Dynamic vision Transformer for UAV tracking) [paper",
-              "description": "] [code]",
+              "description": "vision4robotics/SGDViT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3771,7 +3531,7 @@
             {
               "node_type": "item",
               "title": "ClimRT (Continuity-Aware Latent Interframe Information Mining for Reliable UAV Tracking) [paper",
-              "description": "] [code]",
+              "description": "vision4robotics/ClimRT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3799,7 +3559,7 @@
             {
               "node_type": "item",
               "title": "CDT (Cascaded Denoising Transformer for UAV Nighttime Tracking) [paper",
-              "description": "] [code]",
+              "description": "vision4robotics/CDT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3820,7 +3580,7 @@
             {
               "node_type": "item",
               "title": "FDNT (End-to-End Feature Decontaminated Network for UAV Tracking) [paper",
-              "description": "] [code]",
+              "description": "vision4robotics/FDNT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3841,7 +3601,7 @@
             {
               "node_type": "item",
               "title": "TRTrack (Boosting UAV Tracking With Voxel-Based Trajectory-Aware Pre-Training) [paper",
-              "description": "] [code]",
+              "description": "vision4robotics/TRTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3862,7 +3622,7 @@
             {
               "node_type": "item",
               "title": "ScaleAwareDA (Scale-Aware Domain Adaptation for Robust UAV Tracking) [paper",
-              "description": "] [code]",
+              "description": "vision4robotics/ScaleAwareDA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3883,7 +3643,7 @@
             {
               "node_type": "item",
               "title": "TOTEM (Transparent Object Tracking with Enhanced Fusion Module) [paper",
-              "description": "] [code]",
+              "description": "kalyan0510/TOTEM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3911,7 +3671,7 @@
             {
               "node_type": "item",
               "title": "ProContEXT (ProContEXT: Exploring Progressive Context Transformer for Tracking) [paper",
-              "description": "] [code]",
+              "description": "jp-lan/ProContEXT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3932,7 +3692,7 @@
             {
               "node_type": "item",
               "title": "MSTL (Multi-Source Templates Learning for Real-Time Aerial Tracking) [paper",
-              "description": "] [code]",
+              "description": "vpx-ecnu/MSTL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3960,7 +3720,7 @@
             {
               "node_type": "item",
               "title": "MixViT (MixFormer: End-to-End Tracking with Iterative Mixed Attention) [paper",
-              "description": "] [code]",
+              "description": "MCG-NJU/MixFormer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3985,7 +3745,7 @@
             {
               "node_type": "item",
               "title": "TCTrack++ (Towards Real-World Visual Tracking with Temporal Contexts) [paper",
-              "description": "] [code]",
+              "description": "vision4robotics/TCTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4006,7 +3766,7 @@
             {
               "node_type": "item",
               "title": "LiteTrack (LiteTrack: Layer Pruning with Asynchronous Feature Extraction for Lightweight and Efficient Visual Tracking) [paper",
-              "description": "] [code]",
+              "description": "TsingWei/LiteTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4027,7 +3787,7 @@
             {
               "node_type": "item",
               "title": "SAM-DA (SAM-DA: UAV Tracks Anything at Night with SAM-Powered Domain Adaptation) [paper",
-              "description": "] [code]",
+              "description": "vision4robotics/SAM-DA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4048,7 +3808,7 @@
             {
               "node_type": "item",
               "title": "MPLT (RGB-T Tracking via Multi-Modal Mutual Prompt Learning) [paper",
-              "description": "] [code]",
+              "description": "HusterYoung/MPLT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4069,7 +3829,7 @@
             {
               "node_type": "item",
               "title": "MMTrack (Towards Unified Token Learning for Vision-Language Tracking) [paper",
-              "description": "] [code]",
+              "description": "Azong-HQU/MMTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4090,7 +3850,7 @@
             {
               "node_type": "item",
               "title": "HyperTrack (HyperTrack: A Unified Framework for Hyperspectral Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "supertyd/HyperTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4118,7 +3878,7 @@
             {
               "node_type": "item",
               "title": "ToMP (Transforming Model Prediction for Tracking) [paper",
-              "description": "] [code]",
+              "description": "visionml/pytracking",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4144,7 +3904,7 @@
             {
               "node_type": "item",
               "title": "MixFormer (MixFormer: End-to-End Tracking with Iterative Mixed Attention) [paper",
-              "description": "] [code]",
+              "description": "MCG-NJU/MixFormer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4169,7 +3929,7 @@
             {
               "node_type": "item",
               "title": "TCTrack (TCTrack: Temporal Contexts for Aerial Tracking) [paper",
-              "description": "] [code]",
+              "description": "vision4robotics/TCTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4190,7 +3950,7 @@
             {
               "node_type": "item",
               "title": "UDAT (Unsupervised Domain Adaptation for Nighttime Aerial Tracking) [paper",
-              "description": "] [code]",
+              "description": "vision4robotics/UDAT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4211,7 +3971,7 @@
             {
               "node_type": "item",
               "title": "STNet (Spiking Transformers for Event-Based Single Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "Jee-King/CVPR2022_STNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4232,7 +3992,7 @@
             {
               "node_type": "item",
               "title": "CSWinTT (Transformer Tracking with Cyclic Shifting Window Attention) [paper",
-              "description": "] [code]",
+              "description": "SkyeSong38/CSWinTT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4253,7 +4013,7 @@
             {
               "node_type": "item",
               "title": "RBO (Ranking-Based Siamese Visual Tracking) [paper",
-              "description": "] [code]",
+              "description": "sansanfree/RBO",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4274,7 +4034,7 @@
             {
               "node_type": "item",
               "title": "SBT (Correlation-Aware Deep Tracking) [paper",
-              "description": "] [code]",
+              "description": "phiphiphi31/SBT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4295,7 +4055,7 @@
             {
               "node_type": "item",
               "title": "GTELT (Global Tracking via Ensemble of Local Trackers) [paper",
-              "description": "] [code]",
+              "description": "ZikunZhou/GTELT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4323,7 +4083,7 @@
             {
               "node_type": "item",
               "title": "SwinTrack (SwinTrack: A Simple and Strong Baseline for Transformer Tracking) [paper&review",
-              "description": "] [code]",
+              "description": "LitingLin/SwinTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4351,7 +4111,7 @@
             {
               "node_type": "item",
               "title": "OSTrack (Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework) [paper",
-              "description": "] [code]",
+              "description": "botaoye/OSTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4375,7 +4135,7 @@
             {
               "node_type": "item",
               "title": "AiATrack (AiATrack: Attention in Attention for Transformer Visual Tracking) [paper",
-              "description": "] [code]",
+              "description": "Little-Podi/AiATrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4405,7 +4165,7 @@
             {
               "node_type": "item",
               "title": "HCAT (Efficient Visual Tracking via Hierarchical Cross-Attention Transformer) [paper",
-              "description": "] [code]",
+              "description": "chenxin-dlut/HCAT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4426,7 +4186,7 @@
             {
               "node_type": "item",
               "title": "SimTrack (Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "LPXTT/SimTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4447,7 +4207,7 @@
             {
               "node_type": "item",
               "title": "CIA (Hierarchical Feature Embedding for Visual Tracking) [paper",
-              "description": "] [code]",
+              "description": "zxgravity/CIA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4468,7 +4228,7 @@
             {
               "node_type": "item",
               "title": "DMTracker (Learning Dual-Fused Modality-Aware Representations for RGBD Tracking) [paper",
-              "description": "] [code]",
+              "description": "CV-Tracking/DMTracker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4496,7 +4256,7 @@
             {
               "node_type": "item",
               "title": "APFNet (Attribute-Based Progressive Fusion Network for RGBT Tracking) [paper",
-              "description": "] [code]",
+              "description": "yangmengmeng1997/APFNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4524,7 +4284,7 @@
             {
               "node_type": "item",
               "title": "InMo (Learning Target-Aware Representation for Visual Tracking via Informative Interactions) [paper",
-              "description": "] [code]",
+              "description": "JudasDie/SOTS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4545,7 +4305,7 @@
             {
               "node_type": "item",
               "title": "SparseTT (SparseTT: Visual Tracking with Sparse Transformers) [paper",
-              "description": "] [code]",
+              "description": "fzh0917/SparseTT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4573,7 +4333,7 @@
             {
               "node_type": "item",
               "title": "TLT (Transformer Lesion Tracker) [paper",
-              "description": "] [code]",
+              "description": "TangWen920812/TLT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4601,7 +4361,7 @@
             {
               "node_type": "item",
               "title": "SiamTPN (Siamese Transformer Pyramid Networks for Real-Time UAV Tracking) [paper",
-              "description": "] [code]",
+              "description": "RISC-NYUAD/SiamTPNTracker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4629,7 +4389,7 @@
             {
               "node_type": "item",
               "title": "SCT (Tracker Meets Night: A Transformer Enhancer for UAV Tracking) [paper",
-              "description": "] [code]",
+              "description": "vision4robotics/SCT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4662,7 +4422,7 @@
             {
               "node_type": "item",
               "title": "TAT (Temporal-Aware Siamese Tracker: Integrate Temporal Context for 3D Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "tqsdyy/TAT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4690,7 +4450,7 @@
             {
               "node_type": "item",
               "title": "SiamSA (Siamese Object Tracking for Vision-Based UAM Approaching with Pairwise Scale-Channel Attention) [paper",
-              "description": "] [code]",
+              "description": "vision4robotics/SiamSA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4711,7 +4471,7 @@
             {
               "node_type": "item",
               "title": "HighlightNet (HighlightNet: Highlighting Low-Light Potential Features for Real-Time UAV Tracking) [paper",
-              "description": "] [code]",
+              "description": "vision4robotics/HighlightNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4732,7 +4492,7 @@
             {
               "node_type": "item",
               "title": "LPAT (Local Perception-Aware Transformer for Aerial Tracking) [paper",
-              "description": "] [code]",
+              "description": "vision4robotics/LPAT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4760,7 +4520,7 @@
             {
               "node_type": "item",
               "title": "CEUTrack (Revisiting Color-Event Based Tracking: A Unified Network, Dataset, and Metric) [paper",
-              "description": "] [code]",
+              "description": "Event-AHU/COESOT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4792,7 +4552,7 @@
             {
               "node_type": "item",
               "title": "SPT (RGBD1K: A Large-scale Dataset and Benchmark for RGB-D Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "xuefeng-zhu5/RGBD1K",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4815,7 +4575,7 @@
             {
               "node_type": "item",
               "title": "SFTransT (Learning Spatial-Frequency Transformer for Visual Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "Tchuanm/SFTransT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4836,7 +4596,7 @@
             {
               "node_type": "item",
               "title": "FDT (Feature-Distilled Transformer for UAV Tracking) [paper] [code",
-              "description": "]",
+              "description": "vision4robotics/FDT-tracker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4857,7 +4617,7 @@
             {
               "node_type": "item",
               "title": "RAMAVT (On Deep Recurrent Reinforcement Learning for Active Visual Tracking of Space Noncooperative Objects) [paper",
-              "description": "] [code]",
+              "description": "Dongzhou-1996/RAMAVT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4885,7 +4645,7 @@
             {
               "node_type": "item",
               "title": "TransT (Transformer Tracking) [paper",
-              "description": "] [code]",
+              "description": "chenxin-dlut/TransT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4906,7 +4666,7 @@
             {
               "node_type": "item",
               "title": "TMT (Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking) [paper",
-              "description": "] [code]",
+              "description": "594422814/TransformerTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4927,7 +4687,7 @@
             {
               "node_type": "item",
               "title": "SiamGAT (Graph Attention Tracking) [paper",
-              "description": "] [code]",
+              "description": "ohhhyeahhh/SiamGAT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4948,7 +4708,7 @@
             {
               "node_type": "item",
               "title": "STMTrack (STMTrack: Template-Free Visual Tracking with Space-Time Memory Networks) [paper",
-              "description": "] [code]",
+              "description": "fzh0917/STMTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4976,7 +4736,7 @@
             {
               "node_type": "item",
               "title": "STARK (Learning Spatio-Temporal Transformer for Visual Tracking) [paper",
-              "description": "] [code]",
+              "description": "researchmm/Stark",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4999,7 +4759,7 @@
             {
               "node_type": "item",
               "title": "AutoMatch (Learn to Match: Automatic Matching Network Design for Visual Tracking) [paper",
-              "description": "] [code]",
+              "description": "JudasDie/SOTS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5020,7 +4780,7 @@
             {
               "node_type": "item",
               "title": "HiFT (HiFT: Hierarchical Feature Transformer for Aerial Tracking) [paper",
-              "description": "] [code]",
+              "description": "vision4robotics/HiFT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5041,7 +4801,7 @@
             {
               "node_type": "item",
               "title": "TransT-M (High-Performance Transformer Tracking) [paper",
-              "description": "] [code]",
+              "description": "chenxin-dlut/TransT-M",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5062,7 +4822,7 @@
             {
               "node_type": "item",
               "title": "DualTFR (Learning Tracking Representations via Dual-Branch Fully Transformer Networks) [paper",
-              "description": "] [code]",
+              "description": "phiphiphi31/DualTFR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5083,7 +4843,7 @@
             {
               "node_type": "item",
               "title": "SAMN (Learning Spatio-Appearance Memory Network for High-Performance Visual Tracking) [paper",
-              "description": "] [code]",
+              "description": "phiphiphi31/DMB",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5104,7 +4864,7 @@
             {
               "node_type": "item",
               "title": "DTT (High-Performance Discriminative Tracking with Transformers) [paper",
-              "description": "] [code]",
+              "description": "tominute/DTT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5132,7 +4892,7 @@
             {
               "node_type": "item",
               "title": "TrTr (TrTr: Visual Tracking with Transformer) [paper",
-              "description": "] [code]",
+              "description": "tongtybj/TrTr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5153,7 +4913,7 @@
             {
               "node_type": "item",
               "title": "TREG (Target Transformed Regression for Accurate Tracking) [paper",
-              "description": "] [code]",
+              "description": "MCG-NJU/TREG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5181,7 +4941,7 @@
             {
               "node_type": "item",
               "title": "SiamAttn (Deformable Siamese Attention Networks for Visual Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "msight-tech/research-siamattn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5215,7 +4975,7 @@
             {
               "node_type": "item",
               "title": "ChronoTrack (Temporally Consistent Long-Term Memory for 3D Single Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "ujaejoon/ChronoTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5243,7 +5003,7 @@
             {
               "node_type": "item",
               "title": "SOTFormer (SOTFormer: A Minimal Transformer for Unified Object Tracking and Trajectory Prediction) [paper",
-              "description": "] [code]",
+              "description": "zhongpingDong12/SOTFormer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5271,7 +5031,7 @@
             {
               "node_type": "item",
               "title": "M3SOT (M3SOT: Multi-Frame, Multi-Field, Multi-Space 3D Single Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "liujia99/M3SOT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5295,7 +5055,7 @@
             {
               "node_type": "item",
               "title": "SCVTrack (Robust 3D Tracking with Quality-Aware Shape Completion) [paper",
-              "description": "] [code]",
+              "description": "zjwhit/SCVTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5323,7 +5083,7 @@
             {
               "node_type": "item",
               "title": "SeqTrack3D (SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking) [paper",
-              "description": "] [code]",
+              "description": "aron-lin/seqtrack3d",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5351,7 +5111,7 @@
             {
               "node_type": "item",
               "title": "PROT3D (GSOT3D: Towards Generic 3D Single Object Tracking in the Wild) [paper",
-              "description": "] [code]",
+              "description": "ailovejinx/GSOT3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5372,7 +5132,7 @@
             {
               "node_type": "item",
               "title": "PillarTrack (PillarTrack: Redesigning Pillar-Based Transformer Network for Single Object Tracking on Point Clouds) [paper",
-              "description": "] [code]",
+              "description": "StiphyJay/PillarTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5393,7 +5153,7 @@
             {
               "node_type": "item",
               "title": "EasyTrack (EasyTrack: Efficient and Compact One-Stream 3D Point Clouds Tracker) [paper",
-              "description": "] [code]",
+              "description": "KnightApple427/Easytrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5421,7 +5181,7 @@
             {
               "node_type": "item",
               "title": "CXTrack (CXTrack: Improving 3D Point Cloud Tracking with Contextual Information) [paper",
-              "description": "] [code]",
+              "description": "slothfulxtx/cxtrack3d",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5449,7 +5209,7 @@
             {
               "node_type": "item",
               "title": "MBPTrack (MBPTrack: Improving 3D Point Cloud Tracking with Memory Networks and Box Priors) [paper",
-              "description": "] [code]",
+              "description": "slothfulxtx/MBPTrack3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5482,7 +5242,7 @@
             {
               "node_type": "item",
               "title": "GLT-T (GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds) [paper",
-              "description": "] [code]",
+              "description": "haooozi/GLT-T",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5510,7 +5270,7 @@
             {
               "node_type": "item",
               "title": "GLT-T++ (GLT-T++: Global-Local Transformer for 3D Siamese Tracking with Ranking Loss) [paper",
-              "description": "] [code]",
+              "description": "haooozi/GLT-T",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5531,7 +5291,7 @@
             {
               "node_type": "item",
               "title": "MTM-Tracker (Motion-to-Matching: A Mixed Paradigm for 3D Single Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "NEU-REAL/MTM-Tracker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5552,7 +5312,7 @@
             {
               "node_type": "item",
               "title": "MMF-Track (Multi-Modal Multi-Level Fusion for 3D Single Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "NEU-REAL/MMF-Tracker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5573,7 +5333,7 @@
             {
               "node_type": "item",
               "title": "MCSTN (Multi-Correlation Siamese Transformer Network with Dense Connection for 3D Single Object Tracking) [paper",
-              "description": "] [code]",
+              "description": "liangp/MCSTN-3DSOT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5601,7 +5361,7 @@
             {
               "node_type": "item",
               "title": "PTTR (PTTR: Relational 3D Point Cloud Object Tracking with Transformer) [paper",
-              "description": "] [code]",
+              "description": "Jasonkks/PTTR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5634,7 +5394,7 @@
             {
               "node_type": "item",
               "title": "STNet (3D Siamese Transformer Network for Single Object Tracking on Point Clouds) [paper",
-              "description": "] [code]",
+              "description": "fpthink/STNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5655,7 +5415,7 @@
             {
               "node_type": "item",
               "title": "CMT (CMT: Context-Matching-Guided Transformer for 3D Tracking in Point Clouds) [paper",
-              "description": "] [code]",
+              "description": "jasongzy/CMT",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5683,7 +5443,7 @@
             {
               "node_type": "item",
               "title": "PTTR++ (Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer) [paper",
-              "description": "] [code]",
+              "description": "Jasonkks/PTTR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5716,7 +5476,7 @@
             {
               "node_type": "item",
               "title": "LTTR (3D Object Tracking with Transformer) [paper",
-              "description": "] [code]",
+              "description": "NEU-REAL/LTTR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5744,7 +5504,7 @@
             {
               "node_type": "item",
               "title": "PTT (PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds) [paper",
-              "description": "] [code]",
+              "description": "shanjiayao/PTT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5777,7 +5537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:28:14.022Z",
+    "last_updated": "2026-10-03T04:29:59.722Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
