@@ -15,8 +15,8 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### Game Over???
 
-* **[SAM 2](https://ai.meta.com/SAM2)** \[[paper](https://arxiv.org/abs/2408.00714)] \[[code](https://github.com/facebookresearch/segment-anything-2) ⭐ 19,952 | 🐛 487 | 🌐 Jupyter Notebook | 📅 2026-05-30]
-* **[EfficientTAM](https://yformer.github.io/efficient-track-anything)** \[[paper](https://arxiv.org/abs/2411.18933)] \[[code](https://github.com/yformer/EfficientTAM) ⭐ 831 | 🐛 24 | 🌐 Python | 📅 2025-01-06]
+* **[SAM 2](https://ai.meta.com/SAM2)** \[[paper](https://arxiv.org/abs/2408.00714)] \[[code](https://github.com/facebookresearch/segment-anything-2) ⭐ 19,954 | 🐛 487 | 🌐 Jupyter Notebook | 📅 2026-05-30]
+* **[EfficientTAM](https://yformer.github.io/efficient-track-anything)** \[[paper](https://arxiv.org/abs/2411.18933)] \[[code](https://github.com/yformer/EfficientTAM) ⭐ 830 | 🐛 24 | 🌐 Python | 📅 2025-01-06]
 
 ### State-of-the-Art Transformer Tracker:two\_hearts::two\_hearts::two\_hearts:
 
@@ -114,7 +114,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### CVPR 2026
 
-* **RAGTrack** (RAGTrack: Language-Aware RGBT Tracking with Retrieval-Augmented Generation) \[[paper](https://arxiv.org/abs/2603.03617)] \[[code](https://github.com/IdolLab/RAGTrack) ⭐ 233 | 🐛 3 | 🌐 Python | 📅 2026-08-14]
+* **RAGTrack** (RAGTrack: Language-Aware RGBT Tracking with Retrieval-Augmented Generation) \[[paper](https://arxiv.org/abs/2603.03617)] \[[code](https://github.com/IdolLab/RAGTrack) ⭐ 234 | 🐛 3 | 🌐 Python | 📅 2026-08-14]
 * **UETrack** (UETrack: A Unified and Efficient Framework for Single Object Tracking) \[[paper](https://arxiv.org/abs/2603.01412)] \[[code](https://github.com/kangben258/UETrack) ⭐ 50 | 🐛 3 | 🌐 Python | 📅 2026-03-20]
 * **SpikeTrack** (SpikeTrack: A Spike-Driven Framework for Efficient Visual Tracking) \[[paper](https://arxiv.org/abs/2602.23963)] \[[code](https://github.com/faicaiwawa/SpikeTrack) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2026-04-08]
 * **SEATrack** (SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker) \[[paper](https://arxiv.org/abs/2604.12502)] \[[code](https://github.com/AutoLab-SAI-SJTU/SEATrack) ⭐ 44 | 🐛 3 | 🌐 Python | 📅 2026-05-29]
@@ -157,9 +157,13 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 * **GLAD** (GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates) \[[paper](https://arxiv.org/abs/2602.00570)] \[[code](https://github.com/Confetti-lxy/GLAD) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-03-14]
 * **E2EMPT** (End-to-End Unmixing with Material Prompts for Hyperspectral Object Tracking) \[[paper](https://arxiv.org/abs/2605.20569)] \[[code](https://github.com/han030927/E2EMPT) ⭐ 4 | 🐛 1 | 📅 2026-05-21]
 * **PATrack** (Learning Progressive Adaptation for Multi-Modal Tracking) \[[paper](https://arxiv.org/abs/2603.21100)] \[[code](https://github.com/ouha1998/Learning-Progressive-Adaptation-for-Multi-Modal-Tracking) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2025-07-30]
+* **TLCTrack** (Continuous Token-Level Spatio-Temporal Context Modeling for Visual Object Tracking) \[[paper](https://arxiv.org/abs/2609.07070)] \[[code](https://github.com/xiading123/TLCTrack) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-06-19]
+* **ESMTrack** (End-to-End Self-Supervised RGB-T Tracking without Modality Misleading) \[[paper](https://arxiv.org/abs/2609.37162)] \[[code](https://github.com/LiShenglana/ESMTrack) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-30]
 * **VL-UniTrack** (VL-UniTrack: A Unified Framework with Visual-Language Prompts for UAV-Ground Visual Tracking) \[[paper](https://arxiv.org/abs/2605.04574)] \[[code](https://github.com/xuboyue1999/VL-UniTrack) ⭐ 0 | 🐛 1 | 📅 2026-05-06]
 * **Diff-Tracking** (Leveraging Text-to-Image Diffusion Models for Unsupervised Visual Object Tracking) \[[paper](https://arxiv.org/abs/2605.26933)] \[~~code~~]
+* **LoopTrack** (LoopTrack: A Simple Baseline for Parameter-Efficient Transformer Tracking) \[[paper](https://arxiv.org/abs/2609.33306)] \[~~code~~]
 * **LVTrack** (Efficient Language-to-Vision Feature Injection for Referring Single-Object Tracking) \[[paper](https://arxiv.org/abs/2608.29126)] \[~~code~~]
+* **SBMVTrack** (SBMVTrack: Spike-Budgeted Multi-View Learning for Power-Efficient UAV Tracking) \[[paper](https://arxiv.org/abs/2609.25503)] \[~~code~~]
 * **SDMoE** (Sparse-Dense Mixture of Experts Adapter for Multi-Modal Tracking) \[[paper](https://arxiv.org/abs/2603.13719)] \[~~code~~]
 * **UAV-Track VLA** (UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models) \[[paper](https://arxiv.org/abs/2604.02241)] \[[code](https://github.com/Hub-Tian/UAVTrack_VLA)]
 * **UBATrack** (UBATrack: Spatio-Temporal State Space Model for General Multi-Modal Tracking) \[[paper](https://arxiv.org/abs/2601.14799)] \[~~code~~]
@@ -562,6 +566,10 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 * **ChronoTrack** (Temporally Consistent Long-Term Memory for 3D Single Object Tracking) \[[paper](https://arxiv.org/abs/2604.13789)] \[[code](https://github.com/ujaejoon/ChronoTrack) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2026-04-29]
 
+### Preprint 2026
+
+* **TFTrack** (TFTrack: A Template-Free Framework for Efficient 3D Point Cloud Tracking) \[[paper](https://arxiv.org/abs/2609.07738)] \[[code](https://github.com/tftrack-anonymous/TFTrack) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-06-16]
+
 ### CVPR 2025
 
 * **Mono3DVLT** (Mono3DVLT: Monocular-Video-Based 3D Visual Language Tracking) \[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wei_Mono3DVLT_Monocular-Video-Based_3D_Visual_Language_Tracking_CVPR_2025_paper.html)] \[~~code~~]
@@ -657,4 +665,4 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

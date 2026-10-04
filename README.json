@@ -21,7 +21,7 @@
                 "open_issues": 487,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19952,
+                "stars": 19954,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -42,7 +42,7 @@
                 "open_issues": 24,
                 "owner": "yformer",
                 "repo": "EfficientTAM",
-                "stars": 831,
+                "stars": 830,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -494,7 +494,7 @@
                 "open_issues": 3,
                 "owner": "IdolLab",
                 "repo": "RAGTrack",
-                "stars": 233,
+                "stars": 234,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -928,6 +928,48 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
+            },
+            {
+              "node_type": "item",
+              "title": "TLCTrack (Continuous Token-Level Spatio-Temporal Context Modeling for Visual Object Tracking) [paper",
+              "description": "xiading123/TLCTrack",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Single object tracking",
+                "homepage": null,
+                "id": 1186045729,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-06-19T09:48:57Z",
+                "open_issues": 1,
+                "owner": "xiading123",
+                "repo": "TLCTrack",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-10-04T19:18:55.874Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ESMTrack (End-to-End Self-Supervised RGB-T Tracking without Modality Misleading) [paper",
+              "description": "LiShenglana/ESMTrack",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1109587187,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-30T05:08:33Z",
+                "open_issues": 0,
+                "owner": "LiShenglana",
+                "repo": "ESMTrack",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-04T19:18:55.874Z"
             },
             {
               "node_type": "item",
@@ -2953,7 +2995,7 @@
                 "open_issues": 32,
                 "owner": "microsoft",
                 "repo": "VideoX",
-                "stars": 1072,
+                "stars": 1073,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5002,6 +5044,34 @@
           "children": [
             {
               "node_type": "item",
+              "title": "TFTrack (TFTrack: A Template-Free Framework for Efficient 3D Point Cloud Tracking) [paper",
+              "description": "tftrack-anonymous/TFTrack",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1270958355,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-06-16T07:50:53Z",
+                "open_issues": 0,
+                "owner": "tftrack-anonymous",
+                "repo": "TFTrack",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-04T19:18:55.874Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Preprint 2026"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "SOTFormer (SOTFormer: A Minimal Transformer for Unified Object Tracking and Trajectory Prediction) [paper",
               "description": "zhongpingDong12/SOTFormer",
               "children": [],
@@ -5537,7 +5607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T19:05:24.776Z",
+    "last_updated": "2026-10-04T19:18:55.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
@@ -5545,7 +5615,7 @@
       "id": 449138962,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-02T08:47:02Z",
+      "last_commit": "2026-10-04T02:14:24Z",
       "open_issues": 0,
       "owner": "Little-Podi",
       "repo": "Transformer_Tracking",
@@ -5565,7 +5635,7 @@
         "visual-tracking"
       ]
     },
-    "original_repository_sha": "d5e9f9f7ffc29eef496099cd5d3d692f76695fa5",
+    "original_repository_sha": "10bf6ba82f326c22ae85d60893dd3005f78774ab",
     "enhanced_repository": "enhansome/enhansome-Transformer_Tracking",
     "enhanced_repository_description": null,
     "title": "Awesome Transformer Tracking with stars"
