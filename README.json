@@ -21,7 +21,7 @@
                 "open_issues": 487,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19954,
+                "stars": 19952,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -494,7 +494,7 @@
                 "open_issues": 3,
                 "owner": "IdolLab",
                 "repo": "RAGTrack",
-                "stars": 234,
+                "stars": 235,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -763,7 +763,7 @@
                 "open_issues": 2,
                 "owner": "IdolLab",
                 "repo": "AnyTrack",
-                "stars": 67,
+                "stars": 68,
                 "topics": []
               },
               "first_seen": "2026-09-02T19:16:47.781Z"
@@ -1144,7 +1144,7 @@
                 "open_issues": 8,
                 "owner": "WenRuiCai",
                 "repo": "SPMTrack",
-                "stars": 62,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1354,7 +1354,7 @@
                 "open_issues": 0,
                 "owner": "IdolLab",
                 "repo": "CADTrack",
-                "stars": 218,
+                "stars": 219,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1851,7 +1851,7 @@
                 "open_issues": 1,
                 "owner": "ManOfStory",
                 "repo": "UncTrack",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2244,7 +2244,7 @@
                 "open_issues": 20,
                 "owner": "LitingLin",
                 "repo": "LoRAT",
-                "stars": 129,
+                "stars": 130,
                 "topics": [
                   "single-object-tracking",
                   "tracking"
@@ -5607,7 +5607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T19:18:55.874Z",
+    "last_updated": "2026-10-05T22:22:19.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
