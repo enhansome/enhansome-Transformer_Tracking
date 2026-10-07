@@ -21,7 +21,7 @@
                 "open_issues": 487,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19958,
+                "stars": 19962,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -42,7 +42,7 @@
                 "open_issues": 24,
                 "owner": "yformer",
                 "repo": "EfficientTAM",
-                "stars": 830,
+                "stars": 829,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -367,7 +367,7 @@
                 "open_issues": 42,
                 "owner": "z-x-yang",
                 "repo": "Segment-and-Track-Anything",
-                "stars": 3140,
+                "stars": 3141,
                 "topics": [
                   "interactive-segmentation",
                   "segment-anything",
@@ -515,7 +515,7 @@
                 "open_issues": 3,
                 "owner": "kangben258",
                 "repo": "UETrack",
-                "stars": 50,
+                "stars": 51,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1375,7 +1375,7 @@
                 "open_issues": 12,
                 "owner": "chenxin-dlut",
                 "repo": "SUTrack",
-                "stars": 169,
+                "stars": 170,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2652,7 +2652,7 @@
                 "open_issues": 12,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7112,
+                "stars": 7113,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2694,7 +2694,7 @@
                 "open_issues": 4,
                 "owner": "chenxin-dlut",
                 "repo": "SeqTrackv2",
-                "stars": 98,
+                "stars": 99,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3312,7 +3312,7 @@
                 "open_issues": 2,
                 "owner": "ZHU-Zhiyu",
                 "repo": "High-Rank_RGB-Event_Tracker",
-                "stars": 148,
+                "stars": 149,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4791,7 +4791,7 @@
                 "open_issues": 70,
                 "owner": "researchmm",
                 "repo": "Stark",
-                "stars": 715,
+                "stars": 716,
                 "topics": [
                   "transformer"
                 ]
@@ -5058,7 +5058,7 @@
                 "open_issues": 0,
                 "owner": "tftrack-anonymous",
                 "repo": "TFTrack",
-                "stars": 0,
+                "stars": 1,
                 "topics": []
               },
               "first_seen": "2026-10-04T19:18:55.874Z"
@@ -5607,7 +5607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T20:50:20.891Z",
+    "last_updated": "2026-10-07T21:05:20.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
