@@ -18,10 +18,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-30T02:29:40Z",
-                "open_issues": 487,
+                "open_issues": 488,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19970,
+                "stars": 19976,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -137,7 +137,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3517,
+                "stars": 3518,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -339,7 +339,7 @@
                 "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 7005,
+                "stars": 7006,
                 "topics": [
                   "inpaint-anything",
                   "interactive-tracking",
@@ -494,7 +494,7 @@
                 "open_issues": 3,
                 "owner": "IdolLab",
                 "repo": "RAGTrack",
-                "stars": 235,
+                "stars": 230,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -763,7 +763,7 @@
                 "open_issues": 2,
                 "owner": "IdolLab",
                 "repo": "AnyTrack",
-                "stars": 68,
+                "stars": 67,
                 "topics": []
               },
               "first_seen": "2026-09-02T19:16:47.781Z"
@@ -1102,7 +1102,7 @@
                 "open_issues": 7,
                 "owner": "wuyou3474",
                 "repo": "ORTrack",
-                "stars": 124,
+                "stars": 126,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1165,7 +1165,7 @@
                 "open_issues": 8,
                 "owner": "GXNU-ZhongLab",
                 "repo": "DUTrack",
-                "stars": 45,
+                "stars": 46,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1305,7 +1305,7 @@
                 "open_issues": 5,
                 "owner": "XiaokunFeng",
                 "repo": "CSTrack",
-                "stars": 112,
+                "stars": 111,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1354,7 +1354,7 @@
                 "open_issues": 0,
                 "owner": "IdolLab",
                 "repo": "CADTrack",
-                "stars": 219,
+                "stars": 213,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1396,7 +1396,7 @@
                 "open_issues": 10,
                 "owner": "kangben258",
                 "repo": "MCITrack",
-                "stars": 119,
+                "stars": 120,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1706,7 +1706,7 @@
                 "open_issues": 11,
                 "owner": "GXNU-ZhongLab",
                 "repo": "ODTrack",
-                "stars": 192,
+                "stars": 193,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1851,7 +1851,7 @@
                 "open_issues": 1,
                 "owner": "ManOfStory",
                 "repo": "UncTrack",
-                "stars": 19,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2122,7 +2122,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-08-20T04:32:01Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "VISION-SJTU",
                 "repo": "DiffusionTrack",
                 "stars": 42,
@@ -2303,7 +2303,7 @@
                 "open_issues": 11,
                 "owner": "GXNU-ZhongLab",
                 "repo": "ODTrack",
-                "stars": 192,
+                "stars": 193,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2450,7 +2450,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3517,
+                "stars": 3518,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -3263,7 +3263,7 @@
                 "open_issues": 35,
                 "owner": "MCG-NJU",
                 "repo": "MixFormerV2",
-                "stars": 229,
+                "stars": 230,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3933,7 +3933,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3517,
+                "stars": 3518,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -4700,7 +4700,7 @@
                 "open_issues": 60,
                 "owner": "chenxin-dlut",
                 "repo": "TransT",
-                "stars": 635,
+                "stars": 636,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5607,7 +5607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T21:08:18.268Z",
+    "last_updated": "2026-10-09T20:39:38.826Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
