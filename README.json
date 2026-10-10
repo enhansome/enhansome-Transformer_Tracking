@@ -21,7 +21,7 @@
                 "open_issues": 488,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19976,
+                "stars": 19982,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -339,7 +339,7 @@
                 "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 7006,
+                "stars": 7005,
                 "topics": [
                   "inpaint-anything",
                   "interactive-tracking",
@@ -367,7 +367,7 @@
                 "open_issues": 42,
                 "owner": "z-x-yang",
                 "repo": "Segment-and-Track-Anything",
-                "stars": 3141,
+                "stars": 3140,
                 "topics": [
                   "interactive-segmentation",
                   "segment-anything",
@@ -522,6 +522,27 @@
             },
             {
               "node_type": "item",
+              "title": "SEATrack (SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker) [paper",
+              "description": "AutoLab-SAI-SJTU/SEATrack",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR 2026 Oral] Official Implementation of \"SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker\"",
+                "homepage": null,
+                "id": 1205891594,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-05-29T06:31:32Z",
+                "open_issues": 3,
+                "owner": "AutoLab-SAI-SJTU",
+                "repo": "SEATrack",
+                "stars": 45,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
+            },
+            {
+              "node_type": "item",
               "title": "SpikeTrack (SpikeTrack: A Spike-Driven Framework for Efficient Visual Tracking) [paper",
               "description": "faicaiwawa/SpikeTrack",
               "children": [],
@@ -537,27 +558,6 @@
                 "owner": "faicaiwawa",
                 "repo": "SpikeTrack",
                 "stars": 45,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:28:14.224Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SEATrack (SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker) [paper",
-              "description": "AutoLab-SAI-SJTU/SEATrack",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CVPR 2026 Oral] Official Implementation of \"SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker\"",
-                "homepage": null,
-                "id": 1205891594,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-05-29T06:31:32Z",
-                "open_issues": 3,
-                "owner": "AutoLab-SAI-SJTU",
-                "repo": "SEATrack",
-                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -701,7 +701,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-08-26T09:43:46Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "TsingWei",
                 "repo": "MaST",
                 "stars": 6,
@@ -1438,7 +1438,7 @@
                 "open_issues": 9,
                 "owner": "jiawen-zhu",
                 "repo": "AsymTrack",
-                "stars": 56,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2054,7 +2054,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-05-04T06:19:49Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "WenRuiCai",
                 "repo": "HIPTrack",
                 "stars": 72,
@@ -2652,7 +2652,7 @@
                 "open_issues": 12,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7113,
+                "stars": 7114,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3260,7 +3260,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-04-20T11:16:56Z",
-                "open_issues": 35,
+                "open_issues": 36,
                 "owner": "MCG-NJU",
                 "repo": "MixFormerV2",
                 "stars": 230,
@@ -5607,7 +5607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T20:39:38.826Z",
+    "last_updated": "2026-10-10T19:53:08.518Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
