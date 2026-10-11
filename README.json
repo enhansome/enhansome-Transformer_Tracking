@@ -21,7 +21,7 @@
                 "open_issues": 488,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19982,
+                "stars": 19987,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -367,7 +367,7 @@
                 "open_issues": 42,
                 "owner": "z-x-yang",
                 "repo": "Segment-and-Track-Anything",
-                "stars": 3140,
+                "stars": 3141,
                 "topics": [
                   "interactive-segmentation",
                   "segment-anything",
@@ -1809,7 +1809,7 @@
                 "open_issues": 5,
                 "owner": "vero1925",
                 "repo": "FocusTrack",
-                "stars": 41,
+                "stars": 42,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5607,7 +5607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T19:53:08.518Z",
+    "last_updated": "2026-10-11T20:00:50.495Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
