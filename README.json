@@ -21,7 +21,7 @@
                 "open_issues": 488,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19987,
+                "stars": 19995,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -339,7 +339,7 @@
                 "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 7005,
+                "stars": 7006,
                 "topics": [
                   "inpaint-anything",
                   "interactive-tracking",
@@ -536,7 +536,7 @@
                 "open_issues": 3,
                 "owner": "AutoLab-SAI-SJTU",
                 "repo": "SEATrack",
-                "stars": 45,
+                "stars": 46,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -732,7 +732,7 @@
                 "open_issues": 3,
                 "owner": "MelanTech",
                 "repo": "GOLA",
-                "stars": 28,
+                "stars": 29,
                 "topics": [
                   "tracking",
                   "transformer"
@@ -819,7 +819,7 @@
                 "open_issues": 1,
                 "owner": "Event-AHU",
                 "repo": "OpenEvTracking",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -840,7 +840,7 @@
                 "open_issues": 1,
                 "owner": "Event-AHU",
                 "repo": "OpenEvTracking",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1011,11 +1011,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-08T10:53:41Z",
+                "last_commit": "2026-10-12T03:28:17Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1037,
+                "stars": 1039,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1681,11 +1681,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-08T10:53:41Z",
+                "last_commit": "2026-10-12T03:28:17Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1037,
+                "stars": 1039,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2170,11 +2170,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-08T10:53:41Z",
+                "last_commit": "2026-10-12T03:28:17Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1037,
+                "stars": 1039,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2652,7 +2652,7 @@
                 "open_issues": 12,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7114,
+                "stars": 7115,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2862,7 +2862,7 @@
                 "open_issues": 8,
                 "owner": "LiYunfengLYF",
                 "repo": "SCANet",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3375,7 +3375,7 @@
                 "open_issues": 7,
                 "owner": "xyyang317",
                 "repo": "Aba-ViTrack",
-                "stars": 53,
+                "stars": 54,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4575,7 +4575,7 @@
                 "open_issues": 7,
                 "owner": "Event-AHU",
                 "repo": "COESOT",
-                "stars": 82,
+                "stars": 83,
                 "topics": [
                   "benchmark-dataset",
                   "coesot",
@@ -5607,7 +5607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T20:00:50.495Z",
+    "last_updated": "2026-10-12T22:47:43.380Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
@@ -5619,7 +5619,7 @@
       "open_issues": 0,
       "owner": "Little-Podi",
       "repo": "Transformer_Tracking",
-      "stars": 392,
+      "stars": 393,
       "topics": [
         "awesome-list",
         "cvpr",
