@@ -21,7 +21,7 @@
                 "open_issues": 488,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 19995,
+                "stars": 19998,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -339,7 +339,7 @@
                 "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 7006,
+                "stars": 7007,
                 "topics": [
                   "inpaint-anything",
                   "interactive-tracking",
@@ -454,7 +454,7 @@
                 "open_issues": 23,
                 "owner": "MasterBin-IIAU",
                 "repo": "Unicorn",
-                "stars": 950,
+                "stars": 951,
                 "topics": [
                   "multi-object-tracking-segmentation",
                   "multiple-object-tracking",
@@ -515,7 +515,7 @@
                 "open_issues": 3,
                 "owner": "kangben258",
                 "repo": "UETrack",
-                "stars": 51,
+                "stars": 52,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -644,7 +644,7 @@
                 "id": 862472091,
                 "language": "Jupyter Notebook",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-27T16:42:39Z",
+                "last_commit": "2026-10-13T15:39:47Z",
                 "open_issues": 0,
                 "owner": "chenshihfang",
                 "repo": "GOT",
@@ -676,7 +676,7 @@
                 "open_issues": 2,
                 "owner": "Multimedia-Analytics-Laboratory",
                 "repo": "RELO",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -704,7 +704,7 @@
                 "open_issues": 1,
                 "owner": "TsingWei",
                 "repo": "MaST",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-09-02T19:16:47.781Z"
@@ -819,7 +819,7 @@
                 "open_issues": 1,
                 "owner": "Event-AHU",
                 "repo": "OpenEvTracking",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -840,7 +840,7 @@
                 "open_issues": 1,
                 "owner": "Event-AHU",
                 "repo": "OpenEvTracking",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1011,7 +1011,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-12T03:28:17Z",
+                "last_commit": "2026-10-13T06:56:12Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -1681,7 +1681,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-12T03:28:17Z",
+                "last_commit": "2026-10-13T06:56:12Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -2170,7 +2170,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-12T03:28:17Z",
+                "last_commit": "2026-10-13T06:56:12Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -2711,7 +2711,7 @@
                 "id": 862472091,
                 "language": "Jupyter Notebook",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-27T16:42:39Z",
+                "last_commit": "2026-10-13T15:39:47Z",
                 "open_issues": 0,
                 "owner": "chenshihfang",
                 "repo": "GOT",
@@ -4416,7 +4416,7 @@
                 "open_issues": 4,
                 "owner": "RISC-NYUAD",
                 "repo": "SiamTPNTracker",
-                "stars": 51,
+                "stars": 52,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5607,7 +5607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:47:43.380Z",
+    "last_updated": "2026-10-13T21:02:46.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
