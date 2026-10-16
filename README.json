@@ -21,7 +21,7 @@
                 "open_issues": 489,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20008,
+                "stars": 20013,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -204,7 +204,7 @@
                 "open_issues": 47,
                 "owner": "FoundationVision",
                 "repo": "GLEE",
-                "stars": 1170,
+                "stars": 1169,
                 "topics": [
                   "foundation-model",
                   "interactive-segmentation",
@@ -1011,7 +1011,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-14T00:24:37Z",
+                "last_commit": "2026-10-15T23:59:03Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -1681,7 +1681,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-14T00:24:37Z",
+                "last_commit": "2026-10-15T23:59:03Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -2170,7 +2170,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-14T00:24:37Z",
+                "last_commit": "2026-10-15T23:59:03Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -2652,7 +2652,7 @@
                 "open_issues": 12,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7116,
+                "stars": 7118,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2995,7 +2995,7 @@
                 "open_issues": 32,
                 "owner": "microsoft",
                 "repo": "VideoX",
-                "stars": 1072,
+                "stars": 1071,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4791,7 +4791,7 @@
                 "open_issues": 70,
                 "owner": "researchmm",
                 "repo": "Stark",
-                "stars": 716,
+                "stars": 715,
                 "topics": [
                   "transformer"
                 ]
@@ -4968,7 +4968,7 @@
                 "open_issues": 1,
                 "owner": "MCG-NJU",
                 "repo": "TREG",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5607,7 +5607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T19:45:12.264Z",
+    "last_updated": "2026-10-16T19:25:52.711Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
