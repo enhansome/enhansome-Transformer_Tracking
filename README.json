@@ -21,7 +21,7 @@
                 "open_issues": 489,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20013,
+                "stars": 20014,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -42,7 +42,7 @@
                 "open_issues": 24,
                 "owner": "yformer",
                 "repo": "EfficientTAM",
-                "stars": 829,
+                "stars": 830,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -815,7 +815,7 @@
                 "id": 1021929453,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-07-08T14:13:14Z",
+                "last_commit": "2026-10-17T10:02:32Z",
                 "open_issues": 1,
                 "owner": "Event-AHU",
                 "repo": "OpenEvTracking",
@@ -836,7 +836,7 @@
                 "id": 1021929453,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-07-08T14:13:14Z",
+                "last_commit": "2026-10-17T10:02:32Z",
                 "open_issues": 1,
                 "owner": "Event-AHU",
                 "repo": "OpenEvTracking",
@@ -1011,7 +1011,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-15T23:59:03Z",
+                "last_commit": "2026-10-17T09:35:10Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -1417,7 +1417,7 @@
                 "open_issues": 7,
                 "owner": "NJU-PCALab",
                 "repo": "STTrack",
-                "stars": 119,
+                "stars": 120,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1681,7 +1681,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-15T23:59:03Z",
+                "last_commit": "2026-10-17T09:35:10Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -2170,7 +2170,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-15T23:59:03Z",
+                "last_commit": "2026-10-17T09:35:10Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -4575,7 +4575,7 @@
                 "open_issues": 7,
                 "owner": "Event-AHU",
                 "repo": "COESOT",
-                "stars": 83,
+                "stars": 84,
                 "topics": [
                   "benchmark-dataset",
                   "coesot",
@@ -5607,7 +5607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:25:52.711Z",
+    "last_updated": "2026-10-17T18:16:41.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
