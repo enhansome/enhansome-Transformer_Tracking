@@ -21,7 +21,7 @@
                 "open_issues": 489,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20014,
+                "stars": 20018,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -339,7 +339,7 @@
                 "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 7010,
+                "stars": 7009,
                 "topics": [
                   "inpaint-anything",
                   "interactive-tracking",
@@ -494,7 +494,7 @@
                 "open_issues": 3,
                 "owner": "IdolLab",
                 "repo": "RAGTrack",
-                "stars": 232,
+                "stars": 233,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -648,7 +648,7 @@
                 "open_issues": 0,
                 "owner": "chenshihfang",
                 "repo": "GOT",
-                "stars": 48,
+                "stars": 49,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1011,11 +1011,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-17T09:35:10Z",
+                "last_commit": "2026-10-18T01:16:59Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1044,
+                "stars": 1045,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1102,7 +1102,7 @@
                 "open_issues": 7,
                 "owner": "wuyou3474",
                 "repo": "ORTrack",
-                "stars": 126,
+                "stars": 127,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1235,7 +1235,7 @@
                 "open_issues": 0,
                 "owner": "supertyd",
                 "repo": "XTrack",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1681,11 +1681,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-17T09:35:10Z",
+                "last_commit": "2026-10-18T01:16:59Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1044,
+                "stars": 1045,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2170,11 +2170,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-17T09:35:10Z",
+                "last_commit": "2026-10-18T01:16:59Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1044,
+                "stars": 1045,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2715,7 +2715,7 @@
                 "open_issues": 0,
                 "owner": "chenshihfang",
                 "repo": "GOT",
-                "stars": 48,
+                "stars": 49,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5607,7 +5607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T18:16:41.087Z",
+    "last_updated": "2026-10-18T18:30:41.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
