@@ -21,7 +21,7 @@
                 "open_issues": 489,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20026,
+                "stars": 20033,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -137,7 +137,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3520,
+                "stars": 3521,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -339,7 +339,7 @@
                 "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 7011,
+                "stars": 7012,
                 "topics": [
                   "inpaint-anything",
                   "interactive-tracking",
@@ -367,7 +367,7 @@
                 "open_issues": 42,
                 "owner": "z-x-yang",
                 "repo": "Segment-and-Track-Anything",
-                "stars": 3142,
+                "stars": 3143,
                 "topics": [
                   "interactive-segmentation",
                   "segment-anything",
@@ -599,7 +599,7 @@
                 "open_issues": 2,
                 "owner": "NorahGreen",
                 "repo": "DTPTrack",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -732,7 +732,7 @@
                 "open_issues": 3,
                 "owner": "MelanTech",
                 "repo": "GOLA",
-                "stars": 29,
+                "stars": 30,
                 "topics": [
                   "tracking",
                   "transformer"
@@ -1015,7 +1015,7 @@
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1045,
+                "stars": 1046,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1102,7 +1102,7 @@
                 "open_issues": 7,
                 "owner": "wuyou3474",
                 "repo": "ORTrack",
-                "stars": 127,
+                "stars": 126,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1685,7 +1685,7 @@
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1045,
+                "stars": 1046,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2174,7 +2174,7 @@
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1045,
+                "stars": 1046,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2244,7 +2244,7 @@
                 "open_issues": 20,
                 "owner": "LitingLin",
                 "repo": "LoRAT",
-                "stars": 131,
+                "stars": 132,
                 "topics": [
                   "single-object-tracking",
                   "tracking"
@@ -2366,7 +2366,7 @@
                 "open_issues": 2,
                 "owner": "GXNU-ZhongLab",
                 "repo": "EVPTrack",
-                "stars": 30,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2450,7 +2450,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3520,
+                "stars": 3521,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -2561,7 +2561,7 @@
                 "open_issues": 5,
                 "owner": "vision4robotics",
                 "repo": "LDEnhancer",
-                "stars": 23,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2582,7 +2582,7 @@
                 "open_issues": 1,
                 "owner": "vision4robotics",
                 "repo": "TDA-Track",
-                "stars": 14,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2652,7 +2652,7 @@
                 "open_issues": 12,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7117,
+                "stars": 7118,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2890,27 +2890,6 @@
             },
             {
               "node_type": "item",
-              "title": "OIFTrack (Optimized Information Flow for Transformer Tracking) [paper",
-              "description": "JananiKugaa/SIFTrack",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 754989363,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-09-15T17:11:43Z",
-                "open_issues": 1,
-                "owner": "JananiKugaa",
-                "repo": "SIFTrack",
-                "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:28:14.224Z"
-            },
-            {
-              "node_type": "item",
               "title": "TENet (TENet: Targetness Entanglement Incorporating with Multi-Scale Pooling and Mutually-Guided Fusion for RGB-E Object Tracking) [paper",
               "description": "SSSpc333/TENet",
               "children": [],
@@ -2946,6 +2925,27 @@
                 "open_issues": 1,
                 "owner": "openat25",
                 "repo": "HIPTrack-MLS",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
+            },
+            {
+              "node_type": "item",
+              "title": "OIFTrack (Optimized Information Flow for Transformer Tracking) [paper",
+              "description": "JananiKugaa/SIFTrack",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 754989363,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-09-15T17:11:43Z",
+                "open_issues": 1,
+                "owner": "JananiKugaa",
+                "repo": "SIFTrack",
                 "stars": 6,
                 "topics": []
               },
@@ -3933,7 +3933,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3520,
+                "stars": 3521,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -4005,7 +4005,7 @@
                 "open_issues": 3,
                 "owner": "vision4robotics",
                 "repo": "UDAT",
-                "stars": 126,
+                "stars": 125,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4416,7 +4416,7 @@
                 "open_issues": 4,
                 "owner": "RISC-NYUAD",
                 "repo": "SiamTPNTracker",
-                "stars": 52,
+                "stars": 51,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4444,7 +4444,7 @@
                 "open_issues": 4,
                 "owner": "vision4robotics",
                 "repo": "SCT",
-                "stars": 61,
+                "stars": 60,
                 "topics": [
                   "benchmark",
                   "low-light-enhancer",
@@ -4835,7 +4835,7 @@
                 "open_issues": 4,
                 "owner": "vision4robotics",
                 "repo": "HiFT",
-                "stars": 84,
+                "stars": 83,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5607,7 +5607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T19:53:50.613Z",
+    "last_updated": "2026-10-21T19:58:00.976Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
