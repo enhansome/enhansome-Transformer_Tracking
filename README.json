@@ -21,7 +21,7 @@
                 "open_issues": 489,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20040,
+                "stars": 20050,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -42,7 +42,7 @@
                 "open_issues": 24,
                 "owner": "yformer",
                 "repo": "EfficientTAM",
-                "stars": 831,
+                "stars": 832,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -763,7 +763,7 @@
                 "open_issues": 2,
                 "owner": "IdolLab",
                 "repo": "AnyTrack",
-                "stars": 68,
+                "stars": 69,
                 "topics": []
               },
               "first_seen": "2026-09-02T19:16:47.781Z"
@@ -1351,7 +1351,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-06-03T02:12:13Z",
-                "open_issues": 0,
+                "open_issues": 2,
                 "owner": "IdolLab",
                 "repo": "CADTrack",
                 "stars": 213,
@@ -2652,7 +2652,7 @@
                 "open_issues": 12,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7119,
+                "stars": 7118,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4166,7 +4166,7 @@
                 "open_issues": 54,
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 693,
+                "stars": 694,
                 "topics": [
                   "tracking",
                   "transformer"
@@ -5607,7 +5607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T19:49:33.678Z",
+    "last_updated": "2026-10-23T19:51:08.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
@@ -5619,7 +5619,7 @@
       "open_issues": 0,
       "owner": "Little-Podi",
       "repo": "Transformer_Tracking",
-      "stars": 394,
+      "stars": 395,
       "topics": [
         "awesome-list",
         "cvpr",
