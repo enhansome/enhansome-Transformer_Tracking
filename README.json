@@ -18,10 +18,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-30T02:29:40Z",
-                "open_issues": 489,
+                "open_issues": 488,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20050,
+                "stars": 20054,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1011,11 +1011,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-18T01:16:59Z",
+                "last_commit": "2026-10-24T03:40:45Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1046,
+                "stars": 1047,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1681,11 +1681,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-18T01:16:59Z",
+                "last_commit": "2026-10-24T03:40:45Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1046,
+                "stars": 1047,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1809,7 +1809,7 @@
                 "open_issues": 5,
                 "owner": "vero1925",
                 "repo": "FocusTrack",
-                "stars": 43,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2170,11 +2170,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-18T01:16:59Z",
+                "last_commit": "2026-10-24T03:40:45Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1046,
+                "stars": 1047,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2652,7 +2652,7 @@
                 "open_issues": 12,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7118,
+                "stars": 7116,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5607,7 +5607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T19:51:08.546Z",
+    "last_updated": "2026-10-24T18:38:29.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
