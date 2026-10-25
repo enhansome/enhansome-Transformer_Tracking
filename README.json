@@ -21,7 +21,7 @@
                 "open_issues": 488,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20054,
+                "stars": 20056,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -533,7 +533,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-29T06:31:32Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "AutoLab-SAI-SJTU",
                 "repo": "SEATrack",
                 "stars": 46,
@@ -1459,7 +1459,7 @@
                 "open_issues": 3,
                 "owner": "GXNU-ZhongLab",
                 "repo": "MambaLCT",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2652,7 +2652,7 @@
                 "open_issues": 12,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7116,
+                "stars": 7115,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5607,7 +5607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T18:38:29.986Z",
+    "last_updated": "2026-10-25T18:47:28.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
