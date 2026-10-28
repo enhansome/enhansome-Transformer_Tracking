@@ -21,7 +21,7 @@
                 "open_issues": 489,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20066,
+                "stars": 20071,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -42,7 +42,7 @@
                 "open_issues": 24,
                 "owner": "yformer",
                 "repo": "EfficientTAM",
-                "stars": 833,
+                "stars": 834,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -137,7 +137,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3524,
+                "stars": 3525,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -364,7 +364,7 @@
                 "language": "Jupyter Notebook",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-07-03T21:59:37Z",
-                "open_issues": 42,
+                "open_issues": 41,
                 "owner": "z-x-yang",
                 "repo": "Segment-and-Track-Anything",
                 "stars": 3146,
@@ -491,7 +491,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-14T14:04:24Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "IdolLab",
                 "repo": "RAGTrack",
                 "stars": 234,
@@ -1036,7 +1036,7 @@
                 "open_issues": 9,
                 "owner": "jovanavidenovic",
                 "repo": "DAM4SAM",
-                "stars": 503,
+                "stars": 504,
                 "topics": [
                   "computer-vision",
                   "object-tracking"
@@ -1706,7 +1706,7 @@
                 "open_issues": 11,
                 "owner": "GXNU-ZhongLab",
                 "repo": "ODTrack",
-                "stars": 193,
+                "stars": 194,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1809,7 +1809,7 @@
                 "open_issues": 5,
                 "owner": "vero1925",
                 "repo": "FocusTrack",
-                "stars": 44,
+                "stars": 45,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1830,7 +1830,7 @@
                 "open_issues": 1,
                 "owner": "Event-AHU",
                 "repo": "Open_VLTrack",
-                "stars": 37,
+                "stars": 38,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2303,7 +2303,7 @@
                 "open_issues": 11,
                 "owner": "GXNU-ZhongLab",
                 "repo": "ODTrack",
-                "stars": 193,
+                "stars": 194,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2450,7 +2450,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3524,
+                "stars": 3525,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -2652,7 +2652,7 @@
                 "open_issues": 12,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7116,
+                "stars": 7117,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3933,7 +3933,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3524,
+                "stars": 3525,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -5194,7 +5194,7 @@
                 "open_issues": 1,
                 "owner": "ailovejinx",
                 "repo": "GSOT3D",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5607,7 +5607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T20:29:40.943Z",
+    "last_updated": "2026-10-28T20:51:19.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
