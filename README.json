@@ -21,7 +21,7 @@
                 "open_issues": 489,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20071,
+                "stars": 20078,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -339,7 +339,7 @@
                 "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 7013,
+                "stars": 7014,
                 "topics": [
                   "inpaint-anything",
                   "interactive-tracking",
@@ -515,7 +515,7 @@
                 "open_issues": 4,
                 "owner": "kangben258",
                 "repo": "UETrack",
-                "stars": 54,
+                "stars": 55,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -931,6 +931,27 @@
             },
             {
               "node_type": "item",
+              "title": "ESMTrack (End-to-End Self-Supervised RGB-T Tracking without Modality Misleading) [paper",
+              "description": "LiShenglana/ESMTrack",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1109587187,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-30T05:08:33Z",
+                "open_issues": 0,
+                "owner": "LiShenglana",
+                "repo": "ESMTrack",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-10-04T19:18:55.874Z"
+            },
+            {
+              "node_type": "item",
               "title": "TLCTrack (Continuous Token-Level Spatio-Temporal Context Modeling for Visual Object Tracking) [paper",
               "description": "xiading123/TLCTrack",
               "children": [],
@@ -946,27 +967,6 @@
                 "owner": "xiading123",
                 "repo": "TLCTrack",
                 "stars": 2,
-                "topics": []
-              },
-              "first_seen": "2026-10-04T19:18:55.874Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ESMTrack (End-to-End Self-Supervised RGB-T Tracking without Modality Misleading) [paper",
-              "description": "LiShenglana/ESMTrack",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1109587187,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-09-30T05:08:33Z",
-                "open_issues": 0,
-                "owner": "LiShenglana",
-                "repo": "ESMTrack",
-                "stars": 1,
                 "topics": []
               },
               "first_seen": "2026-10-04T19:18:55.874Z"
@@ -1011,11 +1011,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-26T11:37:22Z",
+                "last_commit": "2026-10-29T12:20:30Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1048,
+                "stars": 1047,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1235,7 +1235,7 @@
                 "open_issues": 0,
                 "owner": "supertyd",
                 "repo": "XTrack",
-                "stars": 40,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1681,11 +1681,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-26T11:37:22Z",
+                "last_commit": "2026-10-29T12:20:30Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1048,
+                "stars": 1047,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1727,7 +1727,7 @@
                 "open_issues": 4,
                 "owner": "Event-AHU",
                 "repo": "EventVOT_Benchmark",
-                "stars": 150,
+                "stars": 151,
                 "topics": [
                   "benchmark-dataset",
                   "cross-modality",
@@ -2005,7 +2005,7 @@
                 "open_issues": 4,
                 "owner": "Event-AHU",
                 "repo": "EventVOT_Benchmark",
-                "stars": 150,
+                "stars": 151,
                 "topics": [
                   "benchmark-dataset",
                   "cross-modality",
@@ -2075,7 +2075,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-06-30T04:14:18Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "hoqolo",
                 "repo": "SDSTrack",
                 "stars": 72,
@@ -2170,11 +2170,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-26T11:37:22Z",
+                "last_commit": "2026-10-29T12:20:30Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1048,
+                "stars": 1047,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2345,7 +2345,7 @@
                 "open_issues": 4,
                 "owner": "OpenSpaceAI",
                 "repo": "UVLTrack",
-                "stars": 52,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2652,7 +2652,7 @@
                 "open_issues": 12,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7117,
+                "stars": 7118,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4138,7 +4138,7 @@
                 "open_issues": 29,
                 "owner": "LitingLin",
                 "repo": "SwinTrack",
-                "stars": 260,
+                "stars": 261,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5607,7 +5607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T20:51:19.692Z",
+    "last_updated": "2026-10-29T20:56:06.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
