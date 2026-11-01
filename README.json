@@ -367,7 +367,7 @@
                 "open_issues": 41,
                 "owner": "z-x-yang",
                 "repo": "Segment-and-Track-Anything",
-                "stars": 3146,
+                "stars": 3145,
                 "topics": [
                   "interactive-segmentation",
                   "segment-anything",
@@ -763,7 +763,7 @@
                 "open_issues": 2,
                 "owner": "IdolLab",
                 "repo": "AnyTrack",
-                "stars": 69,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-09-02T19:16:47.781Z"
@@ -827,6 +827,27 @@
             {
               "node_type": "item",
               "title": "PSMTrack (Dynamic Pondering Sparsity-Aware Mixture-of-Experts Transformer for Event Stream-Based Visual Object Tracking) [paper",
+              "description": "Event-AHU/OpenEvTracking",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Event Stream-based Visual Object Tracking",
+                "homepage": null,
+                "id": 1021929453,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-17T10:02:32Z",
+                "open_issues": 1,
+                "owner": "Event-AHU",
+                "repo": "OpenEvTracking",
+                "stars": 13,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
+            },
+            {
+              "node_type": "item",
+              "title": "UniMergeTrack (UniMergeTrack: Hierarchical Model Merging for General RGB-X Visual Object Tracking) [paper",
               "description": "Event-AHU/OpenEvTracking",
               "children": [],
               "repo_info": {
@@ -983,7 +1004,7 @@
                 "id": 1230618477,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-30T06:55:06Z",
+                "last_commit": "2026-11-01T01:51:04Z",
                 "open_issues": 1,
                 "owner": "xuboyue1999",
                 "repo": "VL-UniTrack",
@@ -4166,7 +4187,7 @@
                 "open_issues": 54,
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 696,
+                "stars": 697,
                 "topics": [
                   "tracking",
                   "transformer"
@@ -4444,7 +4465,7 @@
                 "open_issues": 4,
                 "owner": "vision4robotics",
                 "repo": "SCT",
-                "stars": 60,
+                "stars": 61,
                 "topics": [
                   "benchmark",
                   "low-light-enhancer",
@@ -5607,7 +5628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T19:46:23.202Z",
+    "last_updated": "2026-11-01T20:19:36.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
@@ -5615,7 +5636,7 @@
       "id": 449138962,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-04T02:14:24Z",
+      "last_commit": "2026-11-01T19:57:51Z",
       "open_issues": 0,
       "owner": "Little-Podi",
       "repo": "Transformer_Tracking",
@@ -5635,7 +5656,7 @@
         "visual-tracking"
       ]
     },
-    "original_repository_sha": "10bf6ba82f326c22ae85d60893dd3005f78774ab",
+    "original_repository_sha": "07f63fcc6a3641057ef8ff96fa84ce00743b8241",
     "enhanced_repository": "enhansome/enhansome-Transformer_Tracking",
     "enhanced_repository_description": null,
     "title": "Awesome Transformer Tracking with stars"
