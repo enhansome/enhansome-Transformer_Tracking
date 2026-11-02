@@ -18,10 +18,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-30T02:29:40Z",
-                "open_issues": 489,
+                "open_issues": 488,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20084,
+                "stars": 20093,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -42,7 +42,7 @@
                 "open_issues": 24,
                 "owner": "yformer",
                 "repo": "EfficientTAM",
-                "stars": 834,
+                "stars": 835,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1004,7 +1004,7 @@
                 "id": 1230618477,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-01T01:51:04Z",
+                "last_commit": "2026-11-02T12:12:59Z",
                 "open_issues": 1,
                 "owner": "xuboyue1999",
                 "repo": "VL-UniTrack",
@@ -1123,7 +1123,7 @@
                 "open_issues": 7,
                 "owner": "wuyou3474",
                 "repo": "ORTrack",
-                "stars": 128,
+                "stars": 129,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1214,7 +1214,7 @@
                 "open_issues": 7,
                 "owner": "XiaokunFeng",
                 "repo": "ATCTrack",
-                "stars": 120,
+                "stars": 121,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2673,7 +2673,7 @@
                 "open_issues": 12,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7120,
+                "stars": 7121,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4187,7 +4187,7 @@
                 "open_issues": 54,
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "tracking",
                   "transformer"
@@ -5628,7 +5628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T20:19:36.394Z",
+    "last_updated": "2026-11-02T23:20:58.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
