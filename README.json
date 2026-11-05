@@ -18,10 +18,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-30T02:29:40Z",
-                "open_issues": 488,
+                "open_issues": 487,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20102,
+                "stars": 20103,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -339,7 +339,7 @@
                 "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 7016,
+                "stars": 7017,
                 "topics": [
                   "inpaint-anything",
                   "interactive-tracking",
@@ -491,7 +491,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-14T14:04:24Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "IdolLab",
                 "repo": "RAGTrack",
                 "stars": 234,
@@ -763,7 +763,7 @@
                 "open_issues": 2,
                 "owner": "IdolLab",
                 "repo": "AnyTrack",
-                "stars": 70,
+                "stars": 71,
                 "topics": []
               },
               "first_seen": "2026-09-02T19:16:47.781Z"
@@ -1214,7 +1214,7 @@
                 "open_issues": 7,
                 "owner": "XiaokunFeng",
                 "repo": "ATCTrack",
-                "stars": 119,
+                "stars": 118,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1372,7 +1372,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-06-03T02:12:13Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "IdolLab",
                 "repo": "CADTrack",
                 "stars": 213,
@@ -2673,7 +2673,7 @@
                 "open_issues": 12,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7122,
+                "stars": 7121,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3284,7 +3284,7 @@
                 "open_issues": 36,
                 "owner": "MCG-NJU",
                 "repo": "MixFormerV2",
-                "stars": 230,
+                "stars": 231,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5628,7 +5628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T21:45:03.770Z",
+    "last_updated": "2026-11-05T21:49:04.140Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
