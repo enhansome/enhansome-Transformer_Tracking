@@ -21,7 +21,7 @@
                 "open_issues": 487,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20103,
+                "stars": 20109,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -137,7 +137,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3526,
+                "stars": 3525,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -339,7 +339,7 @@
                 "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 7017,
+                "stars": 7015,
                 "topics": [
                   "inpaint-anything",
                   "interactive-tracking",
@@ -367,7 +367,7 @@
                 "open_issues": 41,
                 "owner": "z-x-yang",
                 "repo": "Segment-and-Track-Anything",
-                "stars": 3146,
+                "stars": 3145,
                 "topics": [
                   "interactive-segmentation",
                   "segment-anything",
@@ -394,7 +394,7 @@
                 "open_issues": 14,
                 "owner": "jiawen-zhu",
                 "repo": "HQTrack",
-                "stars": 752,
+                "stars": 751,
                 "topics": [
                   "object-segmentation",
                   "object-tracking",
@@ -763,7 +763,7 @@
                 "open_issues": 2,
                 "owner": "IdolLab",
                 "repo": "AnyTrack",
-                "stars": 71,
+                "stars": 72,
                 "topics": []
               },
               "first_seen": "2026-09-02T19:16:47.781Z"
@@ -1032,7 +1032,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-04T14:43:28Z",
+                "last_commit": "2026-11-06T00:03:35Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -1144,7 +1144,7 @@
                 "open_issues": 9,
                 "owner": "q2479036243",
                 "repo": "MUST-Multispectral-UAV-Single-Object-Tracking",
-                "stars": 76,
+                "stars": 77,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1702,7 +1702,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-04T14:43:28Z",
+                "last_commit": "2026-11-06T00:03:35Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -2191,7 +2191,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-04T14:43:28Z",
+                "last_commit": "2026-11-06T00:03:35Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -2471,7 +2471,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3526,
+                "stars": 3525,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -2757,7 +2757,7 @@
                 "open_issues": 9,
                 "owner": "Event-AHU",
                 "repo": "FELT_SOT_Benchmark",
-                "stars": 41,
+                "stars": 42,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3954,7 +3954,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3526,
+                "stars": 3525,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -4721,7 +4721,7 @@
                 "open_issues": 60,
                 "owner": "chenxin-dlut",
                 "repo": "TransT",
-                "stars": 636,
+                "stars": 637,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5628,7 +5628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:49:04.140Z",
+    "last_updated": "2026-11-06T21:22:23.974Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
