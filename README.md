@@ -15,7 +15,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### Game Over???
 
-* **[SAM 2](https://ai.meta.com/SAM2)** \[[paper](https://arxiv.org/abs/2408.00714)] \[[code](https://github.com/facebookresearch/segment-anything-2) ⭐ 20,109 | 🐛 487 | 🌐 Jupyter Notebook | 📅 2026-05-30]
+* **[SAM 2](https://ai.meta.com/SAM2)** \[[paper](https://arxiv.org/abs/2408.00714)] \[[code](https://github.com/facebookresearch/segment-anything-2) ⭐ 20,113 | 🐛 487 | 🌐 Jupyter Notebook | 📅 2026-05-30]
 * **[EfficientTAM](https://yformer.github.io/efficient-track-anything)** \[[paper](https://arxiv.org/abs/2411.18933)] \[[code](https://github.com/yformer/EfficientTAM) ⭐ 837 | 🐛 24 | 🌐 Python | 📅 2025-01-06]
 
 ### State-of-the-Art Transformer Tracker:two\_hearts::two\_hearts::two\_hearts:
@@ -143,7 +143,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### MM 2026
 
-* **AnyTrack** (AnyTrack: Unifying Visual Object Tracking with Any Modalities) \[[paper](https://arxiv.org/abs/2608.06773)] \[[code](https://github.com/IdolLab/AnyTrack) ⭐ 72 | 🐛 2 | 🌐 Python | 📅 2026-09-26]
+* **AnyTrack** (AnyTrack: Unifying Visual Object Tracking with Any Modalities) \[[paper](https://arxiv.org/abs/2608.06773)] \[[code](https://github.com/IdolLab/AnyTrack) ⭐ 72 | 🐛 2 | 🌐 Python | 📅 2026-11-07]
 
 ### ICRA 2026
 
@@ -177,7 +177,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 * **MITracker** (MITracker: Multi-View Integration for Visual Object Tracking) \[[paper](https://arxiv.org/abs/2502.20111)] \[[code](https://github.com/XuM007/MITracker) ⭐ 138 | 🐛 14 | 🌐 Python | 📅 2025-06-18]
 * **SGLATrack** (Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking)  \[[paper](https://arxiv.org/abs/2503.06625)] \[[code](https://github.com/GXNU-ZhongLab/SGLATrack) ⭐ 131 | 🐛 6 | 🌐 Python | 📅 2026-08-14]
 * **ORTrack** (Learning Occlusion-Robust Vision Transformers for Real-Time UAV Tracking) \[[paper](https://arxiv.org/abs/2504.09228)] \[[code](https://github.com/wuyou3474/ORTrack) ⭐ 129 | 🐛 7 | 🌐 Python | 📅 2025-06-12]
-* **UNTrack** (MUST: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking) \[[paper](https://arxiv.org/abs/2503.17699)] \[[code](https://github.com/q2479036243/MUST-Multispectral-UAV-Single-Object-Tracking) ⭐ 77 | 🐛 9 | 🌐 Python | 📅 2025-05-27]
+* **UNTrack** (MUST: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking) \[[paper](https://arxiv.org/abs/2503.17699)] \[[code](https://github.com/q2479036243/MUST-Multispectral-UAV-Single-Object-Tracking) ⭐ 78 | 🐛 9 | 🌐 Python | 📅 2025-05-27]
 * **SPMTrack** (SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking) \[[paper](https://arxiv.org/abs/2503.18338)] \[[code](https://github.com/WenRuiCai/SPMTrack) ⭐ 65 | 🐛 8 | 🌐 Python | 📅 2025-10-19]
 * **DUTrack** (Dynamic Updates for Language Adaptation in Visual-Language Tracking) \[[paper](https://arxiv.org/abs/2503.06621)] \[[code](https://github.com/GXNU-ZhongLab/DUTrack) ⭐ 46 | 🐛 8 | 🌐 Python | 📅 2025-03-27]
 * **ARGTrack** (Autoregressive Sequential Pretraining for Visual Tracking) \[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Liang_Autoregressive_Sequential_Pretraining_for_Visual_Tracking_CVPR_2025_paper.html)] \[~~code~~]
@@ -281,7 +281,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### ECCV 2024
 
-* **LoRAT** (Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance) \[[paper](https://arxiv.org/abs/2403.05231)] \[[code](https://github.com/LitingLin/LoRAT) ⭐ 134 | 🐛 20 | 🌐 Python | 📅 2026-02-06]
+* **LoRAT** (Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance) \[[paper](https://arxiv.org/abs/2403.05231)] \[[code](https://github.com/LitingLin/LoRAT) ⭐ 135 | 🐛 20 | 🌐 Python | 📅 2026-02-06]
 * **Diff-Tracker** (Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers) \[[paper](https://arxiv.org/abs/2407.08394)] \[~~code~~]
 
 ### ICML 2024
@@ -478,7 +478,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ### ECCV 2022
 
-* **OSTrack** (Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework) \[[paper](https://arxiv.org/abs/2203.11991)] \[[code](https://github.com/botaoye/OSTrack) ⭐ 700 | 🐛 54 | 🌐 Python | 📅 2023-08-03]
+* **OSTrack** (Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework) \[[paper](https://arxiv.org/abs/2203.11991)] \[[code](https://github.com/botaoye/OSTrack) ⭐ 701 | 🐛 54 | 🌐 Python | 📅 2023-08-03]
 * **AiATrack** (AiATrack: Attention in Attention for Transformer Visual Tracking) \[[paper](https://arxiv.org/abs/2207.09603)] \[[code](https://github.com/Little-Podi/AiATrack) ⭐ 127 | 🐛 1 | 🌐 Python | 📅 2023-12-30]
 * **HCAT** (Efficient Visual Tracking via Hierarchical Cross-Attention Transformer) \[[paper](https://arxiv.org/abs/2203.13537)] \[[code](https://github.com/chenxin-dlut/HCAT) ⭐ 59 | 🐛 2 | 🌐 Python | 📅 2023-06-08]
 * **SimTrack** (Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking) \[[paper](https://arxiv.org/abs/2203.05328)] \[[code](https://github.com/LPXTT/SimTrack) ⭐ 53 | 🐛 8 | 🌐 Python | 📅 2022-12-23]
@@ -635,7 +635,7 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 ### Preprint 2023
 
 * **GLT-T++** (GLT-T++: Global-Local Transformer for 3D Siamese Tracking with Ranking Loss) \[[paper](https://arxiv.org/abs/2304.00242)] \[[code](https://github.com/haooozi/GLT-T) ⭐ 39 | 🐛 3 | 🌐 Python | 📅 2023-12-18]
-* **MTM-Tracker** (Motion-to-Matching: A Mixed Paradigm for 3D Single Object Tracking) \[[paper](https://arxiv.org/abs/2308.11875)] \[[code](https://github.com/LeoZhiheng/MTM-Tracker) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-04-01]
+* **MTM-Tracker** (Motion-to-Matching: A Mixed Paradigm for 3D Single Object Tracking) \[[paper](https://arxiv.org/abs/2308.11875)] \[[code](https://github.com/LeoZhiheng/MTM-Tracker) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2024-04-01]
 * **MMF-Track** (Multi-Modal Multi-Level Fusion for 3D Single Object Tracking) \[[paper](https://arxiv.org/abs/2305.06794)] \[[code](https://github.com/LeoZhiheng/MMF-Tracker) ⭐ 11 | 🐛 1 | 📅 2024-04-01]
 * **MCSTN** (Multi-Correlation Siamese Transformer Network with Dense Connection for 3D Single Object Tracking) \[[paper](https://arxiv.org/abs/2312.11051)] \[[code](https://github.com/liangp/MCSTN-3DSOT) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2023-12-05]
 * **StreamTrack** (Modeling Continuous Motion for 3D Point Cloud Object Tracking) \[[paper](https://arxiv.org/abs/2303.07605)] \[~~code~~]
@@ -666,4 +666,4 @@ This repository is a paper digest of [Transformer](https://arxiv.org/abs/1706.03
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
