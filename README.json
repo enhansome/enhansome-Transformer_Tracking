@@ -21,7 +21,7 @@
                 "open_issues": 487,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20113,
+                "stars": 20114,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -42,7 +42,7 @@
                 "open_issues": 24,
                 "owner": "yformer",
                 "repo": "EfficientTAM",
-                "stars": 837,
+                "stars": 838,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -536,7 +536,7 @@
                 "open_issues": 3,
                 "owner": "AutoLab-SAI-SJTU",
                 "repo": "SEATrack",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1032,11 +1032,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-06T00:03:35Z",
+                "last_commit": "2026-11-08T14:46:25Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1048,
+                "stars": 1050,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1256,7 +1256,7 @@
                 "open_issues": 0,
                 "owner": "supertyd",
                 "repo": "XTrack",
-                "stars": 39,
+                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1702,11 +1702,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-06T00:03:35Z",
+                "last_commit": "2026-11-08T14:46:25Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1048,
+                "stars": 1050,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2191,11 +2191,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-06T00:03:35Z",
+                "last_commit": "2026-11-08T14:46:25Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1048,
+                "stars": 1050,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3522,7 +3522,7 @@
                 "open_issues": 9,
                 "owner": "pblatter",
                 "repo": "ettrack",
-                "stars": 101,
+                "stars": 102,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5580,7 +5580,7 @@
                 "open_issues": 0,
                 "owner": "NEU-REAL",
                 "repo": "LTTR",
-                "stars": 22,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5628,7 +5628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:59:01.825Z",
+    "last_updated": "2026-11-08T20:16:21.759Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
