@@ -21,7 +21,7 @@
                 "open_issues": 487,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20122,
+                "stars": 20133,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -42,7 +42,7 @@
                 "open_issues": 24,
                 "owner": "yformer",
                 "repo": "EfficientTAM",
-                "stars": 840,
+                "stars": 842,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -339,7 +339,7 @@
                 "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 7015,
+                "stars": 7016,
                 "topics": [
                   "inpaint-anything",
                   "interactive-tracking",
@@ -367,7 +367,7 @@
                 "open_issues": 41,
                 "owner": "z-x-yang",
                 "repo": "Segment-and-Track-Anything",
-                "stars": 3145,
+                "stars": 3146,
                 "topics": [
                   "interactive-segmentation",
                   "segment-anything",
@@ -704,7 +704,7 @@
                 "open_issues": 1,
                 "owner": "TsingWei",
                 "repo": "MaST",
-                "stars": 10,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-09-02T19:16:47.781Z"
@@ -763,7 +763,7 @@
                 "open_issues": 2,
                 "owner": "IdolLab",
                 "repo": "AnyTrack",
-                "stars": 72,
+                "stars": 73,
                 "topics": []
               },
               "first_seen": "2026-09-02T19:16:47.781Z"
@@ -1459,7 +1459,7 @@
                 "open_issues": 9,
                 "owner": "jiawen-zhu",
                 "repo": "AsymTrack",
-                "stars": 57,
+                "stars": 58,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1809,7 +1809,7 @@
                 "open_issues": 4,
                 "owner": "kangben258",
                 "repo": "HiT",
-                "stars": 63,
+                "stars": 64,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2265,7 +2265,7 @@
                 "open_issues": 20,
                 "owner": "LitingLin",
                 "repo": "LoRAT",
-                "stars": 136,
+                "stars": 137,
                 "topics": [
                   "single-object-tracking",
                   "tracking"
@@ -2673,7 +2673,7 @@
                 "open_issues": 12,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7120,
+                "stars": 7122,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3354,7 +3354,7 @@
                 "open_issues": 4,
                 "owner": "kangben258",
                 "repo": "HiT",
-                "stars": 63,
+                "stars": 64,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3842,7 +3842,7 @@
                 "open_issues": 22,
                 "owner": "TsingWei",
                 "repo": "LiteTrack",
-                "stars": 95,
+                "stars": 96,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4187,7 +4187,7 @@
                 "open_issues": 54,
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 702,
+                "stars": 703,
                 "topics": [
                   "tracking",
                   "transformer"
@@ -5628,7 +5628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T00:00:37.737Z",
+    "last_updated": "2026-11-10T21:41:33.337Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
