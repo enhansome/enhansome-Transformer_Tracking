@@ -21,7 +21,7 @@
                 "open_issues": 487,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20133,
+                "stars": 20138,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -42,7 +42,7 @@
                 "open_issues": 24,
                 "owner": "yformer",
                 "repo": "EfficientTAM",
-                "stars": 842,
+                "stars": 843,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -137,7 +137,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3526,
+                "stars": 3527,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -1032,11 +1032,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-08T14:46:25Z",
+                "last_commit": "2026-11-11T09:35:40Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1050,
+                "stars": 1051,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1702,11 +1702,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-08T14:46:25Z",
+                "last_commit": "2026-11-11T09:35:40Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1050,
+                "stars": 1051,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1727,7 +1727,7 @@
                 "open_issues": 11,
                 "owner": "GXNU-ZhongLab",
                 "repo": "ODTrack",
-                "stars": 194,
+                "stars": 195,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1744,7 +1744,7 @@
                 "id": 662607131,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-03-25T13:13:58Z",
+                "last_commit": "2026-11-11T13:31:47Z",
                 "open_issues": 4,
                 "owner": "Event-AHU",
                 "repo": "EventVOT_Benchmark",
@@ -2022,7 +2022,7 @@
                 "id": 662607131,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-03-25T13:13:58Z",
+                "last_commit": "2026-11-11T13:31:47Z",
                 "open_issues": 4,
                 "owner": "Event-AHU",
                 "repo": "EventVOT_Benchmark",
@@ -2043,27 +2043,6 @@
             },
             {
               "node_type": "item",
-              "title": "AQATrack (Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers) [paper",
-              "description": "GXNU-ZhongLab/AQATrack",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "CVPR24",
-                "homepage": null,
-                "id": 768134810,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2024-08-04T06:04:09Z",
-                "open_issues": 4,
-                "owner": "GXNU-ZhongLab",
-                "repo": "AQATrack",
-                "stars": 73,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:28:14.224Z"
-            },
-            {
-              "node_type": "item",
               "title": "HIPTrack (HIPTrack: Visual Tracking with Historical Prompts) [paper",
               "description": "WenRuiCai/HIPTrack",
               "children": [],
@@ -2078,6 +2057,27 @@
                 "open_issues": 5,
                 "owner": "WenRuiCai",
                 "repo": "HIPTrack",
+                "stars": 74,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:28:14.224Z"
+            },
+            {
+              "node_type": "item",
+              "title": "AQATrack (Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers) [paper",
+              "description": "GXNU-ZhongLab/AQATrack",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "CVPR24",
+                "homepage": null,
+                "id": 768134810,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-08-04T06:04:09Z",
+                "open_issues": 4,
+                "owner": "GXNU-ZhongLab",
+                "repo": "AQATrack",
                 "stars": 73,
                 "topics": []
               },
@@ -2191,11 +2191,11 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-08T14:46:25Z",
+                "last_commit": "2026-11-11T09:35:40Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
-                "stars": 1050,
+                "stars": 1051,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2324,7 +2324,7 @@
                 "open_issues": 11,
                 "owner": "GXNU-ZhongLab",
                 "repo": "ODTrack",
-                "stars": 194,
+                "stars": 195,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2471,7 +2471,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3526,
+                "stars": 3527,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -3954,7 +3954,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3526,
+                "stars": 3527,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -5628,7 +5628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:41:33.337Z",
+    "last_updated": "2026-11-11T22:31:44.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
