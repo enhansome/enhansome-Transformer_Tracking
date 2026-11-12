@@ -18,10 +18,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-30T02:29:40Z",
-                "open_issues": 487,
+                "open_issues": 488,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20138,
+                "stars": 20141,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -339,7 +339,7 @@
                 "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 7016,
+                "stars": 7015,
                 "topics": [
                   "inpaint-anything",
                   "interactive-tracking",
@@ -367,7 +367,7 @@
                 "open_issues": 41,
                 "owner": "z-x-yang",
                 "repo": "Segment-and-Track-Anything",
-                "stars": 3146,
+                "stars": 3147,
                 "topics": [
                   "interactive-segmentation",
                   "segment-anything",
@@ -701,10 +701,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-08-26T09:43:46Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "TsingWei",
                 "repo": "MaST",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-09-02T19:16:47.781Z"
@@ -1057,7 +1057,7 @@
                 "open_issues": 9,
                 "owner": "jovanavidenovic",
                 "repo": "DAM4SAM",
-                "stars": 504,
+                "stars": 505,
                 "topics": [
                   "computer-vision",
                   "object-tracking"
@@ -1102,7 +1102,7 @@
                 "open_issues": 6,
                 "owner": "GXNU-ZhongLab",
                 "repo": "SGLATrack",
-                "stars": 131,
+                "stars": 132,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3284,7 +3284,7 @@
                 "open_issues": 36,
                 "owner": "MCG-NJU",
                 "repo": "MixFormerV2",
-                "stars": 231,
+                "stars": 232,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3796,7 +3796,7 @@
                 "open_issues": 44,
                 "owner": "MCG-NJU",
                 "repo": "MixFormer",
-                "stars": 545,
+                "stars": 546,
                 "topics": [
                   "cvpr2022",
                   "tracking",
@@ -3980,7 +3980,7 @@
                 "open_issues": 44,
                 "owner": "MCG-NJU",
                 "repo": "MixFormer",
-                "stars": 545,
+                "stars": 546,
                 "topics": [
                   "cvpr2022",
                   "tracking",
@@ -5628,7 +5628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T22:31:44.869Z",
+    "last_updated": "2026-11-12T22:07:30.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
