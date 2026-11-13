@@ -18,10 +18,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-30T02:29:40Z",
-                "open_issues": 488,
+                "open_issues": 487,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20141,
+                "stars": 20147,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -339,7 +339,7 @@
                 "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 7015,
+                "stars": 7016,
                 "topics": [
                   "inpaint-anything",
                   "interactive-tracking",
@@ -494,7 +494,7 @@
                 "open_issues": 5,
                 "owner": "IdolLab",
                 "repo": "RAGTrack",
-                "stars": 234,
+                "stars": 233,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -515,7 +515,7 @@
                 "open_issues": 4,
                 "owner": "kangben258",
                 "repo": "UETrack",
-                "stars": 56,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -815,7 +815,7 @@
                 "id": 1021929453,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-17T10:02:32Z",
+                "last_commit": "2026-11-13T14:26:56Z",
                 "open_issues": 1,
                 "owner": "Event-AHU",
                 "repo": "OpenEvTracking",
@@ -836,7 +836,7 @@
                 "id": 1021929453,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-17T10:02:32Z",
+                "last_commit": "2026-11-13T14:26:56Z",
                 "open_issues": 1,
                 "owner": "Event-AHU",
                 "repo": "OpenEvTracking",
@@ -857,7 +857,7 @@
                 "id": 1021929453,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-17T10:02:32Z",
+                "last_commit": "2026-11-13T14:26:56Z",
                 "open_issues": 1,
                 "owner": "Event-AHU",
                 "repo": "OpenEvTracking",
@@ -1375,7 +1375,7 @@
                 "open_issues": 3,
                 "owner": "IdolLab",
                 "repo": "CADTrack",
-                "stars": 213,
+                "stars": 212,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3079,7 +3079,7 @@
                 "open_issues": 6,
                 "owner": "SwinTransformer",
                 "repo": "MIM-Depth-Estimation",
-                "stars": 176,
+                "stars": 177,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5628,7 +5628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:07:30.732Z",
+    "last_updated": "2026-11-13T21:49:59.495Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
