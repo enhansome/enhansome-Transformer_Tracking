@@ -137,7 +137,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3527,
+                "stars": 3528,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -339,7 +339,7 @@
                 "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 7016,
+                "stars": 7015,
                 "topics": [
                   "inpaint-anything",
                   "interactive-tracking",
@@ -599,7 +599,7 @@
                 "open_issues": 2,
                 "owner": "NorahGreen",
                 "repo": "DTPTrack",
-                "stars": 19,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -759,7 +759,7 @@
                 "id": 1306150973,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-07T00:17:50Z",
+                "last_commit": "2026-11-14T13:53:08Z",
                 "open_issues": 2,
                 "owner": "IdolLab",
                 "repo": "AnyTrack",
@@ -1008,7 +1008,7 @@
                 "open_issues": 1,
                 "owner": "xuboyue1999",
                 "repo": "VL-UniTrack",
-                "stars": 0,
+                "stars": 1,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1165,7 +1165,7 @@
                 "open_issues": 8,
                 "owner": "WenRuiCai",
                 "repo": "SPMTrack",
-                "stars": 65,
+                "stars": 67,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2471,7 +2471,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3527,
+                "stars": 3528,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -3284,7 +3284,7 @@
                 "open_issues": 36,
                 "owner": "MCG-NJU",
                 "repo": "MixFormerV2",
-                "stars": 232,
+                "stars": 233,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3954,7 +3954,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3527,
+                "stars": 3528,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -4360,7 +4360,7 @@
                 "open_issues": 38,
                 "owner": "JudasDie",
                 "repo": "SOTS",
-                "stars": 518,
+                "stars": 519,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4721,7 +4721,7 @@
                 "open_issues": 60,
                 "owner": "chenxin-dlut",
                 "repo": "TransT",
-                "stars": 637,
+                "stars": 638,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4835,7 +4835,7 @@
                 "open_issues": 38,
                 "owner": "JudasDie",
                 "repo": "SOTS",
-                "stars": 518,
+                "stars": 519,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5628,7 +5628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T21:49:59.495Z",
+    "last_updated": "2026-11-14T20:29:42.059Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
