@@ -21,7 +21,7 @@
                 "open_issues": 487,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20147,
+                "stars": 20153,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -367,7 +367,7 @@
                 "open_issues": 41,
                 "owner": "z-x-yang",
                 "repo": "Segment-and-Track-Anything",
-                "stars": 3147,
+                "stars": 3148,
                 "topics": [
                   "interactive-segmentation",
                   "segment-anything",
@@ -2670,7 +2670,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-03-18T20:49:46Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "yangchris11",
                 "repo": "samurai",
                 "stars": 7122,
@@ -4596,7 +4596,7 @@
                 "open_issues": 7,
                 "owner": "Event-AHU",
                 "repo": "COESOT",
-                "stars": 84,
+                "stars": 85,
                 "topics": [
                   "benchmark-dataset",
                   "coesot",
@@ -5628,7 +5628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T20:29:42.059Z",
+    "last_updated": "2026-11-15T20:53:24.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
