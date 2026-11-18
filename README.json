@@ -21,7 +21,7 @@
                 "open_issues": 488,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20176,
+                "stars": 20186,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -339,7 +339,7 @@
                 "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 7014,
+                "stars": 7013,
                 "topics": [
                   "inpaint-anything",
                   "interactive-tracking",
@@ -494,7 +494,7 @@
                 "open_issues": 5,
                 "owner": "IdolLab",
                 "repo": "RAGTrack",
-                "stars": 234,
+                "stars": 233,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1057,7 +1057,7 @@
                 "open_issues": 9,
                 "owner": "jovanavidenovic",
                 "repo": "DAM4SAM",
-                "stars": 505,
+                "stars": 506,
                 "topics": [
                   "computer-vision",
                   "object-tracking"
@@ -1326,7 +1326,7 @@
                 "open_issues": 5,
                 "owner": "XiaokunFeng",
                 "repo": "CSTrack",
-                "stars": 111,
+                "stars": 110,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2005,7 +2005,7 @@
                 "open_issues": 9,
                 "owner": "MIV-XJTU",
                 "repo": "ARTrack",
-                "stars": 323,
+                "stars": 324,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2673,7 +2673,7 @@
                 "open_issues": 13,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7124,
+                "stars": 7123,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3058,7 +3058,7 @@
                 "open_issues": 9,
                 "owner": "MIV-XJTU",
                 "repo": "ARTrack",
-                "stars": 323,
+                "stars": 324,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3284,7 +3284,7 @@
                 "open_issues": 36,
                 "owner": "MCG-NJU",
                 "repo": "MixFormerV2",
-                "stars": 233,
+                "stars": 234,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5628,7 +5628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:23:39.653Z",
+    "last_updated": "2026-11-18T22:52:20.194Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
