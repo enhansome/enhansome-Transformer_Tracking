@@ -21,7 +21,7 @@
                 "open_issues": 488,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20186,
+                "stars": 20191,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -137,7 +137,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3528,
+                "stars": 3527,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -339,7 +339,7 @@
                 "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 7013,
+                "stars": 7014,
                 "topics": [
                   "inpaint-anything",
                   "interactive-tracking",
@@ -494,7 +494,7 @@
                 "open_issues": 5,
                 "owner": "IdolLab",
                 "repo": "RAGTrack",
-                "stars": 233,
+                "stars": 232,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -763,7 +763,7 @@
                 "open_issues": 2,
                 "owner": "IdolLab",
                 "repo": "AnyTrack",
-                "stars": 75,
+                "stars": 76,
                 "topics": []
               },
               "first_seen": "2026-09-02T19:16:47.781Z"
@@ -1057,7 +1057,7 @@
                 "open_issues": 9,
                 "owner": "jovanavidenovic",
                 "repo": "DAM4SAM",
-                "stars": 506,
+                "stars": 507,
                 "topics": [
                   "computer-vision",
                   "object-tracking"
@@ -1779,7 +1779,7 @@
                 "open_issues": 0,
                 "owner": "Wangbiao2",
                 "repo": "R1-Track",
-                "stars": 67,
+                "stars": 68,
                 "topics": [
                   "deep-reinforcement-learning",
                   "grpo",
@@ -2471,7 +2471,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3528,
+                "stars": 3527,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -3954,7 +3954,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3528,
+                "stars": 3527,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -5628,7 +5628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:52:20.194Z",
+    "last_updated": "2026-11-19T22:56:57.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
