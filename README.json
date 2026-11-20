@@ -21,7 +21,7 @@
                 "open_issues": 488,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20191,
+                "stars": 20193,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -204,7 +204,7 @@
                 "open_issues": 47,
                 "owner": "FoundationVision",
                 "repo": "GLEE",
-                "stars": 1168,
+                "stars": 1169,
                 "topics": [
                   "foundation-model",
                   "interactive-segmentation",
@@ -1235,7 +1235,7 @@
                 "open_issues": 3,
                 "owner": "Z-Z188",
                 "repo": "UMDATrack",
-                "stars": 45,
+                "stars": 46,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1809,7 +1809,7 @@
                 "open_issues": 4,
                 "owner": "kangben258",
                 "repo": "HiT",
-                "stars": 65,
+                "stars": 66,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2265,7 +2265,7 @@
                 "open_issues": 20,
                 "owner": "LitingLin",
                 "repo": "LoRAT",
-                "stars": 137,
+                "stars": 138,
                 "topics": [
                   "single-object-tracking",
                   "tracking"
@@ -2673,7 +2673,7 @@
                 "open_issues": 13,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7123,
+                "stars": 7124,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3354,7 +3354,7 @@
                 "open_issues": 4,
                 "owner": "kangben258",
                 "repo": "HiT",
-                "stars": 65,
+                "stars": 66,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3607,7 +3607,7 @@
                 "open_issues": 0,
                 "owner": "vision4robotics",
                 "repo": "ClimRT",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3821,7 +3821,7 @@
                 "open_issues": 9,
                 "owner": "vision4robotics",
                 "repo": "TCTrack",
-                "stars": 205,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4005,7 +4005,7 @@
                 "open_issues": 9,
                 "owner": "vision4robotics",
                 "repo": "TCTrack",
-                "stars": 205,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -5628,7 +5628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:56:57.400Z",
+    "last_updated": "2026-11-20T22:31:48.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
