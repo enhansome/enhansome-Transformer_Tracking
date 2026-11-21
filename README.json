@@ -18,10 +18,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-30T02:29:40Z",
-                "open_issues": 488,
+                "open_issues": 490,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20193,
+                "stars": 20205,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -339,7 +339,7 @@
                 "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 7014,
+                "stars": 7015,
                 "topics": [
                   "inpaint-anything",
                   "interactive-tracking",
@@ -1032,7 +1032,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-11T09:35:40Z",
+                "last_commit": "2026-11-21T08:24:53Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -1102,7 +1102,7 @@
                 "open_issues": 6,
                 "owner": "GXNU-ZhongLab",
                 "repo": "SGLATrack",
-                "stars": 132,
+                "stars": 133,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1396,7 +1396,7 @@
                 "open_issues": 12,
                 "owner": "chenxin-dlut",
                 "repo": "SUTrack",
-                "stars": 171,
+                "stars": 172,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1702,7 +1702,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-11T09:35:40Z",
+                "last_commit": "2026-11-21T08:24:53Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -2191,7 +2191,7 @@
                 "id": 802742044,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-11T09:35:40Z",
+                "last_commit": "2026-11-21T08:24:53Z",
                 "open_issues": 0,
                 "owner": "983632847",
                 "repo": "Awesome-Multimodal-Object-Tracking",
@@ -2265,7 +2265,7 @@
                 "open_issues": 20,
                 "owner": "LitingLin",
                 "repo": "LoRAT",
-                "stars": 138,
+                "stars": 139,
                 "topics": [
                   "single-object-tracking",
                   "tracking"
@@ -2673,7 +2673,7 @@
                 "open_issues": 13,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7124,
+                "stars": 7123,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3842,7 +3842,7 @@
                 "open_issues": 22,
                 "owner": "TsingWei",
                 "repo": "LiteTrack",
-                "stars": 96,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4187,7 +4187,7 @@
                 "open_issues": 54,
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 705,
+                "stars": 706,
                 "topics": [
                   "tracking",
                   "transformer"
@@ -5628,7 +5628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:31:48.928Z",
+    "last_updated": "2026-11-21T21:29:52.005Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
