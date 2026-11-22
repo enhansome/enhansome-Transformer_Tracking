@@ -21,7 +21,7 @@
                 "open_issues": 490,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20205,
+                "stars": 20211,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1144,7 +1144,7 @@
                 "open_issues": 9,
                 "owner": "q2479036243",
                 "repo": "MUST-Multispectral-UAV-Single-Object-Tracking",
-                "stars": 78,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1438,7 +1438,7 @@
                 "open_issues": 7,
                 "owner": "NJU-PCALab",
                 "repo": "STTrack",
-                "stars": 120,
+                "stars": 119,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2838,7 +2838,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-07-08T09:20:46Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "Alexadlu",
                 "repo": "AFter",
                 "stars": 17,
@@ -5628,7 +5628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T21:29:52.005Z",
+    "last_updated": "2026-11-22T21:36:53.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
