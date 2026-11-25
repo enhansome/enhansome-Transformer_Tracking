@@ -21,7 +21,7 @@
                 "open_issues": 490,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20216,
+                "stars": 20220,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -204,7 +204,7 @@
                 "open_issues": 47,
                 "owner": "FoundationVision",
                 "repo": "GLEE",
-                "stars": 1169,
+                "stars": 1168,
                 "topics": [
                   "foundation-model",
                   "interactive-segmentation",
@@ -339,7 +339,7 @@
                 "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 7014,
+                "stars": 7015,
                 "topics": [
                   "inpaint-anything",
                   "interactive-tracking",
@@ -1123,7 +1123,7 @@
                 "open_issues": 8,
                 "owner": "wuyou3474",
                 "repo": "ORTrack",
-                "stars": 131,
+                "stars": 132,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -1214,7 +1214,7 @@
                 "open_issues": 7,
                 "owner": "XiaokunFeng",
                 "repo": "ATCTrack",
-                "stars": 118,
+                "stars": 119,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -2366,7 +2366,7 @@
                 "open_issues": 4,
                 "owner": "OpenSpaceAI",
                 "repo": "UVLTrack",
-                "stars": 53,
+                "stars": 54,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3016,7 +3016,7 @@
                 "open_issues": 32,
                 "owner": "microsoft",
                 "repo": "VideoX",
-                "stars": 1071,
+                "stars": 1072,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -4187,7 +4187,7 @@
                 "open_issues": 54,
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 706,
+                "stars": 707,
                 "topics": [
                   "tracking",
                   "transformer"
@@ -5628,7 +5628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T02:47:08.861Z",
+    "last_updated": "2026-11-25T00:26:26.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
