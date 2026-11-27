@@ -21,7 +21,7 @@
                 "open_issues": 491,
                 "owner": "facebookresearch",
                 "repo": "sam2",
-                "stars": 20249,
+                "stars": 20248,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -70,7 +70,7 @@
                 "open_issues": 1,
                 "owner": "Little-Podi",
                 "repo": "AiATrack",
-                "stars": 127,
+                "stars": 128,
                 "topics": [
                   "attention-mechanism",
                   "eccv2022",
@@ -137,7 +137,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3527,
+                "stars": 3528,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -339,7 +339,7 @@
                 "open_issues": 114,
                 "owner": "gaomingqi",
                 "repo": "Track-Anything",
-                "stars": 7015,
+                "stars": 7014,
                 "topics": [
                   "inpaint-anything",
                   "interactive-tracking",
@@ -1057,7 +1057,7 @@
                 "open_issues": 9,
                 "owner": "jovanavidenovic",
                 "repo": "DAM4SAM",
-                "stars": 507,
+                "stars": 508,
                 "topics": [
                   "computer-vision",
                   "object-tracking"
@@ -2471,7 +2471,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3527,
+                "stars": 3528,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -2673,7 +2673,7 @@
                 "open_issues": 13,
                 "owner": "yangchris11",
                 "repo": "samurai",
-                "stars": 7127,
+                "stars": 7128,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:28:14.224Z"
@@ -3954,7 +3954,7 @@
                 "open_issues": 82,
                 "owner": "visionml",
                 "repo": "pytracking",
-                "stars": 3527,
+                "stars": 3528,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -4211,7 +4211,7 @@
                 "open_issues": 1,
                 "owner": "Little-Podi",
                 "repo": "AiATrack",
-                "stars": 127,
+                "stars": 128,
                 "topics": [
                   "attention-mechanism",
                   "eccv2022",
@@ -5628,7 +5628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T00:23:14.786Z",
+    "last_updated": "2026-11-27T23:56:23.843Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of Transformer-related approaches in visual tracking tasks.",
